@@ -1,0 +1,890 @@
+id,audio_path,text,speaker_id,duration
+tr_000006,audio/transcribed/tr_000006.wav,Rose nɔ gbídí ɖó asá tɔn lɛ́ɛ jí ami e blǒ nú kɛ́nkúntínma.,JML_S154,7.56
+tr_000019,audio/transcribed/tr_000019.wav,Jixwé nɔ́ dó ablu hwɛ̌ cóbɔ jǐ nɔ́ wá ja gbadanu.,JML_S408,5.52
+tr_000021,audio/transcribed/tr_000021.wav,Kokló nɔ kwásí zǎnzǎn tɛgbɛ hwɛcó bɔ hwesivɔ nɔ nyí tíntɔ́n tɔ́.,JML_S303,5.52
+tr_000034,audio/transcribed/tr_000034.wav,Mǐ nɔ́ nu sin zozo ɖokpó ɖo gbada gan tántɔn mɛ gúdo.,JML_S408,5.52
+tr_000035,audio/transcribed/tr_000035.wav,Mǐ nɔ́ yi glemɛ ɖo zǎnzǎn tɛɛn lɛ́ɛ samedi lɛ́ɛ bǐ.,JML_S131,5.76
+tr_000038,audio/transcribed/tr_000038.wav,Mɔ̌to gaga mɛbɛtɔ́ ɔ́ é gosín Káláví bó xweyǐgbe kútɔnú ɖo gan ayizɛ́n zǎnzǎn tɔn mɛ.,JML_S154,8.34
+tr_000044,audio/transcribed/tr_000044.wav,"Siká ɖu nǔ sín sɔ ǎ, ɖó adɔgo tɔn ɖo vǐvɛ́ n'i wɛ tawun.",JML_S154,7.2
+tr_000056,audio/transcribed/tr_000056.wav,Un mɔ jɔmɛhún ɖaxó ɖokpó ɖo te ɖo fí e yě nɔ́ nɔ é.,JML_S408,5.7
+tr_000070,audio/transcribed/tr_000070.wav,Xwéfá ɖɔ é kún sɔ́ jló émí nú émí ná bló Sport ó.,JML_S408,6.54
+tr_000073,audio/transcribed/tr_000073.wav,Yě ɖó ná ɖ'alɔ wěma lɛ́ɛ mɛ sɔ nyɔ̌nuzángbe cóbɔ é ná xo gan ɖokpó zǎnzǎn tɔn.,JML_S154,8.34
+tr_000081,audio/transcribed/tr_000081.wav,Mariam ɖo kikanbyɔ́ wɛ ɖɔ émí hɛn ɔ́ émí ná sá alǐnmi nú vǐ émítɔn a jí?,JML_S408,6.24
+tr_000088,audio/transcribed/tr_000088.wav,Alǒkan nɛ́ kpódó caki atɔ́ɔ́n kpódó caki ɖokpó kpó nɛ́.,JML_S372,5.82
+tr_000100,audio/transcribed/tr_000100.wav,Dotóo ɔ́ nɔ́ yí azinzɔnnɔ lɛ́ɛ ɖo zǎnzǎn gan tántɔn mɛ.,JML_S408,5.22
+tr_000102,audio/transcribed/tr_000102.wav,Dín zɛ gan we afɔtɔn gúdo ɔ́ mi ma sɔ́ nɔ ɖu nǔ ó ɖó mi sɔ́ ná mɔ amlɔ zǎnmɛ bó ná dɔ́ ǎ.,JML_S396,9.78
+tr_000103,audio/transcribed/tr_000103.wav,E ló a? Nɛ̌ a ka bló gbɔn?,JML_S095,7.44
+tr_000110,audio/transcribed/tr_000110.wav,"Fínɛ din ɔ́, Dantɔkpá ɔ́ sín niveau ɖokpó wɛ nyí fínɛ́. Ɛɛn Dantɔkpá fí e è nɔ xɔ awu lɛ́ɛ ɖe bo nɔ xɔ nǔ lɛ́ɛ bǐ sésé ɖe ɔ́, axi ɖaxó ɔ́ nɛ́.",JML_S396,9.96
+tr_000113,audio/transcribed/tr_000113.wav,Gbɔjɛ́tɛn ɖaxó nukún ɖ'é jí Benɛ́ɛto tɔn é è nɔ ylɔ́ ɖɔ Azalaï é.,JML_S358,5.7
+tr_000114,audio/transcribed/tr_000114.wav,Gbɛ̌kwɛ́ e hwɛndo ɔ́ nɔ́ ná ɖ'ayǐ wɛ zɔ́n bɔ ɔ azɔ̌mɛkwɛ́ súsú vǐ lɛ́ɛ tɔn nɔ́ wá bɔwǔ.,JML_S358,5.82
+tr_000115,audio/transcribed/tr_000115.wav,"Go élɔ lɛ́ɛ ɔ́ jánmɔ wɛ ɖ'é mɛ mɛ, é nɔ zán bo nɔ sá dó pain mɛ.",JML_S396,6.24
+tr_000132,audio/transcribed/tr_000132.wav,"Mǐ mɔ nɔtɛn ɖokpó, nɔtɛn élɔ́ é nyɔ́ kpɔ́n tawun bɔ é jɛ́ xá ɖɔ xá mǐtɔn mɛ ɖésú ɔ́ è nǎ wa bló xɔ mɔ̌hunkɔtɔn, é nyɔ́ ɖɛkpɛ tawun bɔ gbɛtɔ́ lɛ́ɛ ɖ'é mɛ.",JML_S514,11.4
+tr_000138,audio/transcribed/tr_000138.wav,Mǐ ná mɔ mǐɖée hweɖévonu. A nǎ lɛ́ kɔ yi xwé ganjí a se a.,JML_S146,5.22
+tr_000141,audio/transcribed/tr_000141.wav,Mǐ nɔ́ dó hǔn ɖé è nɔ ylɔ́ ɖɔ tɔkpá tɔkpá é ɖó tɛníígbe zǎnzǎn tɛɛn.,JML_S358,5.58
+tr_000144,audio/transcribed/tr_000144.wav,Mɔ̌likún ɖiɖa bɔ è sɔ́ slɔ́ gannú mɛ bɔ macaronie ɖ'é kpá kpó lan kpó mǎ kpó.,JML_S358,7.98
+tr_000151,audio/transcribed/tr_000151.wav,"Nyɔ̌nu lɛ́ɛ ɔ, yě nɔ xo yě ɖé kplé zǎnzǎn tɛgbɛ bó nɔ ɖɔ xó.",JML_S154,5.82
+tr_000157,audio/transcribed/tr_000157.wav,"Ní ɖɔ zan gbɛ́ kó kú tlóló ɔ́, toxo ɔ́ bǐ nɔ́ wá ɖiɖɛ̌ ɖéɖéɖé.",JML_S358,5.52
+tr_000166,audio/transcribed/tr_000166.wav,"Nɔtɛn élɔ́ ɔ, nɔtɛn tawun wɛ bɔ è nɔ yi akɔwé gǎn gǎn lɛ́ɛ ɖo fí bɔ yě nɔ́ wá yí wěma yětɔn ɖo fí bó nɔ gbɔjɛ́ bó nɔ cí nɔtɛn ɔ́. Yě wá wěma yí gbe.",JML_S514,11.1
+tr_000167,audio/transcribed/tr_000167.wav,Nɛ̌ a fɔ́n gbɔn nɔví? Un wá gbɔn fí bó ná dó gbe we kpowun cóbó ná bɛ́ nǔwiwa ce lɛ́ɛ.,JML_S154,7.44
+tr_000169,audio/transcribed/tr_000169.wav,"Súkle e ɖo lan ce mɛ ɔ́, wěwe wɛ è ɖɔ. É sukpɔ́ dín wɛ a?",JML_S408,6.06
+tr_000193,audio/transcribed/tr_000193.wav,Un mɔ nǎwe xóxó ɖokpó kpódó vǐ kpɛvi kpɛvi atɔn é lɛ́ɛ bɔ yě jínjɔ́n ayi ɖo xɔkpá.,JML_S408,6.06
+tr_000194,audio/transcribed/tr_000194.wav,Un mɔ nǎwe ɖokpɔ e ɖo wǒ dan wɛ bo ɖo kínkán sín ado jí wɛ.,JML_S408,5.46
+tr_000202,audio/transcribed/tr_000202.wav,Un nɔ zɛn kɛ́n bó nɔ hú sin ní atínma lɛ́ɛ zǎnzǎn lɛ́ɛ bǐ ɖo gan ayizɛ́n mɛ.,JML_S154,6.06
+tr_000213,audio/transcribed/tr_000213.wav,"Xwetaxwe ɔ́, é nɔ́ kplé hansinnɔ lɛ́ɛ weɖútɔ lɛ́ɛ yě mɛ e nyɔ́ nǔ gěgé bló lɛ́ɛ kplé.",JML_S408,7.86
+tr_000216,audio/transcribed/tr_000216.wav,"Xwéfá kanbyɔ́ ɖɔ émi hɛn ɔ́, émi ná nu atínkɛnkwín para ɖo zǎn élɔ́ mɛ a?",JML_S154,7.08
+tr_000237,audio/transcribed/tr_000237.wav,Ɖiɖe élɔ xlɛ́ xɔ ɖé bɔ é blǒ ní kpá mɛ bɔ mǐ wá mɔ jɔwunjɔja ɖokpó bɔ é ɖo wě jí lobo hɛn alǎgánnu ɖó ta bó hɛn nú alɔ ɖokpó.,JML_S154,11.64
+tr_000246,audio/transcribed/tr_000246.wav,"Ɖě un wɔn bo ma nu amasin ce sɔ ǎ, é ná zɔ́n bɔ tension ce ná yi aga a?",JML_S408,6.24
+tr_000247,audio/transcribed/tr_000247.wav,Ɖě é ɖo ayihún ɔ́ dá wɛ ɔ́ é wá gba carreaux flecé ɔ́ tɔn lɛ́ɛ.,JML_S358,6.0
+tr_000257,audio/transcribed/tr_000257.wav,A ɖo fínɛ́ sín gan nabí mɛ un ka mɔ we ɖ'ayǐ ǎ mɛ.,JML_S303,5.52
+tr_000259,audio/transcribed/tr_000259.wav,"A hɛn ɔ́, a nǎ gɔ́ alɔ nú mì bɔ nǎ sɛ́ kwɛ́ dó mɛ ɖo alǒkanmaɖósíké jí a?",JML_S408,6.36
+tr_000277,audio/transcribed/tr_000277.wav,"Aximɛ mɛ wɛ un wá égbe bó ɖo nǔ sa wɛ, gbadé kpódó nǔ lɛ́ɛ tɛnmɛ tɛnmɛ kpó. Axi ɔ́ é jɛ ganjí.",JML_S284,9.3
+tr_000296,audio/transcribed/tr_000296.wav,Fítɛ́ ká nɔ́ vɛ́ nú mi ɖ'é mɛ? Wǔtú mi tɔn ɔ́ fí tɛ́ lɛ́ɛ wɛ è zě alɔ dó ɔ́ é nɔ́ vɛ́ nú mi? A ni wɛ ɖo mi wa wɛ ɖo lanmɛ wɛ?,JML_S146,8.46
+tr_000298,audio/transcribed/tr_000298.wav,Ganxixo nabí mɔ̌ wɛ è ka na sɔ́ bó ná sixú mɔtɛn bo ɖa ayikún ná?,JML_S146,6.12
+tr_000318,audio/transcribed/tr_000318.wav,Kɛmi ná yi kplɔ́n nǔ ɖo Canada. É ná ɖidó ɖo sɛgbla e jǎwe ɔ́ mɛ.,JML_S542,7.32
+tr_000326,audio/transcribed/tr_000326.wav,"Mǐ mɔ asyá ɖokpó ɖo aga, asyá élɔ nyɔ́ kpɔ́n tawun bó ɖó sinmɛ fɛ́sin, bó ɖó vɔvɔ tɔn, bɔ nǔ ɖě ɖo tɛ́ntín tɔn.",JML_S514,9.36
+tr_000341,audio/transcribed/tr_000341.wav,"Nǎwe ɖokpó ɖíe bo hɛn goude tɔn bo já hun, ɖo alɔ tɔn mɛ ɔ́ o fiançaille sín bǎgue ɖ'é ji bɔ é dó vernus vɔvɔ ɖó alɔ tɔn ví lɛ́ɛ jí.",JML_S156,14.4
+tr_000353,audio/transcribed/tr_000353.wav,"Nǔ ɖě un xɔ ɔ́, nǎ sú akwɛ́ ɔ́ kpódó carte kpó. Mi yí carte ce bo ɖe kwɛ́ ɔ́ sín mɛ.",JML_S456,5.82
+tr_000366,audio/transcribed/tr_000366.wav,"Sa ɖi wɛ un ɖe bó wá yi tɔ́n dó mɔ̌to élɔ lɛ́ɛ jí, fí e un ka tɔ́n dó ɔ́, fí e è nɔ gán mɔ̌to dó ɔ́ wɛ mɔ̌to lɛ́ɛ sukpɔ́ káká bɔ è sixú ɖɔ ǎ.",JML_S146,8.22
+tr_000378,audio/transcribed/tr_000378.wav,Un jló ná ba do kpɔ́n ná bó ná yi tunwun akwɛ́ nabí é kpo ɖo alǒkanmaɖósíké cé sín gbǎ ɔ mɛ. Nɛ̌ wɛ un ka sixú bló gbɔn din?,JML_S021,9.54
+tr_000386,audio/transcribed/tr_000386.wav,Un mɔ axijijɛ ɖaxó ɖokpó bɔ gbɛtɔ́ lɛ́ɛ sukpɔ́ ɖ'é mɛ tawun kpó nǔsísa yětɔn lɛ́ɛ kpán.,JML_S514,8.82
+tr_000387,audio/transcribed/tr_000387.wav,Un mɔ azɔ̌mɛví ɖokpó bɔ é kplá sáki tɔn dó nɛgbé bɔ mɛ we ɖěvo lɛ́ɛ ka ɖo te bo ɖo xó ɖɔ́ wɛ.,JML_S408,7.5
+tr_000398,audio/transcribed/tr_000398.wav,Un mɔ tɔsisa ɖokpó bɔ tɔjíhún ɖo akpá tɔn. Mɛ lɛ́ɛ ka hɛn bidon wá bó wá ɖo sin dun ɖ'é mɛ wɛ.,JML_S408,6.54
+tr_000403,audio/transcribed/tr_000403.wav,"Un mɔ ɖɔ titomɛ mitɔn ayǐhínhɔ́n mɛ élɔ mɛ tɔn ɔ́, é syɛ́n dín ǎ mɛ.",JML_S514,8.04
+tr_000407,audio/transcribed/tr_000407.wav,Un nɔ lɛ wǔ có nɔ yi azɔ̌ jí zǎnzǎn lɛ́ɛ bǐ.,JML_S542,5.94
+tr_000417,audio/transcribed/tr_000417.wav,Vodún e è nɔ ylɔ́ ɖɔ gɛlɛdɛ̌ ɔ́ ayɔtomɛ mɛ wɛ é gosín.,JML_S303,5.4
+tr_000438,audio/transcribed/tr_000438.wav,"Zǎn gan ɛnɛ lɛ́ɛ bǐ mɛ ɔ́, dotóo lɛ́ɛ nɔ yi kpɔ́n azinzɔnnɔ yětɔn lɛ́ɛ.",JML_S408,7.5
+tr_000447,audio/transcribed/tr_000447.wav,É jɛ xá ɖɔ è na nɔ́ dó amasin nukún jí gbadanu lɛ́ɛ tɛgbɛ gan tántɔn.,JML_S408,5.94
+tr_000467,audio/transcribed/tr_000467.wav,Ɖo fínɛ din ɔ́ mǐ mɔ vǐ súnnuví ɛnɛ bɔ yě hɛn kɔ́nkɔn ɖó alɔmɛ.,JML_S451,7.86
+tr_000487,audio/transcribed/tr_000487.wav,Boutique ɖě ɖo quartier ɔ́ nɔ́ hun hɔn azǎn lɛ́ɛ bǐ gbe bɛ́sín gan tántɔn mɛ.,JML_S278,5.58
+tr_000493,audio/transcribed/tr_000493.wav,"Camionɖaxó ɖaxó lɛ́ɛ nɔ́ gbɔn toxo ɔ́ mɛ zǎnmɛ lɛ́ɛ, hwenu e mɛ sukpɔ́ má sɔ́ ɖo ali jí ǎ é.",JML_S278,6.54
+tr_000499,audio/transcribed/tr_000499.wav,Corona virus sín hwenu wɛ bɔ nǎjinɔ ɖokpó wá ɖotóxwé bɔ mɛ e ɖo kpínkpɔ́n ɔ́ wɛ ɔ́ kpó e kpó dó cache-nez.,JML_S278,6.18
+tr_000509,audio/transcribed/tr_000509.wav,"Jardin kpó ɔ́ mɛ dɔ̌n, nɔ́ ná mǎ nǎ dó gɔ́ alɔ nú famille lɛ́ɛ.",JML_S452,5.28
+tr_000523,audio/transcribed/tr_000523.wav,"Papa mǐtɔn ɖě nɔ nyi hweví ɔ́, é yɛ wɛ ɖo ɖɔ lankpan lankpan bló wɛ ɖo sin ɔ́ sín nukɔn.",JML_S396,7.86
+tr_000527,audio/transcribed/tr_000527.wav,Pharmacie lɛ́ɛ nɔ́ sú boutique tɔn sín hɔn gbadanu lɛ́ɛ gan tántɔn mɛ.,JML_S278,5.52
+tr_000528,audio/transcribed/tr_000528.wav,"Photographe sín azɔ̌ ɔ́ azɔ̌ ɖagbe wɛ, é jló mì nú má kplɔ́n.",JML_S303,6.54
+tr_000535,audio/transcribed/tr_000535.wav,Rodrigue sín nɔ ɔ́ é nɔ́ ɖa amasin nú yɔkpɔ́ví é gbɔn sɛkan ɔ́ mɛ lɛ́ɛ bǐ.,JML_S514,7.86
+tr_000537,audio/transcribed/tr_000537.wav,Rose nɔ zán ami ɖěe blǒ kpó kɛ́nkúntín sín ama lɛ́ɛ kpó ɔ́ ɖó afɔ tɔn jí.,JML_S361,9.84
+tr_000540,audio/transcribed/tr_000540.wav,UBA ná cadeau mɛ élɔ lɛ́ɛ ɔ́ bɔ é víví nú yě tawun.,JML_S412,5.52
+tr_000565,audio/transcribed/tr_000565.wav,Amélie bɛ́ zozo ɖě é lɛ́ kɔ sín tɔkpá sín aximɛ ɔ́.,JML_S408,6.0
+tr_000568,audio/transcribed/tr_000568.wav,Ananas élɔ kpódó kpɛn élɔ kpó ɔ́ yě vɛ́sin dín.,JML_S408,6.06
+tr_000580,audio/transcribed/tr_000580.wav,Aoǔt ɔ́ sun e mɛ è nɔ yí vacances ɖaxó lɛ́ɛ ɔ́ wɛ ɖó mɛ bǐ nɔ ko fó azɔ̌mɛ.,JML_S278,5.52
+tr_000596,audio/transcribed/tr_000596.wav,Armin nɔ yi amǐsa lobo nɔ xa yɛhwe ayǐ é ná hɔ́n ɔ́ bǐ.,JML_S154,6.18
+tr_000597,audio/transcribed/tr_000597.wav,Armin nɔ yi amǐsa lobo nɔ yi xo ɖɛ hwebǐnu.,JML_S408,5.4
+tr_000614,audio/transcribed/tr_000614.wav,Avocat hwenu wɛ wá a? Ɛɛn mi hɛn ɖě wa nú mì.,JML_S372,5.7
+tr_000616,audio/transcribed/tr_000616.wav,"Avocat lɛ́ɛ nyɔ́ ɖɛkpɛ bó ko ɖo mya myá wɛ, é ka tɛ vɛ́ axi ǎ.",JML_S372,6.66
+tr_000621,audio/transcribed/tr_000621.wav,Avocat nɔ mí sa kpɛɖé a? Mi kpɔ́n ɖě myá bɔ un hɛn ɔ́ nǎ si ɖu égbe din ɔ́ bo sa atɔn nú mì.,JML_S247,8.52
+tr_000622,audio/transcribed/tr_000622.wav,Avocat sín hwenu wɛ mǐ ɖe a? Nú hwenu yětɔn wɛ mǐ ɖe hun hɛn kpɛɖé wa nú mì.,JML_S278,5.4
+tr_000625,audio/transcribed/tr_000625.wav,"Avocat sín temps mɛ mǐ ɖe, ɛɛn mi hɛn ɖé lɛ́ɛ wá nú mǐ mǐ ní kpɔ́n.",JML_S397,7.62
+tr_000647,audio/transcribed/tr_000647.wav,Avocat ɛnɛ wɛ ɖo tavo ɔ́ jí bɔ è sɔ́ ɖokpó bo sɛ́n dó we.,JML_S358,5.64
+tr_000655,audio/transcribed/tr_000655.wav,"Baké sín grand papa yi grand Popo sɛ ɖě w'ayi ɔ́ mɛ, Sɔ ɖě e jǎwe ɔ́ wɛ é ná lɛ́ kɔ wá.",JML_S358,6.48
+tr_000661,audio/transcribed/tr_000661.wav,"Baké sín ɖaagbó ɔ́, é yi Grand Popo sɛgbla e wáyi ɔ́ mɛ, é ná lɛ́ kɔ wá sɔ.",JML_S408,7.98
+tr_000672,audio/transcribed/tr_000672.wav,Balogun lɛ́ɛ sín klwítɔ́hún e yě xo gbetɛ́gbe ɖíe ɔ́ afúntúntún wɛ ɖ'é nu.,JML_S365,6.54
+tr_000680,audio/transcribed/tr_000680.wav,Banque tɛnmɛ tɛnmɛ wɛ ɖe lo ɔ́ élɔ ɖo ali ɖé tó lobɔ mɛ lɛ́ɛ nɔ wá.,JML_S278,5.7
+tr_000703,audio/transcribed/tr_000703.wav,Bonjour nú mi. Nɛ̌ mi ɖe gbɔn? Un jló ná yí xɔ ɖokpó.,JML_S569,5.46
+tr_000716,audio/transcribed/tr_000716.wav,"Bonsoir papa mi pardon mɛ, mǎsa sín ati ɔ́, nabí wɛ è nɔ sa?",JML_S569,6.66
+tr_000717,audio/transcribed/tr_000717.wav,Bonsoir foo. Mi ɖó dépôt Momo a?,JML_S507,5.52
+tr_000737,audio/transcribed/tr_000737.wav,"Boutique lɛ́ɛ bǐ wɛ nɔ́ sú hɔn ɖo quatier élɔ, síbígbe lɛ́ɛ kpódó aklúnɔzángbe lɛ́ɛ kpán.",JML_S278,7.32
+tr_000752,audio/transcribed/tr_000752.wav,Boutique mitɔn lɛ́ɛ ɔ́ mǐ nɔ́ hun zǎnmɛ nyɔ̌nuzángbe kpódó axɔ́súzángbe lɛ́ɛ kpó.,JML_S278,9.18
+tr_000753,audio/transcribed/tr_000753.wav,Boutique mitɔn mɛ ɔ́ divan ɖě mi ɖó lɛ́ɛ nyɔ́ kpɔ́n tawun wɛ mɛ. Nabí wɛ mi ka sa divan wiwi ɖě é ɖo fínɛ́ é.,JML_S456,10.08
+tr_000758,audio/transcribed/tr_000758.wav,"Boutique énɛ mɛ ɔ́, yě ɖo sisa nyɔ̌nu sín awu lɛ́ɛ, awu ɖagbe ɖagbe lɛ́ɛ.",JML_S339,8.94
+tr_000762,audio/transcribed/tr_000762.wav,"Boutique ɔ́ ɖíe ɖo te bo nyɔ́ kpɔ́n káká bɔ yě ɖo ami vɔvɔ, tomati lɛ́ɛ sa ɖ'é mɛ wɛ.",JML_S451,6.96
+tr_000768,audio/transcribed/tr_000768.wav,Brosse kpɛví kpɛví ée è nɔ klɔ́ kpámɛ ná ɔ́ lɛ́ɛ ɖíe ɖo fí é mɛ. Yě sukpɔ́ tawun. Ajɔxanú kpámɛklɔ́klɔ́ tɔn lɛ́ɛ gěgé xo kpó ɖó ná.,JML_S168,10.44
+tr_000808,audio/transcribed/tr_000808.wav,Canapé kpódó divan kpó lɛ́ɛ wɛ.,JML_S396,4.86
+tr_000812,audio/transcribed/tr_000812.wav,Capinter ɔ́ ganxixo atɔn wɛ é zé lobo dó bló armoire ɖě mǐ zɔn ɔ́ ná.,JML_S408,6.42
+tr_000817,audio/transcribed/tr_000817.wav,Car e nɔ yi Agbǒmɛ ɔ́ axɔ́súzángbe gan tántɔn mɛ é wɛ é nɔ́ ɖidó.,JML_S358,5.88
+tr_000820,audio/transcribed/tr_000820.wav,"Carpiter ɔ́, é zé ganxixo atɔn bo dó kpé wú lobo bló armoire nú mì.",JML_S408,7.5
+tr_000822,audio/transcribed/tr_000822.wav,Carpunter ɔ́ é zé ganxixo atɔn ɖó te bó bló armoire mǐtɔn.,JML_S542,6.84
+tr_000849,audio/transcribed/tr_000849.wav,"Concombre énɛ ɔ́ lɛ́ɛ ɔ́ è jló ná sa yě wɛ, bɔ mɛ ɔ́ ɖo te bo ná xɔ bo ná zé yi.",JML_S396,6.54
+tr_000851,audio/transcribed/tr_000851.wav,Concombre ɖagbe ɔ́ énɛ Jacque nɔ fínɛ́ bó sɛ́n dó ɛnɛ bo ma lɛ́ɛ sɛ́n fó ǎ bo jódó bó ɖidó nɛ́ mɛ.,JML_S273,7.744
+tr_000856,audio/transcribed/tr_000856.wav,Corona virus hwenu wɛ nǎwe énɛ ji vǐ bɔ dotóo ɔ́ cyɔ́n nǔ ɖó awɔntín bó ɖo nyɛ̌ dó nú vǐ tɔn wɛ.,JML_S278,6.36
+tr_000871,audio/transcribed/tr_000871.wav,"Courant zínzán sín akwɛ́ ɔ́, sunzán fífó tɛgbɛ wɛ è nɔ sú axɔ́ tɔn.",JML_S358,5.58
+tr_000884,audio/transcribed/tr_000884.wav,Crédit satɔ́ ɔ́ é nɔ́ gbɔn hɔntogbó mǐtɔn sín nukɔn bó nɔ́ wáyi.,JML_S131,6.24
+tr_000888,audio/transcribed/tr_000888.wav,Cuisinier mǐtɔn ɖě e nɔ ɖa nǔ bɔ nǔɖuɖu ɔ́ nɔ víví lɛ́ɛ ɖě ɖíe.,JML_S396,4.68
+tr_000905,audio/transcribed/tr_000905.wav,Directeur ɔ́ wá azɔ̌xɔ tɔn mɛ ɖo gan tántɔn mɛ zǎnzǎn pɛ́pɛ́pɛ́.,JML_S022,7.08
+tr_000910,audio/transcribed/tr_000910.wav,"Directeur ɔ́, gan tántɔn mɛ pɛ́pɛ́pɛ́ é wɛ é nɔ́ wá azɔ̌mɛ.",JML_S358,5.34
+tr_000912,audio/transcribed/tr_000912.wav,Directrice wɛ nyí ɖagbewátɔ́ nú vǐ nɔcyɔ́vǐ énɛ.,JML_S358,5.58
+tr_000924,audio/transcribed/tr_000924.wav,Divant élɔ lɛ́ɛ nyɔ́ kpɔ́n tawun wɛ mɛ. Truc de luxe tɔn ka wɛ a?,JML_S412,7.8
+tr_000935,audio/transcribed/tr_000935.wav,Drapeau ecobank tɔn nɛ́.,JML_S491,5.46
+tr_000937,audio/transcribed/tr_000937.wav,Drapeau MTN Momo élɔ ɔ́ nyɔ́ ɖɛkpɛ tawun wɛ mɛ.,JML_S292,5.611
+tr_000938,audio/transcribed/tr_000938.wav,Drapeau e ɖó couleur atɔn nɛ́ ɖo nukɔn ce fínɛ́ nɛ́ couleur wěwé.,JML_S451,6.42
+tr_000966,audio/transcribed/tr_000966.wav,Député lɛ́ɛ ɔ́ yě ɖo sɛ́n tají lɛ́ɛ gbéjé kpɔ́n wɛ ɖo hwɛɖɔgbasá yětɔn.,JML_S322,10.92
+tr_000974,audio/transcribed/tr_000974.wav,Edmond ɖo nǔsisá zoro nɔ ɔ́ sá ɖó fí é ɖo vǐvɛ́ n'í ɖo wǔtú tɔn jí wɛ lɛ́ɛ wɛ.,JML_S361,8.28
+tr_000976,audio/transcribed/tr_000976.wav,Electrique sín azɔ̌kplɔ́nví lɛ́ɛ ɖo ɖě è nɔ tá myɔ gbɔn é kplɔ́n wɛ.,JML_S358,5.7
+tr_000984,audio/transcribed/tr_000984.wav,Essence sín akwɛ́ kpikpɔ gǔdo gúdo tɔn ɔ́ é kó yi xwe atɔ́ɔ́n.,JML_S544,6.84
+tr_001011,audio/transcribed/tr_001011.wav,Forfait kpɛví ɖě un hɛn ɔ́ nǎ yi unflágbɛjí ná cinq cent Mo jɛ́n ba un ɖe.,JML_S358,5.46
+tr_001017,audio/transcribed/tr_001017.wav,"Gaani sín xwe ɖě e yě nɔ́ ɖú ɖo totaligbé ɔ́, sɔ́ wɛ yě nɔ́ zé dó ɖó awǎ ná.",JML_S412,7.8
+tr_001023,audio/transcribed/tr_001023.wav,Garagiste nɔ hun hɔn é tɔn ɖo sept heure.,JML_S491,5.52
+tr_001044,audio/transcribed/tr_001044.wav,Gobelet awanɔ élɔ́ ɔ́ nǔ e è nɔ zé bó nɔ́ bló go ná ɔ́ é wɛ è sɔ́ bó bló éyɛ ɖésú ná.,JML_S358,6.9
+tr_001050,audio/transcribed/tr_001050.wav,Godwin kanbyɔ́ ɖɔ émí hɛn ɔ́ émí ná nu Para kpódó amasin ɖiɖa kpó ɖó kpɔ́ a jí?,JML_S408,5.88
+tr_001056,audio/transcribed/tr_001056.wav,Goudron jí kɛkɛ́ ge atɔnnɔ lɛ́ɛ kpó gbɛtɔ́ kpó ɖo yiyi wɛ.,JML_S452,5.58
+tr_001060,audio/transcribed/tr_001060.wav,"Grand maman Mawuna tɔn ɔ́, é ɖa amasin bɔ é vɛ́ cákpá cákpá.",JML_S358,5.7
+tr_001074,audio/transcribed/tr_001074.wav,Haie vive sín von mɛ lɛ́ɛ ɔ́ yě bló bɔ é nyɔ́ kpɔ́n nú xweta e jǎwe lɛ́ɛ bǐ sín tamɛ.,JML_S396,7.14
+tr_001099,audio/transcribed/tr_001099.wav,Hotel ɖagbe ɖagbe élɔ ɖíe yě ɖo xlɛ́xlɛ́ wɛ ɖo fí e bɔ fleur tɛnmɛ tɛnmɛ lɛ́ɛ ɖ'é mɛ e.,JML_S451,6.54
+tr_001102,audio/transcribed/tr_001102.wav,Hotel ɖaxó ɖé wɛ bɔ nú a wǎ ɔ́ mɛ ɖokpó ná ɖo fínɛ́ bo ná ɖɔ kwabɔ nú we.,JML_S278,5.46
+tr_001103,audio/transcribed/tr_001103.wav,Hotel ɖé wɛ mǐ ɖe bɔ piscine ɔ́ sín fínɛ́ sín zǎnmɛ lɛ́ɛ nɔ́ nyɔ́ kpɔ́n ɖésú.,JML_S278,5.22
+tr_001107,audio/transcribed/tr_001107.wav,Hôtel ɖaxó ɖé wɛ bɔ accueil ɔ́ nyɔ̌nu ɖé ɖo fínɛ́ bó ɖo te kpɔ́n mɛ lɛ́ɛ.,JML_S278,5.28
+tr_001116,audio/transcribed/tr_001116.wav,Image ɔ́ gbɛ́ ɖɔ émí kún jló ná xlɛ́ ó.,JML_S305,5.64
+tr_001119,audio/transcribed/tr_001119.wav,"Indépendance sín xwe ɔ́, mǐ nɔ́ ɖu ɖo azǎn nukɔ́n nukɔ́n tɔn avuvɔsun lɛ́ɛ tɔ́n ɖo to ɔ́ mɛ bǐ xwíí.",JML_S110,8.94
+tr_001134,audio/transcribed/tr_001134.wav,"Janvier sín sunzán ɔ́, é ɖiga dín.",JML_S154,5.64
+tr_001150,audio/transcribed/tr_001150.wav,"Jean kpódó Mari kpó yí wǎn nú yěɖée lɛ́ɛ. Énɛ́ ɔ́ wútú ɔ́, yě da yěɖée lɛ́ɛ ɖo axɔ́súxwé ɖo nǔglɔ́.",JML_S110,9.54
+tr_001153,audio/transcribed/tr_001153.wav,Jean ɔ́ é nɔ́ nu amasin kpó klé kpó kpó dotɛ́ kpó zǎnzǎn tɛgbɛ.,JML_S047,6.78
+tr_001160,audio/transcribed/tr_001160.wav,Jeanne ɔ́ é nɔ́ nu amasin ɖě è zǎn klé kpódó dotɛ́ kpó bo ɖa ná ɔ́ zǎnzǎn tɛɛn lɛ́ɛ bǐ.,JML_S303,7.2
+tr_001168,audio/transcribed/tr_001168.wav,"Kabená ɔ sín awɔntín ɔ́, kanjɔ nɔ gosín mɛ bónú jɔhɔn ɔ́ jɛ xúxú jí ɔ́.",JML_S555,7.8
+tr_001173,audio/transcribed/tr_001173.wav,Kenzo ɖo avǐ yá wɛ tawun bo ɖɔ ta émí tɔn ɖo fínfɛ́n émí wɛ.,JML_S372,7.02
+tr_001193,audio/transcribed/tr_001193.wav,Librairie ɖě un nɔ wá xɔ azɔ̌mɛ sín nǔzínzán nú vǐ ce ɖe ɔ́ ɖíe.,JML_S110,7.08
+tr_001204,audio/transcribed/tr_001204.wav,"MTN sín kwɛ́yítɛn ɖokpó ɖíe ɖo fí e, kpó azɔ̌watɔ́ tɔn lɛ́ɛ kpó. MTN sín azɔ̌watɔ́ lɛ́ɛ ɔ́, yě nɔ́ dó awu koklójónɔ.",JML_S313,12.9
+tr_001210,audio/transcribed/tr_001210.wav,"MTN ɔ́ a nǎ ɖɔ Benɛ́ɛ to ɔ́ é tɔn wɛ. A gbɔn fí ɖébǔ ɔ́ a nǎ mɔ yě flɛlɛlɛ, bɔ koklójónɔ ɔ́ jɛ́n wɛ.",JML_S065,10.091
+tr_001218,audio/transcribed/tr_001218.wav,Machine ɖě mɛ è nɔ bɛ́ azin kokló lɛ́ɛ tɔn ɖe bɔ é nɔ mɔtɛn chauffé ɔ́ ɖíe.,JML_S451,6.54
+tr_001221,audio/transcribed/tr_001221.wav,"Mama ɔ́ zé alɔ ɖó atása mɛ ɖi mɛ e ɖo atá xó wɛ ɔ́ ɖɔhun. Mɔ̌ ɖokpó ɔ́, nyaví ɖě dó awu koklójónɔ ɔ́, é kó fó bó ɖo alɔ klɔ́ wɛ bɔ mɛɖé ɖo sin dó alɔ n'í wɛ.",JML_S358,14.22
+tr_001228,audio/transcribed/tr_001228.wav,Maman pain nɔ mi sa pain nú mì kpó adɔwɛ́ kpó. Un ka ba takín ní nɔ mɛ ǎ.,JML_S412,5.94
+tr_001234,audio/transcribed/tr_001234.wav,"Maman Amíɖu, éo é ɖa nǔɖuɖu vǐ lɛ́ɛ tɔn bó ɖo mǐmá nú yě wɛ. Mɛ ɖokpó mɛ ɖokpó hɛn gannú tɔn bo na yí nǔɖuɖu tɔn bó ná ɖu.",JML_S188,9.96
+tr_001249,audio/transcribed/tr_001249.wav,"Maman élɔ jínjɔ́n ayǐ xwíí bó ɖo aluwɛ mɛ, Un ka tunwun nǔ e sín linkpɔ́n mɛ wɛ é ɖe ǎ.",JML_S303,8.1
+tr_001251,audio/transcribed/tr_001251.wav,Maman jǎwe bɔ mǐ wá aximɛ bo ná xɔ nǔ e mǐ nǎ ɖa nǔsúnnú ná lɛ́ɛ.,JML_S361,7.08
+tr_001260,audio/transcribed/tr_001260.wav,"Maman mǐtɔn élɔ́ lɛ́ɛ ɖó te bo ɖo kɛ́ɖɛ́ ko wɛ, bo ɖo xwe ɖu wɛ.",JML_S396,4.92
+tr_001275,audio/transcribed/tr_001275.wav,"Maman élɔ ɔ́ é nɔ wlí bo nú agban tɔn bo nɔ tó nǔ lɛ́ɛ ganjí ɖě to gbɔn wɛ é ɖe élɔ ɔ́, é ná ɖɛkpɛ nyínyɔ́ agban ɔ́ bó ná dɔn mɛ lɛ́ɛ wá agban tɔn kɔn.",JML_S021,9.12
+tr_001277,audio/transcribed/tr_001277.wav,Maman élɔ́ ɖo atínsínsɛ́n lɛ́ɛ sa wɛ é nyɔ́ kpɔ́n bó jɛ acɔ́ tawun.,JML_S412,5.7
+tr_001312,audio/transcribed/tr_001312.wav,"Maria sín xɔ́ntɔn ɖě ɖo akpá tɔn ɔ́, é ɖɔ ní zán aɖǐ wiwi ba dó gbɔ akpa wínníwínní ɖě ɖo wútú tɔn lɛ́ɛ ɔ́.",JML_S408,7.5
+tr_001322,audio/transcribed/tr_001322.wav,Mariam jló ná ɖó mɔjɛmɛ ɖɔ émí ɖó ná sá lǐmu nú agbaza vǐ émítɔn tɔn a jí?,JML_S154,7.62
+tr_001325,audio/transcribed/tr_001325.wav,Mariam ɖo kikanbyɔ́ wɛ ɖɔ émí ná sixú sá lǐmu ɖó vǐ émítɔn sín agbaza wú a?,JML_S278,6.18
+tr_001329,audio/transcribed/tr_001329.wav,Martin zán akpi kwín lili bó zé bló nǔsáwǔ ná.,JML_S404,8.58
+tr_001337,audio/transcribed/tr_001337.wav,"Mathématique sín tɛ́nkpɔ́n ɖě jǎwe axɔ́súzángbe ɖě jǎwe din ɔ́, a ka kplɔ́n nǔ ɔ ná fó a?",JML_S505,14.04
+tr_001362,audio/transcribed/tr_001362.wav,"Mille francs gbe ɖokpó ɖíe, yǐ bó wá xɔ nǔ wá nú mì ná. Akwɛ́ élɔ ɔ́ é ná xɔ nǔ sukpɔ́.",JML_S456,7.74
+tr_001368,audio/transcribed/tr_001368.wav,"Moov sín akpátakó ɖiɖe ɖokpó ɖíe, e ɖíe.",JML_S452,6.12
+tr_001379,audio/transcribed/tr_001379.wav,Mécanicien ɔ́ nɔ́ hun azɔ̌xɔ́sá tɔn ɖo gan tɛ́nwe mɛ.,JML_S372,6.06
+tr_001419,audio/transcribed/tr_001419.wav,Nice ɔ́ xwe nabí mɔ̌ wɛ é ká ɖó cóbó ká gosín xwé gbe?,JML_S358,5.4
+tr_001423,audio/transcribed/tr_001423.wav,Nigeria tomɛ mǐtɔn sín drapeau ɖíe mɛ. É wɛ nɔ nyí wěwé kpódó vert ɔ́ kpó.,JML_S396,7.62
+tr_001424,audio/transcribed/tr_001424.wav,"Nigeria tomɛ sín asyá ɔ́ nɛ́. Ɛɛn, é wɛ è zě ɖo xíxlɛ́ mǐ wɛ nɛ́.",JML_S396,6.96
+tr_001436,audio/transcribed/tr_001436.wav,"Oeuvre d'art nɛ́, kaléta sín Masque nɛ́.",JML_S491,7.56
+tr_001439,audio/transcribed/tr_001439.wav,Ouando ximɛ wɛ nɔ mǐtɔn nɔ́ jlá nǔ ɖe. É nɔ́ ɖɔ nǔsisa ɖo dɔ̌n tawun.,JML_S365,6.36
+tr_001452,audio/transcribed/tr_001452.wav,Pain kpódó azin kpó ɖíe ɖo alɔmɛ e mɛ bɔ jǎ gɔ́ ná. Éǒ fí élɔ́ din ɔ́ yě na ba nǔ ɖu kpowun wɛ.,JML_S021,8.16
+tr_001488,audio/transcribed/tr_001488.wav,"Papa élɔ ɔ́, é wá gle tɔn mɛ zǎnzǎn tɛɛn bó wá ɖo jinukúngbo tɔn kpɔ́n wɛ bó ka kpɔ́n ɖɔ yě ká ná ɖě a jí.",JML_S273,9.06
+tr_001504,audio/transcribed/tr_001504.wav,Parakou sín axi ɖé è nɔ ylɔ́ ɖɔ kúcétá chakitikbawun é.,JML_S358,5.58
+tr_001517,audio/transcribed/tr_001517.wav,Patience sín alɔ nɔ sísɔ́ nú é nyí ɖɔ é já hɛn nǔ kpinkpɛn ɔ́.,JML_S412,6.24
+tr_001547,audio/transcribed/tr_001547.wav,"Photo élɔ ɖo sɛnsátɔ́ xlɛ́ wɛ, sɛnsátɔ́ ɔ́ ɖo sɛn sá ɖó adǒ go.",JML_S388,15.42
+tr_001569,audio/transcribed/tr_001569.wav,Plat ɖagbe ɖagbe ɖé wɛ lobɔ xo tɔn mɛ wé bɔ fleur ɖé lɛ́ɛ ɖ'é mɛ.,JML_S278,5.52
+tr_001589,audio/transcribed/tr_001589.wav,"Prudence ɔ́, é zé kɛ́nkún nú amasin, bó nɔ ná vǐ tɔn kpɛví ɔ́, bó ná dó gbɔ mǐsláslá n'í.",JML_S358,8.64
+tr_001592,audio/transcribed/tr_001592.wav,Pépé ɖíe ɖo nǔ gba ɖó awǐnnya jí wɛ e.,JML_S451,5.22
+tr_001598,audio/transcribed/tr_001598.wav,Quartier ɔ́ mɛ ɔ́ nɔ́ ɖi gbe tɔ́n nú dix heures xo.,JML_S305,6.66
+tr_001600,audio/transcribed/tr_001600.wav,Quartier ɔ́ nɔ́ fɔ́n ganxixo wǒ gúdo.,JML_S417,5.1
+tr_001606,audio/transcribed/tr_001606.wav,Quartier ɔ́ sín mɛ lɛ́ɛ kó ɖo nǔ sɛxwé wɛ xóxó cóbɔ nǔwiwa lɛ́ɛ ná dó bɛ́.,JML_S110,7.14
+tr_001619,audio/transcribed/tr_001619.wav,Reunion ta mɛ ɔ́ è ɖɔ novembre ɔ́ mɛ wɛ è nǎ bló ɖe ɖo gan ɖokpó mɛ ɖo mercredi sín gbla mɛ.,JML_S396,9.06
+tr_001622,audio/transcribed/tr_001622.wav,"Robe élɔ ɔ́, é nyɔ́ tawun wɛ mɛ, é nyɔ́ ahwankpɛ bo nyɔ́ kpɔ́n bó nyɔ́ nú xwe ɔ́ ganjí.",JML_S165,11.52
+tr_001630,audio/transcribed/tr_001630.wav,Rodrigue ka ko nu kɛnkelibá sín ɖɔ sín amasin ɔ́ nú nǔ cikɔ tɔn a?,JML_S021,8.58
+tr_001632,audio/transcribed/tr_001632.wav,Rodrigue kúsú fɛnnyɛ ma bó lɛ wǔ ná dó gbɔ agbaza kúsú kúsú tɔn.,JML_S452,7.74
+tr_001643,audio/transcribed/tr_001643.wav,"Rodrigue sín nɔ ɔ́, é ɖa amasin nunu nú vǐ é ɖo slá ɔ́ mɛ ɔ́ bǐ.",JML_S324,10.08
+tr_001646,audio/transcribed/tr_001646.wav,"Rodrigue sín nɔ ɔ́, é ɖa amasin ɖokpó nú yɔkpɔ́vú éé ɖo xá ɔ́ mɛ lɛ́ɛ bǐ.",JML_S154,9.36
+tr_001653,audio/transcribed/tr_001653.wav,Rodrigue sín nɔ ɖa gběmasin ɖé nú vǐ e ɖo xá mǐtɔn mɛ lɛ́ɛ bǐ.,JML_S021,8.4
+tr_001674,audio/transcribed/tr_001674.wav,Rose un zé caki ayizɛ́n ɖ'ayǐ ɖo alǒkan ce jí fínɛ́. Bɛ̌ yě bǐ wá nú mì.,JML_S365,7.38
+tr_001678,audio/transcribed/tr_001678.wav,"Rosine ɖo te kpɔ́n we bó ná mɔtɛn bló forfait ɔ́, yǐ gbe ná nú mì bó.",JML_S278,5.64
+tr_001680,audio/transcribed/tr_001680.wav,"Récolte sín xwe ɔ́, nǔ ɖaxó ɖé wɛ é nyí ɖo hwɛndomɛnú mǐtɔn lɛ́ɛ mɛ.",JML_S569,7.14
+tr_001684,audio/transcribed/tr_001684.wav,"Réseau e nɔ nyí MTN lobo ɖó sin koklójónɔ é ɔ́, mɛ gěgé yí wǎn ná.",JML_S278,5.64
+tr_001713,audio/transcribed/tr_001713.wav,"Sida sín amasin ɖě dotóo ɔ́ wlán nú mì ɔ́, un wlí bo ná lobo nɔ nu ganjí tɔn.",JML_S278,5.88
+tr_001714,audio/transcribed/tr_001714.wav,"Sim mobile money ce ɔ́, é bloqué. Nɛ̌ un ka hɛn ɔ na bló gbɔn? É wɛ́ zɔ́n bɔ un wá agence ɔ́.",JML_S456,7.2
+tr_001719,audio/transcribed/tr_001719.wav,Soutien ɖagbe ɖagbe tɛ́ lɛ́ɛ ká ɖíe yě nyɔ́ kpɔ́n tawun wɛ mɛ bó lɛ́ jɛ acɔ́. Má xɔ ɖě sɔ́ yi xwé gbe nú nǎwe ce.,JML_S341,8.46
+tr_001723,audio/transcribed/tr_001723.wav,Statut ɖaxó éé ɖó nyǐkɔ́ nú tɛnmɛ wlaɖaɖa ɖo palais des congrès kpá bɔ è nɔ ylɔ́ ɖɔ amanzone é.,JML_S358,7.68
+tr_001724,audio/transcribed/tr_001724.wav,Statut ɖě ɖo alikpléhɔ̌nkantɛn Kútɔnú tɔn étoile rouge é.,JML_S358,5.82
+tr_001726,audio/transcribed/tr_001726.wav,Sucette ɖě e nɔ bló kpó café kpó bó nɔ blá ɖó sachet mɛ kpɔ́nwun ɖokpó kpɔ́nwun ɖokpó é.,JML_S358,5.46
+tr_001729,audio/transcribed/tr_001729.wav,"Supermarché ɖé wɛ lobɔ mɛ yě mɛ e ɖo fínɛ́ lɛ́ɛ bǐ ɖo nǔ xɔ́, wɛ kwékwe wɛ a, ahanta wɛ a.",JML_S278,6.24
+tr_001739,audio/transcribed/tr_001739.wav,Tableau gbajagbaja amamú ɖé wɛ lo bɔ è sɔ́ nǔwlánwlán wěwé ɖ'é jí.,JML_S278,6.6
+tr_001750,audio/transcribed/tr_001750.wav,Tante ce ɖo kókó dessi ɖa wɛ nú gan wěwe mɛ.,JML_S303,5.88
+tr_001765,audio/transcribed/tr_001765.wav,Temps nabí mɔ̌ un hɛn ɔ́ nǎ blǒ bó ná dó ɖa kpojígɛ ná?,JML_S514,6.9
+tr_001768,audio/transcribed/tr_001768.wav,Temps élɔ lɛ́ɛ mɛ wɛ nyí avocat sín temps. Hɛn ɖě wá nú mì.,JML_S372,5.94
+tr_001770,audio/transcribed/tr_001770.wav,"Terrase ɖagbe ɖagbe ɖé ɖíe bó ɖo xwé ɖé sín aga lobɔ è nɔ yí jǒnɔ ɖe, bɔ é nyɔ́ kpɔ́n káká.",JML_S278,5.58
+tr_001790,audio/transcribed/tr_001790.wav,UBA sín banque ɔ́ é flín azɔ̌xwé mǐtɔn ɖě ɖo tɔ ɔ́ kpá fí ɔ́ bó wá ná mǐ nǔ sukpɔ́.,JML_S110,9.0
+tr_001807,audio/transcribed/tr_001807.wav,Vodún days sín hwenu wɛ mǐ ɖe bɔ vodún nɔ́ lɛ́ɛ kplé yěɖée bó dó awu tɛnmɛ tɛnmɛ.,JML_S278,6.18
+tr_001814,audio/transcribed/tr_001814.wav,Von lɛ́ɛ mɛ nɔ zun tóó ɖo dimanche zǎnzǎn lɛ́ɛ bǐ mɛ.,JML_S396,5.46
+tr_001820,audio/transcribed/tr_001820.wav,"Waoh!, Soutenance ce sín hwenu ɖíe mɛ, é víví nú mì káká bɔ mɛ ce lɛ́ɛ́ bǐ wá bɔ é víví nú mǐ mɛ bǐ bɔ mǐ jɛ awǎ bo nu ahan.",JML_S396,10.26
+tr_001824,audio/transcribed/tr_001824.wav,"Watra élɔ ɔ́ ɖíe, é wɛ mǐ nɔ́ ɖu temps élɔ lɛ́ɛ mɛ bɔ é nɔ víví ganjí.",JML_S396,5.82
+tr_001829,audio/transcribed/tr_001829.wav,"Yao ɖo ɖiɖɔ wɛ ɖɔ, émi kún sɔ́ nɔ́ mɔ nǔ ganjí nú émi cí te ɔ́ ó.",JML_S514,5.4
+tr_001836,audio/transcribed/tr_001836.wav,"crédit satɔ́ ɔ́, é nɔ́ gbɔn hɔn mǐtɔn nukɔn bo nɔ dín.",JML_S408,5.4
+tr_001841,audio/transcribed/tr_001841.wav,"super marche mǐtɔn ɖaxó ɖo Cotonou ɔ́ nɛ́ mɛ, fínɛ́ è nɔ sa nǔ ɖagbe ɖagbe lɛ́ɛ bǐ sésé ɖe.",JML_S396,6.48
+tr_001842,audio/transcribed/tr_001842.wav,voisin ɔ́ ɖɔ nyi ní gɔ́ alɔ nú émi bónú émi ná zé dotɔsin ɔ́.,JML_S569,6.36
+tr_001843,audio/transcribed/tr_001843.wav,"waoh, zǎngbetɔ́ élɔ nyɔ́ kpɔ́n tawun wɛ mɛ.",JML_S396,4.92
+tr_001853,audio/transcribed/tr_001853.wav,Électrique ɔ́ ɖo dandanmɛ nú toxo e cí kútɔ́nú ɖɔhun lɛ́ɛ.,JML_S358,5.52
+tr_001861,audio/transcribed/tr_001861.wav,"A! xɔ wɛ nyí énɛ ɔ́, bɔ tɔ wɛ lɛ́ ɖo nukɔn tɔn a?",JML_S206,7.14
+tr_001865,audio/transcribed/tr_001865.wav,"A asyá é mɔ un ɖe gbadanu din lɛ́ɛ ɔ́, éo xó wɛ mɛ nya.",JML_S412,7.2
+tr_001892,audio/transcribed/tr_001892.wav,"A flín ɖɔ azǎn nabí ɖíe e mǐ yi tɔ́víklɛ́n sín aximɛ ɔ́, mǐ mɔ mɛ lɛ́ɛ bɔ yě ɖo yovózɛn sa wɛ a?",JML_S092,7.44
+tr_001901,audio/transcribed/tr_001901.wav,A fɔ́n a? Nyɛ fɔ́n ganji bɔ hwɛ lo? Un mɔ nɔví towe ɖo télé ɖo sɔ ɖě wá yi ɔ́.,JML_S388,16.08
+tr_001907,audio/transcribed/tr_001907.wav,"A fɔ́n ganjí a, é ná kpɔ́nte nú mì, hwɛ ka lo?",JML_S154,5.34
+tr_001910,audio/transcribed/tr_001910.wav,"A fɔ́n ganjí a? Nɛ̌ zǎn ɔ́, é ká nyí gbɔn ɖo dɔ̌n?",JML_S154,5.64
+tr_001919,audio/transcribed/tr_001919.wav,A fɔ́n ganjí a nɔví ce? É jló mì bɔ un gbɔn fí bó ná dó gbe nú we cóbó ná yi azɔ̌ ce jí bó ná yí wa azɔ̌. A ɖo ganjí sín.,JML_S284,11.46
+tr_001961,audio/transcribed/tr_001961.wav,"A hɛn ɔ́ a na ylɔ́ mì hwenu ɖě a vo ɔ́, un ɖó xó ɖe bó na ɖɔ nú we.",JML_S372,7.26
+tr_001990,audio/transcribed/tr_001990.wav,A hɛn ɔ́ a nǎ gɔ́ alɔ nú mì bɔ nǎ mɔ lanmɛnánɔganjízɔ́wátɔ́ dagbe a? Un ɖo vivɛ we wɛ.,JML_S260,7.02
+tr_001995,audio/transcribed/tr_001995.wav,A hɛn ɔ́ a nǎ gɔ́ alɔ nú mì lobo ná kpɔ́n nǔ lɛ́ɛ xá mì bɔ nǎ mɔtɛn bó sɛ́ akwɛ́ sɛ́dó mɛ a?,JML_S278,6.48
+tr_001999,audio/transcribed/tr_001999.wav,A hɛn ɔ́ a nǎ hwé ganmɛ towe kpɛɖé nú mì a? Un jló ɖɔ a ni ylɔ̌ tánti ce nú mì ɖo alǒkan towe jí.,JML_S408,6.6
+tr_002001,audio/transcribed/tr_002001.wav,A hɛn ɔ́ a nǎ kpɔ́n xá mì bɔ nǎ xo kwɛ́ sɛ́dó a?,JML_S022,5.76
+tr_002028,audio/transcribed/tr_002028.wav,A hɛn ɔ́ a nǎ sɛ́ akwɛ́ caki ko dó mì bɔ ná dó sú dotóxwé kwɛ́ a?,JML_S408,6.0
+tr_002038,audio/transcribed/tr_002038.wav,A hɛn ɔ́ a nǎ sɛ́ caki wǒ ɖě un sɛ́dó we ɔ́ sɛ́dó mì a?,JML_S451,6.6
+tr_002039,audio/transcribed/tr_002039.wav,A hɛn ɔ́ a nǎ sɛ́ kwɛ́ caki wǒ e un sɛ́dó we ɔ́ nú mì a?,JML_S131,5.52
+tr_002045,audio/transcribed/tr_002045.wav,A hɛn ɔ́ a nǎ xlɛ́ mì ɖě e ma sɛ́ kwɛ́ élɔ́ dó gbɔn ɔ́ a?,JML_S412,6.292
+tr_002056,audio/transcribed/tr_002056.wav,A hɛn ɔ́ a nǎ yí sɔ́ colis élɔ jó nú tánti towe ɖo Akpákpá a? Nɔví towe sɔ́ si kpé wú bó yi nú mì ǎ.,JML_S278,6.84
+tr_002068,audio/transcribed/tr_002068.wav,"A hɛn ɔ́ a nǎ ɖɔ nabí é kpo ɖo alǒkan ce jí ɔ́ nú mì a ɖo alǒkan wěkwín ce yǎyá tɛ́nwe, ɖokpó tɛ́nnɛ,we yǎyá,we ɖokpó,we we ɔ́ jí a?",JML_S217,12.54
+tr_002089,audio/transcribed/tr_002089.wav,"A hɛn ɔ́, a nǎ dó alɔ mi nú tokpɔnla xwé wéma élɔ ɔ́ a? É vɛwǔ nú mì kpɛɖé nú má wlán.",JML_S108,14.76
+tr_002090,audio/transcribed/tr_002090.wav,"A hɛn ɔ́, a nǎ dó alɔ mì a? Ɖó un kpé wú bo bló ǎ.",JML_S372,6.78
+tr_002092,audio/transcribed/tr_002092.wav,"A hɛn ɔ́, a nǎ dó alɔ mì bó ná zé kwɛ́ ɔ́ sɛ́dó nú mì a?",JML_S514,6.3
+tr_002094,audio/transcribed/tr_002094.wav,"A hɛn ɔ́, a nǎ dó alɔ mì bɔ ná sɛ́ caki gban sɛ́dó nɔví ce sunnu ɔ́ a? Alǒkanwékwín tɔn nɔ nyí: yǎyá ayizɛ́n, ɖokpó ɖokpó, we we, atɔn atɔn, ɛnɛ ɛnɛ.",JML_S217,12.54
+tr_002113,audio/transcribed/tr_002113.wav,"A hɛn ɔ́, a nǎ hwé jǐwu towe nú mì a? É cí nú mì ɖɔ jǐ já ja malín malín mɛ.",JML_S399,9.72
+tr_002117,audio/transcribed/tr_002117.wav,"A hɛn ɔ́, a nǎ nɔ te kpɔ́n mì kpɛví ɖé a? Nǎ gbɔ hwenu nú cɛ́jú yɛyɛ ɖé.",JML_S372,6.36
+tr_002118,audio/transcribed/tr_002118.wav,"A hɛn ɔ́, a nǎ nɔte kpɔ́n mì kpɛɖé a? Nǎ gbɔ hwenu nú cɛ́jú yɔywɛ ɖé.",JML_S372,6.96
+tr_002127,audio/transcribed/tr_002127.wav,"A hɛn ɔ́, a nǎ sɛ́ caki wǒ e un sɔ́ sɛ́dó we ɖ'áyǐ ɔ́ sɛ́dó mì a?",JML_S217,5.82
+tr_002133,audio/transcribed/tr_002133.wav,"A hɛn ɔ́, a nǎ tínmɛ ɖě è nɔ ɖe kwɛ́ gbɔn sín Mobile Money mɛtɔn jí ɔ́ a? Un ba ná tunwun ɖě é nɔ nyí gbɔn é.",JML_S456,7.74
+tr_002135,audio/transcribed/tr_002135.wav,"A hɛn ɔ́, a nǎ yi zomɔnɔ ɔ́ gɔ́n bó ná yi sɔ́ agbadé e un sɔ́ dó zomɔ ɔ́ mɛ sín zǎnzǎn é a?",JML_S131,9.36
+tr_002144,audio/transcribed/tr_002144.wav,"A hɛn ɔ́, a sǐ nya akwɛ́ kpɛɖé nú mì má dó wezun kléwún ɖé ná a? Na wa sú we.",JML_S185,10.14
+tr_002181,audio/transcribed/tr_002181.wav,A ka hɛn ɔ́ a nǎ nɔ te kpɛɖé kpɔ́n mì a? Ɖó ná gbɔ hwenu nú cɛ́jú yɔywɛ ɖé.,JML_S358,6.24
+tr_002183,audio/transcribed/tr_002183.wav,A ka hɛn ɔ́ a nǎ nɔte kpɛɖé kpɔ́n mì a? Ɖó nǎ gbɔ hwenu kpɛɖé cóbó wá.,JML_S358,5.58
+tr_002186,audio/transcribed/tr_002186.wav,"A ka hɛn ɔ́ a nǎ sɛ́ kwɛ́ caki ko sɛ́dó mi bɔ ná mɔtɛn mɛ bo kpɔ́n lanmɛ ce ná a. Alǒkan ce bɛsín yǎyá ɖokpó, atɔn atɔ́ɔ́n,we atɔ́ɔ́n,ɛnɛ tántɔn, tɛ́nwe atɔ́ɔ́n.",JML_S146,13.74
+tr_002189,audio/transcribed/tr_002189.wav,"A ka hɛn ɔ́ a nǎ zé caki kanɖé wǒ sɔ́ sɛ́dó mì a? Sɔ́ ɖó alǒkan ce zéro un, vingt sept, vingt huit, vingt neuf, trente jí.",JML_S358,11.16
+tr_002195,audio/transcribed/tr_002195.wav,"A ka hɛn ɔ́, a nǎ sǐ tínmɛ lě e nǎ bló gbɔn bó ná sǐ sú akwɛ́ ɖo compte ce jí ɔ́ a?",JML_S146,5.76
+tr_002197,audio/transcribed/tr_002197.wav,"A ka hɛn ɔ́, a nǎ yi zomɔ mɛ bó yi zé gbadé ɖě un jó dó ɖó dɔ̌n sín zǎnzǎn ɔ́ a?",JML_S358,6.42
+tr_002200,audio/transcribed/tr_002200.wav,A ka jló ná nu sin a? Sín tɛgbɛ wɛ a ɖo nǔ ɖu nɛ́.,JML_S021,6.24
+tr_002204,audio/transcribed/tr_002204.wav,A ka kanbyɔ́ dotóo gán ɔ́ cóbó jɛ amasin yovozɛn ma tɔn ɔ́ zán jí a?,JML_S372,7.86
+tr_002205,audio/transcribed/tr_002205.wav,A ka kanbyɔ́ dotóo gán ɔ́ hwɛ̌ cóbó jɛ amǎga goto ɔ́ zǎn jí a?,JML_S372,6.18
+tr_002207,audio/transcribed/tr_002207.wav,A ka kanbyɔ́ dotóo ɔ́ hwɛ̌ cóbó jɛ amasin yovózɛnma tɔn ɔ́ zán jí a?,JML_S372,7.56
+tr_002226,audio/transcribed/tr_002226.wav,A ka ko se kpɔ́n ɖɔ nǔsáwǔ ɖě è blǒ kpódó menthe sín feuille kpó ɔ́ é nɔ́ gbɔ tafɛ́nmɛ a?,JML_S358,7.56
+tr_002236,audio/transcribed/tr_002236.wav,A ka kpé wú bó dɔ amlɔ kpó zǐngídi énɛ lɛ́ɛ bǐ kpó a?,JML_S372,6.06
+tr_002240,audio/transcribed/tr_002240.wav,A ka kpéwú bó dɔ́ amlɔ kpɛɖé kpódó zǐngídi élɔ lɛ́ɛ kpó a?,JML_S372,5.88
+tr_002242,audio/transcribed/tr_002242.wav,A ka kpéwú lobo d'amlɔ kpódó zǐngídi tobútobú énɛ lɛ́ɛ bǐ kpó a?,JML_S408,6.06
+tr_002243,audio/transcribed/tr_002243.wav,A ka kán nǔ byɔ́ dotóo ɔ́ hwɛ̌ có bó ká jɛ amasin yovózɛn sín ama ɔ́ tɔn ɖa n'i jí a?,JML_S146,7.5
+tr_002260,audio/transcribed/tr_002260.wav,A ka ná ɖó vivo gbadanu a? É jló mì ɖɔ má kplá we sɔ́ yi xutó.,JML_S358,5.64
+tr_002300,audio/transcribed/tr_002300.wav,A ka se wɛn ɖagbe lɛ́ɛ a? É cí ɖɔ nylɔ towe ɖó vǐ súnnu ví ɖokpó.,JML_S514,7.92
+tr_002333,audio/transcribed/tr_002333.wav,"A ka tunwun gbɔjɛtɛn, nǔɖuɖutɛn ɖě è nɔ ylɔ́ ɖɔ cent un ɖo Calavi ɔ́ a? Nǔ lěhúnkɔ́tɔn ɖé wɛ é bló.",JML_S412,10.2
+tr_002338,audio/transcribed/tr_002338.wav,A ka tɛ́nkpɔ́n bó wá d'amlɔ ɖo xósúsú énɛ́ ɔ́ nú a?,JML_S131,5.94
+tr_002351,audio/transcribed/tr_002351.wav,A kanbyɔ́ doto ɔ́ cóbó jɛ amasin yovózɛnma tɔn ɔ́ nú jí a?,JML_S372,7.5
+tr_002352,audio/transcribed/tr_002352.wav,A kanbyɔ́ dotó ɔ́ cóbó jɛ amasin yovózɛnma tɔn ɔ́ nu jí a?,JML_S372,7.44
+tr_002360,audio/transcribed/tr_002360.wav,A klɔ́ ama lɛ́ɛ hwɛ̌ cóbó ɖa amasin zǎnzǎn tɔ́n ɔ́ a?,JML_S372,6.36
+tr_002382,audio/transcribed/tr_002382.wav,A ko se ɖɔ atín ɖé sín glɔ nɔ bló zoxo sín azɔn a?,JML_S396,8.52
+tr_002397,audio/transcribed/tr_002397.wav,A ko wá nɛ́ a? Gǎn ɔ́ ɖésú kó ɖo fínɛ wɛ a?,JML_S408,5.34
+tr_002411,audio/transcribed/tr_002411.wav,A ko zán hibiscus sín ama lɛ́ɛ nú akpa towe ée aɖǐvívɛ́ byɔ́ mɛ é a?,JML_S168,8.22
+tr_002414,audio/transcribed/tr_002414.wav,A ko ɖo xwé gbe yi wɛ nɛ́ a? Din jɛ́n xwe ɔ́ bɛ́ sín.,JML_S372,6.3
+tr_002415,audio/transcribed/tr_002415.wav,A ko ɖo xwé gbe yi wɛ nɛ́ a? Din wɛ xwe ɔ́ bɛ́ sín.,JML_S372,6.18
+tr_002425,audio/transcribed/tr_002425.wav,A ko ɖu nǔ din a? Un jló ná sɛ́ nǔɖuɖu dó we wɛ.,JML_S068,5.4
+tr_002449,audio/transcribed/tr_002449.wav,"A kpéwú bó bló a, é marcher din a, kabǐ nɛ̌ a ɖe gbɔn?",JML_S278,5.28
+tr_002480,audio/transcribed/tr_002480.wav,A kɔn nɔ ɖu wɔ̌xúxú afɔ́nnu ɖ'é mɛ lɛ́ɛ zǎnzǎn lɛ́ɛ bǐ a?,JML_S514,7.5
+tr_002491,audio/transcribed/tr_002491.wav,A mɔ réseau ɖé bɔ xɔ e mɛ a byɔ́ ɔ́ é nyí koklójónɔ hǔn tunwun ɖɔ MTN wɛ.,JML_S278,6.42
+tr_002500,audio/transcribed/tr_002500.wav,A mɔ awǐi wiwi ɖě ɖo gǔdo nú we ɔ́ ǎ é? Hwɛ nɔ ɖi xɛsi ǎ é? A mɔ ɖě e é wi gbɔn ɔ́ a? Gosín fínɛ́!,JML_S180,7.209
+tr_002501,audio/transcribed/tr_002501.wav,"A mɔ caki we ɔ́, a nǎ wa. A mɔ caki we ɔ́, a nǎ xɔ nǔ, akwɛ́ wɛ nyí mɛ.",JML_S158,6.12
+tr_002502,audio/transcribed/tr_002502.wav,"A mɔ fúlanǐ to mǐtɔn mɛ tɔn lɛ́ɛ ɔ́, yě tunwun yɛ̌yí bo ɖó ayixa bo ka lɛ́ tunwun ɖě è nɔ ɖa amɔ̌ gbɔn bɔ é nɔ nyɔ́ bó nɔ jɛ acɔ́ ɔ́.",JML_S418,10.62
+tr_002506,audio/transcribed/tr_002506.wav,A mɔ fí ɖě e un ɖe ɔ́ a? É nyɔ́ kpɔ́n ɖésú bɔ xɔ ɖagbe ɖagbe lɛ́ɛ ɖo fí ɔ́.,JML_S278,6.0
+tr_002533,audio/transcribed/tr_002533.wav,A mɔ nǔ ɖě un sɛ́dó we ɖo Whatsapp ɔ́ jí sɔ ɔ́ a?,JML_S303,6.12
+tr_002547,audio/transcribed/tr_002547.wav,"A mɔ xɔ élɔ a, vodún sín xɔ wɛ. Vodún wɛ mǐ nɔ́ sɛn ɖo xɔ élɔ mɛ.",JML_S456,5.7
+tr_002557,audio/transcribed/tr_002557.wav,"A mɔ̌ nɔ mǐtɔn lɛ́ɛ nɔ sɔ́ nǔ tawun, nǔsísɔ́ yětɔn nɔ jɛ acɔ́ lobo nɔ fɛ́ wǔ.",JML_S303,7.5
+tr_002565,audio/transcribed/tr_002565.wav,A ni gbɔjɛ́ kpɛɖé bó lin nǔ e na zé we dó awǎjijɛ mɛ é.,JML_S370,5.824
+tr_002572,audio/transcribed/tr_002572.wav,"A ni wútú wɛ afɔ ce lɛ́ɛ nɔ kló ɖé ji, ni un ɖo zɔnlin ɖí wɛ ɖo aximɛ.",JML_S110,6.84
+tr_002574,audio/transcribed/tr_002574.wav,"A nyí nya! Vǐ élɔ lɛ́ɛ mi ko ɖu nǔ ɖě égbé ǎ wɛ a? Nɔ mitɔn ka lo, tɔ́ mitɔn ka lo? Hun akóbá.",JML_S022,12.18
+tr_002582,audio/transcribed/tr_002582.wav,A nyɔ̌ tɔ lɛ hǔn ɖɔ má kplá we yi Natintingou sín sin ɖokpó kɔn.,JML_S110,6.36
+tr_002584,audio/transcribed/tr_002584.wav,A ná bló bɔ é na nyɔ́ hú gǎn mɔ̌ ganjí.,JML_S217,5.52
+tr_002586,audio/transcribed/tr_002586.wav,A ná yi kogbán bó ná mɔ́ tɛn sé víví nú kókó towé a.,JML_S068,6.3
+tr_002588,audio/transcribed/tr_002588.wav,A nǎ bló bɔ é ná lɛ́ vɔ́ nyɔ́ hú énɛ ɔ́.,JML_S358,5.34
+tr_002595,audio/transcribed/tr_002595.wav,A nǎ kplá asi towe kpódó vǐ towe lɛ́ɛ kpó wá fí bɔ mǐ ná ɖu gbɛ bó ná yí jɔhɔn víví ɖó lanmɛ.,JML_S303,9.36
+tr_002596,audio/transcribed/tr_002596.wav,"A nǎ kplá nǎwe towe wa kpó vǐ towe kpó bɔ mǐ na jínjɔ́n fí lobo ná yi ahan fífá, é ná jɛ acɔ́ tawun.",JML_S303,10.2
+tr_002597,audio/transcribed/tr_002597.wav,A nǎ lɛ́ bló hú ɖě é bló gbɔn wɛ a ɖe din ɔ́.,JML_S571,6.18
+tr_002601,audio/transcribed/tr_002601.wav,A nǎ nu amasin élɔ dandan nú a ba hwlɛngán ɔ́.,JML_S412,5.28
+tr_002603,audio/transcribed/tr_002603.wav,"A nǎ nu atínkɛn élɔ ɔ́ dóó, nú a ba bo ná mɔ azɔnhɛngbɔ ɔ́.",JML_S154,7.68
+tr_002612,audio/transcribed/tr_002612.wav,A nǎ sa kɛ́n ée è nɔ ylɔ́ mɛ ná ɔ́ caki kanɖé gban-nukún-we nu dó xɔ́ntɔ́n cé sín portable ce jí nú mì bɔ un ná dó kúdó azɔ̌ n'í.,JML_S514,14.76
+tr_002619,audio/transcribed/tr_002619.wav,"A nǎ si tɛ́nkpɔ́n bó sɛ́ caki gban sɛ́dó nɔví ce ɖo numéro élɔ lɛ́ɛ jí a, ɖěbǔ ǎ ayizɛ́n, wǒ ɖokpó, ko nukún we, gan atɔ́ɔ́n nukún atɔn, kanɖé nukún ɛnɛ.",JML_S451,12.9
+tr_002628,audio/transcribed/tr_002628.wav,A nǎ sixú nɔ te kpɔ́n mì a? Ná gbɔ hwenu nú cɛ́jú yɔywɛ ɖé.,JML_S168,5.7
+tr_002629,audio/transcribed/tr_002629.wav,"A nǎ sixú sɛ́ caki gban nú nɔví ce súnnuví ɔ́ nú mì a? Alǒkan tɔn ɖíe: ayizɛ́n vɔ̌, ɖokpó ɖokpó, ko nukún we.",JML_S065,15.061
+tr_002650,audio/transcribed/tr_002650.wav,A nǎ tɔ́n sín xwlékpɔ́n énɛ mɛ é jló aklúnɔ ɔ́.,JML_S565,6.18
+tr_002655,audio/transcribed/tr_002655.wav,A nǎ wá bló fɛɛ bɔ é ná lɛ́ vɔ́ wá nyɔ́ hú énɛ.,JML_S358,5.46
+tr_002662,audio/transcribed/tr_002662.wav,A nǎ yi xɔgbónu lo bo na ɖu han lan mimɛ. É kɛ́ɖɛ́ jɛ́n a tunwun.,JML_S408,6.06
+tr_002679,audio/transcribed/tr_002679.wav,A nɔ dó zěmijan zǎnzǎn lɛ́ɛ tɛgbɛ gan tɛ́nwe mɛ bó ná dó mɔtɛn bó yá wǔ yi azɔ̌mɛ wɛ a?,JML_S408,6.18
+tr_002693,audio/transcribed/tr_002693.wav,A nɔ yá wǔ ɖu pain hwɛhwɛ zǎnzǎn wɛ a?,JML_S341,5.64
+tr_002695,audio/transcribed/tr_002695.wav,A nɔ zé Zěmijan zǎnzǎn tɛgbɛ cóbɔ é nɔ xo gan tɛ́nwe bɔ a nɔ wá azɔ̌mɛ ɖó ganmɛ a?,JML_S154,9.84
+tr_002696,audio/transcribed/tr_002696.wav,A nɔ ɖe afɔ ɖiɖe ɖokpó ɖo hwebǐnu.,JML_S339,6.36
+tr_002702,audio/transcribed/tr_002702.wav,A nɔ ɖe afɔ ɖokpó ɖo ganxixo ɖokpó ɔ́ mɛ.,JML_S021,6.12
+tr_002703,audio/transcribed/tr_002703.wav,A nɔ ɖe afɔ ɖokpó ɖo hwe ɖokpó nu.,JML_S361,5.46
+tr_002723,audio/transcribed/tr_002723.wav,A se wɛn yɔ̌yɔ́ lɛ́ɛ a? É cí ɖi ɖɔ nylɔ towe ɔ́ é ji vǐ yɔ̌yɔ́ ɖokpó ɖɔhun.,JML_S303,6.84
+tr_002725,audio/transcribed/tr_002725.wav,"A se xó lɛ́ɛ a, é cí ɖɔ nylɔ towe ɔ́ é ɖó vǐ súnnu ɖokpó.",JML_S217,7.68
+tr_002728,audio/transcribed/tr_002728.wav,A se ɖagbe ɖě wá din ɔ a? Nyɔlɔn towe ɖó vǐ yɔ̌yɔ́ ɖokpó.,JML_S451,7.26
+tr_002732,audio/transcribed/tr_002732.wav,A si flín mì nǔ é xó mǐ ɖɔ ɖo kplékplé é e mǐ blǒ wáyi é ɖo xwé ɔ́ a?,JML_S361,7.02
+tr_002763,audio/transcribed/tr_002763.wav,"A sixú dó alɔ mì bɔ, un ná xɔ kpɛ́n maɖódogbó a?",JML_S217,5.7
+tr_002775,audio/transcribed/tr_002775.wav,"A sixú gɔ alɔ nú mì bo sɛ́ caki gban dó nɔví ce nú mi a. Numero tɔn ɖíe zéro six, onze, vingt deux, trente trois, quarante quatre.",JML_S303,10.68
+tr_002790,audio/transcribed/tr_002790.wav,A sixú kɛnklɛ́n bó ɖɔ akwɛ́ nabí e a sɛ́ dó mì é a?,JML_S062,9.48
+tr_002800,audio/transcribed/tr_002800.wav,A sixú sɔ́ yovózɛn atɔn nú mì ɖo fínɛ a? Nǎ sú we kpɔ́nwun tántɔn.,JML_S544,7.08
+tr_002839,audio/transcribed/tr_002839.wav,A sixú ɖɔ nú mì ɖɔ dotó ɔ́ ɖo gbesisɔmɛ bó ná mɔ mì a jí.,JML_S048,7.74
+tr_002841,audio/transcribed/tr_002841.wav,A sǐ kpé wú bó dɔ́ amlɔ kpódó zǐngídi énɛ ɔ́ bǐ kpó a?,JML_S154,6.06
+tr_002842,audio/transcribed/tr_002842.wav,A sǐ ná mì gan e mɛ dotoxwé ɔ́ nɔ hun hɔn a jí?,JML_S048,6.36
+tr_002852,audio/transcribed/tr_002852.wav,A tunwun fí ɖě e nǎ bló déclaration nú ajo ɖe ɔ́ a? Un ɖo alɔgɔ́ ba wɛ ɖésú.,JML_S456,7.5
+tr_002857,audio/transcribed/tr_002857.wav,A tunwun nú rendez-vous wɛ mǐ ɖo ná yí xá doto ɔ́ cóbó ná mɔ ɛ a?,JML_S569,6.78
+tr_002859,audio/transcribed/tr_002859.wav,"A tunwun ɖɔ Dubaï dɔ̌n ɔ́ xɔ lěhunkɔtɔn lɛ́ɛ ɖe sukpɔ́ a, bɔ yě nɔ́ nyɔ́ kpɔ́n bó nɔ́ jɛ acɔ́ tawun.",JML_S412,8.04
+tr_002861,audio/transcribed/tr_002861.wav,"A tunwun ɖɔ fí e xɔ ce ɖe ɔ́, nú un cí te bo dɔn rideau ɔ́, un nɔ mɔ kɔ́ xo sɛ́ dó.",JML_S278,7.26
+tr_002864,audio/transcribed/tr_002864.wav,A tunwun ɖɔ togán ɔ́ gbá axi yɔ̌yɔ́ gěgé nú mǐ a? A ka yi mɛ bo yi kpɔ́n a?,JML_S412,7.44
+tr_002867,audio/transcribed/tr_002867.wav,"A un vɛ mi yɔkpɔ́vú lɛ́ɛ ɔ́, yě ba bo ná yá wǔ mɔ mi.",JML_S217,6.36
+tr_002875,audio/transcribed/tr_002875.wav,"A wa azɔ̌ tawun ɖo kéze égbé tɔn mɛ, zǎn jí ná fá nú we.",JML_S168,5.94
+tr_002918,audio/transcribed/tr_002918.wav,"A yi axi ɖé lɛ́ɛ mɛ ɔ́, a nǎ mɔ bɔ yě nɔ́ wlíbo nú ajɔ̌gban yětɔn lɛ́ɛ bɔ é nɔ́ nyɔ́ kpɔ́n.",JML_S365,5.94
+tr_002959,audio/transcribed/tr_002959.wav,"A yáwǔ tɔ́n égbe mɛ, mǐ bá we zǎnzǎn énɛ ɔ́ káká.",JML_S372,5.58
+tr_002963,audio/transcribed/tr_002963.wav,A yí aximɛ axigbe ɔ́ núsatɔ́ lɛ́ɛ bǐ wɛ nɔ sɔgbe.,JML_S365,5.4
+tr_002964,audio/transcribed/tr_002964.wav,"A yǎwǔ tɔ́n égbé, mǐ ba we zǎnzǎn égbé.",JML_S372,5.22
+tr_002968,audio/transcribed/tr_002968.wav,"A zě tíima kpódó dotɛ́ kpó lobo ɖa dó kpɔ́ bó nu ɔ́, é nɔ́ wa ɖagbe nú adɔgo.",JML_S408,7.26
+tr_002987,audio/transcribed/tr_002987.wav,A ɖo gbɔjɛ mɛ gbadanu a? Un ba nú mǐ ná yi xuta.,JML_S372,5.22
+tr_003000,audio/transcribed/tr_003000.wav,A ɖo ná yi mairie cóbó ná yí wěma ɔ́.,JML_S506,5.311
+tr_003036,audio/transcribed/tr_003036.wav,"A ɖǒ alǐn towe ɔ́, a hɛn ɔ́ a nǎ lɛ gle towe bɔ é na hɛn kwɛ́ wá nú we.",JML_S292,5.589
+tr_003037,audio/transcribed/tr_003037.wav,A ɖǒ asi ɖé bɔ é jɔ mardi wɛ a?,JML_S451,5.52
+tr_003043,audio/transcribed/tr_003043.wav,A ɖǒ cɛ́jú ɖokpó a? Un ba bɔ a nǐ gɔ́ alɔ nú mì bónú má ylɔ́ tánti towe.,JML_S358,5.58
+tr_003059,audio/transcribed/tr_003059.wav,A ɖǒ cɛ́jú ɖokpó wɛ a? Un ba bɔ a nǎ gɔ́ alɔ nú mì bó ná ylɔ́ tánti towe nú mì.,JML_S414,10.8
+tr_003060,audio/transcribed/tr_003060.wav,"A ɖǒ cɛ́jú ɖokpó, un ba a nǐ ylɔ́ tánti ce nú mì.",JML_S397,8.22
+tr_003071,audio/transcribed/tr_003071.wav,A ɖǒ ná nu atínkɛn élɔ́ lɛ́ɛ bónú a jlǒ ɖɔ azɔn émítɔn ɔ́ ní gbɔ ɔ́.,JML_S408,5.94
+tr_003082,audio/transcribed/tr_003082.wav,A ɖǒ nǔ ɖé bó ná bló gbadanu din wɛ a? Un ba ná kplá we sɔ́yi xutó.,JML_S456,5.7
+tr_003092,audio/transcribed/tr_003092.wav,A ɖǒ vivo kpɛɖé égbe gbadanu a? Un jló ná kplá we hɛn yi plage.,JML_S131,8.58
+tr_003147,audio/transcribed/tr_003147.wav,Abɔ̌ta ce nɔ vɛ́ nú mì nú un sɔ́ alɔ ce yi jǐ ɔ́.,JML_S372,6.6
+tr_003150,audio/transcribed/tr_003150.wav,"Abɔ̌ta ce nɔ wa nǔ xá mì tawun, nú un sɔ́ alɔ yi jǐ ɔ́.",JML_S514,6.66
+tr_003154,audio/transcribed/tr_003154.wav,"Abɔ̌ta ce ɔ́ nɔ́ vɛ́wǔ nú mì, nú un jló ná sɔ́ alɔ ce dó jǐ ɔ́.",JML_S131,6.42
+tr_003157,audio/transcribed/tr_003157.wav,"Abɔ̌ta ce ɖo vǐvɛ́ vɛ̌ mì wɛ, nú un zé awa ce yi jǐ ɔ́.",JML_S372,6.72
+tr_003221,audio/transcribed/tr_003221.wav,"Adɔndindɔn ɖo politique hwenu ɔ́, é nɔ́ vɛ́ adɔ̌ nú toví lɛ́ɛ hú to yětɔn.",JML_S131,13.44
+tr_003248,audio/transcribed/tr_003248.wav,Afó jló na ɖó mɔjɛmɛ ɖɔ émí hɛn ɔ émí ná nu kinnínitínkɛn kpódó nǔɖuɖu kpó a jí.,JML_S154,7.98
+tr_003283,audio/transcribed/tr_003283.wav,Afɔkpa ɖagbe ɖagbe tɛ́ ka nyí énɛ́ bɔ yě ɖo sisa wɛ ɖo aximɛ?,JML_S339,6.84
+tr_003287,audio/transcribed/tr_003287.wav,Afɔkpablótɔ́ ɔ́ ɖo semelle ɖé xo gbagbagba kpó marteau tɔn kpó.,JML_S278,6.06
+tr_003298,audio/transcribed/tr_003298.wav,"Afɔlábí sín koli ɔ́, é nɔ́ ɖú zǐngídi nú é fɛ yi do ɔ́.",JML_S154,6.36
+tr_003304,audio/transcribed/tr_003304.wav,Afɔsɔ́ɖóte ɖětɛ́ lɛ́ɛ è nɔ bló bó nɔ dó sɛ́ kwɛ́ dó mɛ?,JML_S372,6.72
+tr_003315,audio/transcribed/tr_003315.wav,Aganma ɖiɖe tɔn ɖíe ɖo ama élɔ lɛ́ɛ mɛ fí e.,JML_S392,5.94
+tr_003364,audio/transcribed/tr_003364.wav,Agbadésatɔ́ bló agbadé mimɛ bo sɔ́ ɖó atɛ jí bɔ é ɖésú ɔ́ ká jínjɔ́n azava tɔn sá.,JML_S358,6.96
+tr_003381,audio/transcribed/tr_003381.wav,Agban níná dó mɛ wɛ lobɔ mɛxó lɛ́ɛ bǐ xwíí sín afɔ sɔ gbe. É jɛ acɔ́ bó nyɔ́ kpɔ́n.,JML_S365,6.24
+tr_003389,audio/transcribed/tr_003389.wav,Agban tɔn lɛ́ɛ sukpɔ́ dín nú tomɛyiyi ɔ́ hǔn é ná sú kwɛ́ gɔ́ ná.,JML_S372,6.18
+tr_003400,audio/transcribed/tr_003400.wav,Agban ɔ́ nɛ́ nyɔ́ bɔ mǐ ɖǒ dɛn pɛ́ɛ́ nɛ́ amɔ̌ axisinɔ ɖe ǎ.,JML_S303,6.12
+tr_003403,audio/transcribed/tr_003403.wav,"Agban ɖé ɖíe è ɖe kɔn nyí fí, bɔ gbɛtɔ́ ɖo fí kpɔ́ gégé e.",JML_S383,6.24
+tr_003409,audio/transcribed/tr_003409.wav,Agbanhún gaga lɛ́ɛ ɔ́ nɔ́ gbɔn toxo ɔ́ tɛ́ntin ɖo zǎn xóxó mɛ.,JML_S154,6.12
+tr_003410,audio/transcribed/tr_003410.wav,Agbanhún gaga lɛ́ɛ ɔ́ nɔ́ gbɔn toxo ɔ́ tɛ́ntin ɖo zǎnmɛ bǐ.,JML_S217,6.54
+tr_003411,audio/transcribed/tr_003411.wav,Agbanhún lɛ́ɛ nɔ d'ásá toxo ɔ́ ɖo zǎn xóxó mɛ.,JML_S372,5.34
+tr_003412,audio/transcribed/tr_003412.wav,Agbanhún zunkɔ́ tɔn lɛ́ɛ ɔ́ nɔ́ gbɔn toxo ɔ́ mɛ taátagbe kpódó nyɔ̌nuzángbe kpó zǎnzǎn.,JML_S372,9.48
+tr_003414,audio/transcribed/tr_003414.wav,Agbanhún ɖaxó lɛ́ɛ ɔ́ yě nɔ́ dó asá toxo ɔ́ ɖo zǎn tɛ́ntin bǐ xwíí.,JML_S110,7.56
+tr_003439,audio/transcribed/tr_003439.wav,Agbaza ce nɔ híhí mì bɔ un nɔ ɖo wǔtú klú wɛ ɖó ɖě un ɖyɔ́ aɖǐ ɖěvo ɔ́ wútú.,JML_S341,8.46
+tr_003442,audio/transcribed/tr_003442.wav,Agbaza ce nɔ híhí sín hwenu ɖě un ɖyɔ́ aɖǐ ɔ́.,JML_S451,5.46
+tr_003450,audio/transcribed/tr_003450.wav,"Agbaza ce ɖo vǐvɛ́ wɛ bɔ un ɖó zozo kpɛɖé, azɔn jɛ gbé wɛ un ja a?",JML_S408,6.06
+tr_003453,audio/transcribed/tr_003453.wav,Agbaza cé nɔ vɛ́ bɔ zozo kpɛɖé ɖo jǐ ce. Azɔn ɖě wɛ nyí élɔ ɔ́ a?,JML_S372,7.08
+tr_003458,audio/transcribed/tr_003458.wav,Agbaza towe ní yí zan ɖó kéze ɖě mǐ blǒ wá yi élɔ ɔ́ é vɛ́wǔ kpɛɖé.,JML_S358,6.18
+tr_003463,audio/transcribed/tr_003463.wav,Agbeli ɖa wɛ nǎwe ɔ́ ɖe a kabǐ wɔ̌? É ká lɛ́ vɔ́ cí nú mì ɖɔ ablǒ yokí wɛ mɛ.,JML_S092,9.6
+tr_003472,audio/transcribed/tr_003472.wav,Agbǎnxasun ɖagbe ɖagbe élɔ nyɔ́ kpɔ́n mɛ é jló mì má xɔ.,JML_S115,5.28
+tr_003519,audio/transcribed/tr_003519.wav,"Aglǎswétɛn ahannutɛn zǎn mɛ tɔn ɖokpó ɖíe, é jɛ acɔ́ tawun.",JML_S303,6.42
+tr_003524,audio/transcribed/tr_003524.wav,Agoo! Má bɛ́ kwɛ́ ce sɛxwe ɖó fí. Bǎnki ɔ́ ɖíe mɛ.,JML_S296,6.9
+tr_003543,audio/transcribed/tr_003543.wav,Agunví lɛ́ɛ nɔ́ kplé yěɖée lɛ́ɛ ɖo aklúnɔzángbe lɛ́ɛ ɖo igleja lobo nɔ xo ɖɛ.,JML_S278,6.54
+tr_003544,audio/transcribed/tr_003544.wav,Agunví lɛ́ɛ nɔ́ xo yěɖée kplé nú ɖɛxixo aklúnɔzángbe tɛgbɛ tɔn ɖo amǐsaxwé.,JML_S217,10.56
+tr_003553,audio/transcribed/tr_003553.wav,Agǔ teví tɔn ɖo ganzɛ́n énɛ́ mɛ mɛ.,JML_S131,6.24
+tr_003555,audio/transcribed/tr_003555.wav,"Agǔn kpó mǎ kpó ɖo platmɛ,bɔ ɖuɖutɔ́ ɔ́ jɛ́n kpo.",JML_S358,5.7
+tr_003570,audio/transcribed/tr_003570.wav,Agɔnkɛ́ élɔ lɛ́ɛ ɔ́ è gba bó ɖe sin sín xo yětɔn mɛ.,JML_S372,6.06
+tr_003576,audio/transcribed/tr_003576.wav,Agɔnkɛ́ ɖagbe ɖagbe lɛ́ɛ bɔ yě kpa ɖokpó bó zé ɖ'é ji.,JML_S528,6.848
+tr_003579,audio/transcribed/tr_003579.wav,"Agɔnkɛ́ ɖíe mɛ, agɔnkɛ́ nyɔ́ kpɔ́n káká. Mawǔ agɔnkɛ́ ɔ́ nyɔ́ kpɔ́n dín.",JML_S020,7.68
+tr_003600,audio/transcribed/tr_003600.wav,Agɔ̌ tɛnmɛ wɛ mǐ ɖé bɔ yɛwlínúmɛtɔ́ ɔ́ ɖo yɛ wlí nú mǐ mɛ bǐ wɛ.,JML_S284,12.42
+tr_003604,audio/transcribed/tr_003604.wav,"Agɔ̌ ɖaxó ɖokpó sín nǔ sɔ́ wɛ mǐ ɖe nú togúdonu lɛ́ɛ, atínsínsɛ́n alɔkpa lɛ́ɛ bǐ wɛ mǐ kó xo kplé. Concombre kpódó carotte kpó ká hán ɖ'é mɛ ǎ.",JML_S168,12.06
+tr_003613,audio/transcribed/tr_003613.wav,"Ahan e a ba nú mì ɔ́, é ɖó aɖǐ dín.",JML_S154,5.64
+tr_003633,audio/transcribed/tr_003633.wav,Ahan syɛ́nsyɛ́n nú tɔ́ wɛ bó nɔ nu bǐya tawun.,JML_S154,5.34
+tr_003634,audio/transcribed/tr_003634.wav,Ahan syɛ́nsyɛ́n nú tɔ́ wɛ lobo nɔ nu bǐya tawun.,JML_S544,5.46
+tr_003640,audio/transcribed/tr_003640.wav,Ahan víví víví kɛ́ɖɛ́ ɖíe a cé?,JML_S368,5.991
+tr_003664,audio/transcribed/tr_003664.wav,"Ahan ɖě asa nú mì ɔ́, é vɛ́sin dín.",JML_S372,6.12
+tr_003666,audio/transcribed/tr_003666.wav,Ahan ɖě e a nǎ mì ɔ́ kpákpá ɖɛ̌ tawun wɛ mɛ. É fá cóbɔ un nu ɖěbǔ ǎ.,JML_S278,5.22
+tr_003670,audio/transcribed/tr_003670.wav,"Ahanmúnɔ wɛ, é nɔ́ lɛ́ nu bǐya gěgé.",JML_S372,5.4
+tr_003674,audio/transcribed/tr_003674.wav,Ahannumúnɔ wɛ nyí i bo kɔn lɛ́vɔ́ nu bǐya gěgé.,JML_S408,5.7
+tr_003686,audio/transcribed/tr_003686.wav,Ahannutɔ́ wɛ é ka nɔ́ lɛ́ nu bǐya sukpɔ́ tawun.,JML_S303,5.82
+tr_003688,audio/transcribed/tr_003688.wav,Ahannutɛn akwɛ́nɔ lɛ́ɛ tɔn ɖě è wlí bo ná tawun bó zé azinkpo ɖagbe ɖ'é mɛ é.,JML_S358,6.54
+tr_003689,audio/transcribed/tr_003689.wav,Ahannutɛn téwúngbéjú bó nyɔ́ kpɔ́n bɔ myɔ nǔ bǐ lɛ́ dó ɖi fí e è nɔ zé mɛ e wlí alɔ yɔyɔ̌ lɛ́ɛ wá ɔ́ ɖɔ́hun.,JML_S358,9.9
+tr_003690,audio/transcribed/tr_003690.wav,Ahannutɛn élɔ wɛ un nɔ wá bó nɔ́ wá nu ahan nyɛ tɔn.,JML_S372,6.18
+tr_003693,audio/transcribed/tr_003693.wav,"Ahansaxwé ɖokpó mɔ nɛ́ mi ɖe nɛ́ bɔ yě to ahan lɛ́ɛ ɖě bɔ dó ɖě wú. Mǐ ká lɛ́ kpɔ́n fínɛ ɔ́, mǐ ná mɔ ɖɔ sin ɖésú ɖo fínɛ.",JML_S021,8.64
+tr_003696,audio/transcribed/tr_003696.wav,Ahanvíví kpódó sin kpó satɛn.,JML_S374,5.824
+tr_003701,audio/transcribed/tr_003701.wav,"Ahwannugán ɖɔ nú ahwanvú tɔn lɛ́ɛ ɖɔ zǎnzǎn gan atɔ́ɔ́n mɛ lɛ́ɛ bǐ hǔn, yě ní nɔ́ lɛ́ bló vɔ̌gbɔ́njí cóbó nɔ ɖu nǔ.",JML_S284,11.7
+tr_003704,audio/transcribed/tr_003704.wav,"Ahwlivú élɔ ɔ́ é blá ɖa tɔn bo xlɛ́ nukɔn ɔ́ kpódó gǔdo ɔ kpó, bónú vlavo é wá jló mɛɖé ɔ́ mɛ ɔ hɛn ɔ́ é ná yi blá.",JML_S358,10.32
+tr_003705,audio/transcribed/tr_003705.wav,"Ahwlivú élɔ ɔ́, é hɛn appareil ɖě è nɔ wún yɛ ná ɔ́ bó ɖo yɛ wún wɛ.",JML_S358,5.46
+tr_003706,audio/transcribed/tr_003706.wav,Ahwlivú élɔ́ ɔ́ atínsínsɛ́n wɛ é nɔ́ sa é sín agban wɛ é ɖó ɖo fínɛ.,JML_S358,5.4
+tr_003708,audio/transcribed/tr_003708.wav,Ahɔ̌nkan vǐ yɛyɛ̌ ɔ́ tɔn ɔ́ é fá cóbɔ è sɛ́n ǎ.,JML_S372,5.82
+tr_003709,audio/transcribed/tr_003709.wav,"Ahɔ̌nkan vǐ yɛyɛ̌ ɔ́ tɔ́n ɔ́, é fá có nú è sɛ́n ǎ.",JML_S372,6.06
+tr_003710,audio/transcribed/tr_003710.wav,"Ahɔ̌nkan vǐ yɛyɛ̌ví ɔ́ tɔn ɔ́, é fá cóbɔ é sɛ́n ǎ.",JML_S372,6.18
+tr_003730,audio/transcribed/tr_003730.wav,Ajinakú ɖe ɖíe mɔ̌ wɛ un ɖe ɖo zunkan mɛ é mɛ bɔ e ɖó tó bayaa.,JML_S021,5.64
+tr_003734,audio/transcribed/tr_003734.wav,Ajinakúgelí ɖaxó ɖokpó ɖíe. É ɖokpónɔ wɛ ɖo zunkan élɔ́ mɛ ɖɔhun.,JML_S168,6.84
+tr_003736,audio/transcribed/tr_003736.wav,"Ajinakúgelí, a dó agba káká có ɔ́ azǐnzɛn kpɛví jɛ́n ka dó winnyá we.",JML_S168,7.44
+tr_003743,audio/transcribed/tr_003743.wav,"Ajixotɔ́ lɛ́ɛ jínjɔ́n ayǐ bɔ aji ɔ́ ɖo tɛ́ntin mɛ, ajikwín ɖo alɔ mɛ bɔ yě ɖo xixo wɛ.",JML_S358,6.72
+tr_003765,audio/transcribed/tr_003765.wav,"Ajoví sín nɛgbé ɔ́, nǔ nɔ́ yá wǔ cikɔ ní sín hwenu e wɛ é mɔ xo ɔ́.",JML_S408,6.18
+tr_003770,audio/transcribed/tr_003770.wav,Ajoví sín ta ɔ́ ɖo nǔ wa xá ɛ́ wɛ sín azǎn atɔn ɖíe.,JML_S439,7.02
+tr_003772,audio/transcribed/tr_003772.wav,Ajoví ɔ́ é ɖo wǔvɛ́ sé ɖo ta wɛ sín azǎn atɔn ɖíe din.,JML_S514,7.32
+tr_003779,audio/transcribed/tr_003779.wav,Ajɔ tɛ́ ná na mì wɛ a ka ɖe nú nataa-xwe ɔ́?,JML_S092,5.7
+tr_003793,audio/transcribed/tr_003793.wav,Ajɔ̌gbasá MTN tɔn ɔ́ ɖo ajɔ̌ yɔ̌yɔ́ jlá wɛ. É xɔ ɔ́ è nɔ̌ ná mɛ ɖ'é jí.,JML_S365,7.14
+tr_003841,audio/transcribed/tr_003841.wav,Akajú kwín sisɔ ɖagbe ɖíe mɛ. É nɔ́ víví tawun.,JML_S361,6.3
+tr_003847,audio/transcribed/tr_003847.wav,Akajǔ e ko bló bɔ è hɛn ɔ́ è nǎ xɔ bo ɖu tlɔlɔ éé wɛ è fɔ bo wá tɛ́.,JML_S358,6.3
+tr_003851,audio/transcribed/tr_003851.wav,Akajǔ wɛ è mɛ bó tó bǐ bɔ é nyɔ́ kpɔ́n bó ɖo céɖéɖé mɔ̌.,JML_S358,5.34
+tr_003875,audio/transcribed/tr_003875.wav,Aklúnɔ un nɔ byɔ́ we ɖɔ a nǐ bló bónú má ɖó kwɛ́ bó ná gbá xwé ɖagbe bo na sɔ́ mɛ ce lɛ́ɛ ɖ'é mɛ.,JML_S278,5.64
+tr_003880,audio/transcribed/tr_003880.wav,"Aklúnɔzángbe hwelɛ́kɔ lɛ́ɛ ɔ́, mǐ nɔ́ ɖisa bo nɔ yi kpɔ́n mɛ mǐtɔn lɛ́ɛ, mɛ e bɔ dó mǐ wu lɛ́ɛ mǐ nɔ yi dó gbe nú yě.",JML_S146,7.2
+tr_003882,audio/transcribed/tr_003882.wav,Aklúnɔzángbe lɛ́ɛ wɛ mǐ nɔ́ yá wǔ bló agɔ̌ ɖagbe ɖagbe lɛ́ɛ ɖo gbadanu lɛ́ɛ mɛ.,JML_S396,6.6
+tr_003901,audio/transcribed/tr_003901.wav,Aklúnɔzángbe zǎnzǎn lɛ́ɛ ɔ́ ali mǐtɔn lɛ́ɛ nɔ fá.,JML_S303,6.12
+tr_003902,audio/transcribed/tr_003902.wav,"Aklúnɔzángbe zǎnzǎn lɛ́ɛ ɔ́, mǐ nɔ́ nya nǔ.",JML_S110,5.88
+tr_003905,audio/transcribed/tr_003905.wav,Aklúnɔzángbe zǎnzǎn wɛ un nɔ yá wǔ nya avɔ.,JML_S397,5.34
+tr_003915,audio/transcribed/tr_003915.wav,Aklúnɔzángbe ɔ́ azǎn ɖé gbe wɛ bɔ è nɔ sɔ́ nǔ ganjí loo nɔ yi amǐsa.,JML_S278,5.76
+tr_003941,audio/transcribed/tr_003941.wav,Akpa Kɔmlá tɔ́n ɖo hunhun wɛ nú ényí ɖɔ mɛ jílé é ɖi zɔnlin gěgé ɔ́.,JML_S039,6.36
+tr_003965,audio/transcribed/tr_003965.wav,Akpáxwé ɖětɛ́ lɛ́ɛ wɛ è nɔ gbɔn bó nɔ́ dó sɛ́ kwɛ́ sɛ́dó mɛ?,JML_S514,5.22
+tr_003977,audio/transcribed/tr_003977.wav,Akpɔ́kpɔ́ lɛ́ɛ nɔ́ dó ablu cóbɔ gbada jí nɔ́ ja.,JML_S365,5.34
+tr_003980,audio/transcribed/tr_003980.wav,Akpɔ́kpɔ́ lɛ́ɛ ɔ́ nɔ́ dó gɔngɔn cóbónú jǐ ná ja gbadanu ɔ́.,JML_S217,7.14
+tr_003983,audio/transcribed/tr_003983.wav,"Akpɔ́kpɔ́ lɛ́ɛ ɖo ablu dó wɛ, cóbónú jǐ ɔ́ ná ja gbadanu.",JML_S372,7.02
+tr_003984,audio/transcribed/tr_003984.wav,Akpɔ́kpɔ́ lɛ́ɛ ɖo xíxlɛ́ wɛ ɖɔ jǐ ɔ́ é já ja.,JML_S372,6.0
+tr_003988,audio/transcribed/tr_003988.wav,"Akpɔ́kpɔ́ ɔ́ nɔ́ blá bǐ cóbɔ jǐ gbadanu tɔn ɔ́, é nɔ́ ja.",JML_S372,6.42
+tr_003989,audio/transcribed/tr_003989.wav,Akpɔ́kpɔ́ ɔ́ ɖo xíxlɛ́ wɛ ɖɔ jǐ jló ná ja.,JML_S372,5.28
+tr_003995,audio/transcribed/tr_003995.wav,"Akwɛ yɔ̌yɔ́ ɖě togán mǐtɔn bló din ɔ́, é nyɔ́ kpɔ́n káká bɔ, é nyɔ́ kpɔ́n tawun wɛ mɛ.",JML_S278,6.12
+tr_004017,audio/transcribed/tr_004017.wav,Akwɛ́ caki we yɔyɔ̌ ɖě un ɖó bó ná zán ɔ́ ɖíe.,JML_S372,7.26
+tr_004039,audio/transcribed/tr_004039.wav,Akwɛ́ e a jló na sɛ́dó mì ɔ́ a ɖo na sɛ́dó alǒkanmaɖósíké ce jí wɛ.,JML_S408,5.82
+tr_004041,audio/transcribed/tr_004041.wav,"Akwɛ́ e ba wɛ nyɛ ɖe bo ná xɔ nǔ lɛ́ɛ ɖíe mɛ. Caki wǒ gbe ɖo fí, caki atɔ́ɔ́n gbe ɖo fí, caki we gbe ɖo fí mɔ̌ ɖokpó ɔ́ caki ɖokpó gbe lɛ́ ɖo fí.",JML_S022,11.04
+tr_004043,audio/transcribed/tr_004043.wav,"Akwɛ́ e hɛ̌nnúmɛ lɛ́ɛ kplé ɔ́, nɔ́ dó alɔ bɔ é nɔ sú azɔ̌mɛkwɛ́ vǐ lɛ́ɛ tɔn ná.",JML_S372,7.86
+tr_004053,audio/transcribed/tr_004053.wav,Akwɛ́ e ɖo Mobile Money mitɔn mɛ é ɔ́ kó sɔgbe lo. Mi hɛn ɔ́ mi ná zán ɖě é jló mi gbɔn é.,JML_S569,8.58
+tr_004063,audio/transcribed/tr_004063.wav,Akwɛ́ kpɔ́nwun ko wěma nɔ́ ɔ ɖíe.,JML_S313,5.88
+tr_004075,audio/transcribed/tr_004075.wav,"Akwɛ́ nabí ka kpo ɖo alǒkánwékwín yǎyá tɛ́nnɛ, atɔn ɖokpó, atɔn we, atɔn atɔn, atɔn ɛnɛ ɔ́ jí.",JML_S154,10.74
+tr_004102,audio/transcribed/tr_004102.wav,Akwɛ́ sɔ́ su bó ná dó sɛ́ caki kanɖé wǒ sɛ́dó ǎ.,JML_S514,7.08
+tr_004103,audio/transcribed/tr_004103.wav,"Akwɛ́ sɛ́ dó gbɔn Mobile Money ɔ́, é yá hú tawun ɖɔ e ní sɛ́ kwɛ́ sɛ́ dó gbɔn Banque lě e mì nɔ́ bló gbɔn ɖayǐ xóxó é.",JML_S456,8.82
+tr_004114,audio/transcribed/tr_004114.wav,"Akwɛ́ sɛ́dó nú zogbɛ́n kan zínzán ɔ́, é bló caki wǒ atɔn adaɖé.",JML_S217,7.56
+tr_004127,audio/transcribed/tr_004127.wav,"Akwɛ́ xwé ɖé e nɔ́ ylɔ́ ɖɔ Coris Bank ɔ́, e mɔ ɖíe mǐ ɖe sɛ́dó e.",JML_S021,6.66
+tr_004135,audio/transcribed/tr_004135.wav,Akwɛ́ zínzán má ɖó ta ɖé ɔ́ ná zɔ́n bɔ e ná yá wǔ byɔ́ ya mɛ.,JML_S408,5.4
+tr_004157,audio/transcribed/tr_004157.wav,"Akwɛ́ ɔ́ mi ɖó ná zé ɖó alǒkan élɔ ɔ́ jí: vɔ̌ atɔn, we vɔ̌, ɛnɛ vɔ̌, ayizɛ́n vɔ̌, tántɔn vɔ̌.",JML_S303,10.32
+tr_004179,audio/transcribed/tr_004179.wav,"Akwɛ́ ɔ́, è nɔ zé wa nǔ ná wɛ. Akwɛ́ ɖíɖó ɔ́, nǔ ɖagbe wɛ. Akwɛ́ ɖó ná tíin ɖo mɛ sí.",JML_S158,4.86
+tr_004182,audio/transcribed/tr_004182.wav,Akwɛ́ ɖe bo kplé ɖó vo hwɛndo lɛ́ɛ tɔn nɔ́ dó alɔ azɔ̌mɛ yiyi yɔkpɔ́vú lɛ́ɛ tɔn.,JML_S217,7.74
+tr_004193,audio/transcribed/tr_004193.wav,Akwɛ́ ɖě mɛjitɔ́ mɛjinɔ lɛ́ɛ nɔ kplé ɔ́ nɔ́ zɔ́n bɔ vǐ yětɔn lɛ́ɛ nɔ wá yi nukɔn ɖo wěmakplɔ́nkplɔ́n mɛ.,JML_S278,6.6
+tr_004199,audio/transcribed/tr_004199.wav,Akwɛ́kplétɛn Afrika tɔn.,JML_S165,5.88
+tr_004202,audio/transcribed/tr_004202.wav,"Akwɛ́nyaxwé ɖě è nɔ ylɔ́ ɖɔ bank of africa ɔ́ mɔ sɛ́ dó nɛ́ mǐɖée nɛ́, kpódó wuntun tɔn lɛ́ɛ kpó.",JML_S021,8.64
+tr_004213,audio/transcribed/tr_004213.wav,"Akwɛ́sɛxwé mǐtɔn lɛ́ɛ ɔ́, é ɖo kpataki bɔ mǐ ɖó ná jɛ akɔ xá yě.",JML_S303,7.68
+tr_004214,audio/transcribed/tr_004214.wav,"Akwɛ́sɛxwétɛn Orabank ɖíe ɖo fí e. Síngbó jí wɛ é ɖe, zohún ɖokpó ɖo gǐngán ɖo nukɔn akwɛ́sɛxwétɛn élɔ ɔ́ tɔn.",JML_S168,10.02
+tr_004232,audio/transcribed/tr_004232.wav,Akwɛ́sɛ́xwetɛn UBA é wɛ dó ajɔ azɔ̌watɔ́ tɔn lɛ́ɛ. Yě yi wǒ mɔ̌ lobo yí ajɔ énɛ ɔ́.,JML_S168,9.96
+tr_004240,audio/transcribed/tr_004240.wav,"Akwɛ́sɛ́xwetɛn lɛ́ɛ ɔ́, gegě wɛ ɖe, ɖokpó ɖíe.",JML_S158,4.8
+tr_004264,audio/transcribed/tr_004264.wav,Akwɛ́sɛ́xwétɛn UBA tɔn ɔ́ é ɖo jiɖiɖe hú ɖě kpo lɛ́ɛ é.,JML_S365,5.58
+tr_004268,audio/transcribed/tr_004268.wav,"Akwɛ́sɛ́xwétɛn e è nɔ ylɔ́ ɖɔ UBA e ɖíe, bɔ gbɛtɔ́ lɛ́ɛ ɖo te ɖo fínɛ́ bó xwe nǔ dó awɔntín. Akwɛ́ ná yí wɛ yě ɖe a?",JML_S022,10.32
+tr_004270,audio/transcribed/tr_004270.wav,Akwɛ́sɛ́xwétɛn ná gbe to ɔ́ mɛ nu lɛ́ɛ bɔ yě nǎ sɛ kwɛ́ yětɔn xwe kpódó jiɖiɖe kpó.,JML_S022,7.38
+tr_004282,audio/transcribed/tr_004282.wav,Akwɛ́sɛ́xwétɛn ɖaxó ɖě è nɔ ylɔ́ ɖɔ banque Atlantique é.,JML_S358,6.42
+tr_004296,audio/transcribed/tr_004296.wav,"Akwɛ́xwé ɖě è nɔ ylɔ́ ɖɔ Ecobank ɔ́, é nyɔ́ kpɔ́n tawun. Fítɛ́ nǎ ka mɔ yě ɖe?",JML_S296,7.14
+tr_004321,audio/transcribed/tr_004321.wav,Akíza kannɔ ɖé é mɛ è nɔ zé alɔ yi ta dó bo nɔ́ dó klɔ́ xɔmɛ bɔ é nɔ́ mɛ ganjí é.,JML_S358,6.66
+tr_004329,audio/transcribed/tr_004329.wav,"Akíza lɛ́ɛ bǐ ɔ́, nǔsómɛ fí ɖé wɛ é nɔ́ nɔ ɖo kɔ́xo ɔ́ ta.",JML_S412,5.52
+tr_004342,audio/transcribed/tr_004342.wav,"Akúɖó hwenu ɔ́, sin mimɔ nɔ vɛ́wǔ tawun ɖo xá ɔ́ mɛ.",JML_S365,5.1
+tr_004362,audio/transcribed/tr_004362.wav,"Akɔfá sín akpa ɔ́, é ɖo kúkú wɛ dɛ̌dɛ̌ bɔ é nɔ kpácá mì.",JML_S514,9.6
+tr_004369,audio/transcribed/tr_004369.wav,"Akɔfá sín wǔ e é gblé ɔ́, é ɖo gbigbɔ wɛ kpɛɖé kpɛɖé. É kpácá mì tawun wɛ mɛ.",JML_S514,8.46
+tr_004377,audio/transcribed/tr_004377.wav,"Akɔta ɔ́ sín xwe e mǐ ɖu lɛ́ɛ lɛ́ bló bɔ nǔ ɖagbe lɛ́ɛ, nǔ alɔnu tɛnmɛ tɛnmɛ lɛ́ɛ tɔ́n bɔ é nyɔ́ kpɔ́n ganjí.",JML_S396,12.12
+tr_004380,audio/transcribed/tr_004380.wav,Akɔ́fa sín akpa ɔ́ wɛ ɖo kúkú wɛ dɛ̌dɛ̌ dɛ̌dɛ̌. Un ɖo adohu adohu jí.,JML_S396,6.78
+tr_004391,audio/transcribed/tr_004391.wav,Akɔ́kɔ́ kokló ɔ́ tɔn ɔ́ é nɔ́ ná ɖexlɛ́ ɖɔ ayǐ kó hɔ́n.,JML_S514,7.14
+tr_004411,audio/transcribed/tr_004411.wav,Ali gletoxo mǐtɔn tɔn lɛ́ɛ ɔ́ yě nɔ́ ɖó wěziza ɖo zǎnmɛ ǎ.,JML_S021,7.92
+tr_004418,audio/transcribed/tr_004418.wav,Ali lɛ́ɛ bǐ wɛ nɔ́ fá tóó ɖo aklúnɔzángbe zǎnzaň.,JML_S110,6.96
+tr_004436,audio/transcribed/tr_004436.wav,"Ali lɛ́ɛ bǐ wɛ nɔ́ gɔ́ nú gbadanu ɖo ná sú wɛ ɔ́ mɛ, a ka tunwun a?",JML_S278,5.4
+tr_004437,audio/transcribed/tr_004437.wav,Ali lɛ́ɛ bǐ xwíí nɔ gɔ ɖo gbadanu ɖo hwelɛ́kɔ́ gúdo.,JML_S174,6.18
+tr_004441,audio/transcribed/tr_004441.wav,"Ali lɛ́ɛ gɔ́ bɛ́sín ganxixo atɔ́ɔ́n gbadanu tɔn mɛ, ali lɛ́ɛ nɔ gɔ́ bɔ yiyi nɔ vɛ́wǔ.",JML_S417,12.12
+tr_004448,audio/transcribed/tr_004448.wav,Ali lɛ́ɛ jí nɔ gɔ́ tawun éhɔ́nmɛ zǎnzǎn.,JML_S544,5.46
+tr_004450,audio/transcribed/tr_004450.wav,Ali lɛ́ɛ jí nɔ ɖo tóó ɖo aklúnɔzángbe zǎnzǎn lɛ́ɛ.,JML_S372,6.72
+tr_004461,audio/transcribed/tr_004461.wav,Ali lɛ́ɛ jí nɔ́ nɔ xwíí tawun axɔ́súzángbe zǎnzǎn lɛ́ɛ.,JML_S597,7.98
+tr_004462,audio/transcribed/tr_004462.wav,Ali lɛ́ɛ jí nɔ́ vo ɖo aklúnɔzángbe zǎnzǎn lɛ́ɛ.,JML_S372,5.46
+tr_004489,audio/transcribed/tr_004489.wav,Ali lɛ́ɛ nɔ zawě zǎnmɛ gbadanu lɛ́ɛ ɖo gletoxo ɔ́ mɛ ǎ.,JML_S372,5.58
+tr_004508,audio/transcribed/tr_004508.wav,Ali lɛ́ɛ ɔ́ nɔ́ zawě zǎnmɛ ɖo gletoxo lɛ́ɛ mɛ ǎ.,JML_S217,6.36
+tr_004509,audio/transcribed/tr_004509.wav,Ali lɛ́ɛ ɔ́ nɔ́ zawě zǎnmɛ ɖo gletoxo mɛ ǎ.,JML_S154,5.82
+tr_004517,audio/transcribed/tr_004517.wav,Ali nɔ́ mɔ zogbɛ́n ɖo zǎnmɛ nú e ɖo togun lɛ́ɛ mɛ ɔ́ ǎ.,JML_S278,5.28
+tr_004531,audio/transcribed/tr_004531.wav,Ali ɔ jí bǐ wɛ́ nɔ gɔ́ ɖo gan wěwe gúdo.,JML_S372,5.94
+tr_004534,audio/transcribed/tr_004534.wav,Ali ɔ jí nɔ vo ɖo aklúnɔzángbe zǎnzǎn lɛ́ɛ.,JML_S372,6.9
+tr_004536,audio/transcribed/tr_004536.wav,Ali ɔ jí nɔ́ vo tawun ɖo aklúnɔzángbe zǎnzǎn lɛ́ɛ.,JML_S372,7.74
+tr_004544,audio/transcribed/tr_004544.wav,Ali ɔ́ bǐ cí xwíí vodúngbe zǎnzǎn tɛɛn.,JML_S514,5.88
+tr_004552,audio/transcribed/tr_004552.wav,Ali ɔ́ jí bǐ nɔ́ hwɛ́n ɖo voboɖuzángbe ɖo zǎnzǎn tɛɛn.,JML_S131,6.9
+tr_004553,audio/transcribed/tr_004553.wav,Ali ɔ́ jí bǐ wɛ gɔ́ ɖo zǎnzǎn lobɔ dǐndín tɛn ɖěbǔ tíin ǎ.,JML_S408,6.36
+tr_004554,audio/transcribed/tr_004554.wav,Ali ɔ́ jí bǐ wɛ ján égbé zǎnzǎn tɛɛn.,JML_S408,5.4
+tr_004561,audio/transcribed/tr_004561.wav,Ali ɔ́ jí nɔ́ vo tawun zǎnzǎn lɛ́ɛ ɖo aklúnɔzángbe.,JML_S372,6.78
+tr_004571,audio/transcribed/tr_004571.wav,Ali ɔ́ jí ɔ́ é xɔ́ tawun zǎnzǎn tɛɛn din.,JML_S131,5.52
+tr_004574,audio/transcribed/tr_004574.wav,"Ali ɔ́ jí ɔ́, é nɔ́ vo ɖo síbígbe lɛ́ɛ zǎnzǎn. Mǐ na yá wǔ jɛ xwe ɔ́ nu.",JML_S303,6.54
+tr_004576,audio/transcribed/tr_004576.wav,Ali ɔ́ ná jɛ jǐnján jí gan atɔ́ɔ́n mɛ gbadanu tɔn gúdo.,JML_S372,5.82
+tr_004577,audio/transcribed/tr_004577.wav,Ali ɔ́ nɔ blá bǐ ɖo gbadanu lɛ́ɛ bɛ́sín gan atɔ́ɔ́n mɛ gbadanu tɔn.,JML_S021,7.86
+tr_004587,audio/transcribed/tr_004587.wav,Ali ɔ́ nɔ́ ján ɖo gbadanu lɛ́ɛ gan atɔ́ɔ́n mɛ gúdo.,JML_S372,6.9
+tr_004616,audio/transcribed/tr_004616.wav,Ali ɖaxó ɔ́ é gɔ́ nú mɔ̌to lɛ́ɛ kpódó kɛkɛ́ lɛ́ɛ kpó.,JML_S408,5.46
+tr_004627,audio/transcribed/tr_004627.wav,Ali ɖe nú jǐsin lɛ́ɛ ɔ́ é nyí nǔ tají ɖé ɖo jǐ hwenu.,JML_S217,6.18
+tr_004659,audio/transcribed/tr_004659.wav,"Aligbó lɛ́ɛ ɔ́, yě nɔ́ gɔ́ ní gbɛtɔ́ cícící ní gan wěwe ɔ́ é xó fó wá yi gúdo ɔ́.",JML_S571,9.54
+tr_004660,audio/transcribed/tr_004660.wav,"Aligbó lɛ́ɛ ɔ́, yě nɔ́ ɖó wěziza zǎnmɛ ɖo gletoxo ɔ́ mɛ ǎ.",JML_S514,7.2
+tr_004674,audio/transcribed/tr_004674.wav,Aligbó ɔ́ jí ɔ́ nɔ́ ɖo xwíí ɖo Sabbat zángbe zǎnzǎn lɛ́ɛ ɔ́ bɔ mǐ nɔ mɔ tɛnmɛ bó nɔ yi xwe mǐtɔn ɖu gbé.,JML_S284,12.18
+tr_004681,audio/transcribed/tr_004681.wav,Aligbɔntɔ́ lɛ́ɛ ɖo ablɔɖe gbaja sín xwe ɔ́ sín nǔsísɔ́ lɛ́ɛ kpɔ́n wɛ.,JML_S303,8.4
+tr_004686,audio/transcribed/tr_004686.wav,Alijízatɔ́ lɛ́ɛ nɔ za zunkɔ́ lɛ́ɛ sín ali Parakou tɔn lɛ́ɛ jí zǎnzǎn tɛgbɛ.,JML_S408,6.36
+tr_004688,audio/transcribed/tr_004688.wav,Alikpléhɔ̌nkantɛn lɛ́ dó wɛ nya e ɖo kɛkɛ́ jí bó ɖo yiyi wɛ ɔ́ ɖe.,JML_S358,5.7
+tr_004690,audio/transcribed/tr_004690.wav,Alitahún gaga jlɛ́ mɛ wɛ un nɔ dó bo nɔ yi azɔ̌mɛ bɛ́sín zǎnzǎn gan ayizɛ́n adaɖé mɛ.,JML_S021,10.98
+tr_004703,audio/transcribed/tr_004703.wav,"Aliwáyítɔ́ lɛ́ɛ ɖo wezun dó wɛ, bó ɖo fí e yě na hɔn nyi hwlá dó ɔ́ ba wɛ có ɔ́ jǐ ɔ́ ká lɛ́ vɔ́ xo yě.",JML_S358,7.56
+tr_004706,audio/transcribed/tr_004706.wav,"Alizɔ mǐtɔn ɖě mǐ nɔ wa lɛ́ɛ ɔ́, mɔ̌to ɖaxó ɖaxó ɖé lɛ́ɛ wɛ nɔ ɖ'é wú bɔ é nɔ́ yá.",JML_S278,6.24
+tr_004710,audio/transcribed/tr_004710.wav,"Aluunsun sín sun ɔ́, é ɖiga tawun.",JML_S372,5.76
+tr_004716,audio/transcribed/tr_004716.wav,Alyasun ɖagbe ɖokpó ɖíe un ko mɔ ɖo fí bɔ é ɖó couleur wěwé kpódó vɔvɔ kpó ɖíe.,JML_S273,8.22
+tr_004719,audio/transcribed/tr_004719.wav,"Alyǎnnú é nɔ kun do ɔ́ ɖagbe ɖagbe we ɖíe ɖo fí e bɔ yě bɛ̌ kɔn nyi kɔ́mɛ ɖo zunkan ɖ'é jí, zaanɖé din ɔ́, è ná jɛ azɔ̌ wa ná jí.",JML_S168,11.04
+tr_004725,audio/transcribed/tr_004725.wav,Alǎ e mɛ mǐ nɔ kɔn sin dó bó nɔ ɖa nǔ ná ɔ́ ɖíe.,JML_S361,5.46
+tr_004753,audio/transcribed/tr_004753.wav,"Alǎ ɖě mɛ è nɔ kán nǔɖuɖu dó, alǎ ɖě mɛ è nɔ kán nǔɖuɖu dó.",JML_S176,8.04
+tr_004754,audio/transcribed/tr_004754.wav,Alǎ ɖě è nɔ sa ɖ axi mɛ lɛ́ɛ ɖíe. É nɔ nyɔ́ kpɔ́n bo nɔ dɔ́ ji ganjí.,JML_S396,5.76
+tr_004756,audio/transcribed/tr_004756.wav,Alǎji ɖo nǔɖúɖu ná nyibú tɔn lɛ́ɛ wɛ. Bɔ yě ná mɔtɛn bó ná kló bɔ é ná sa bó ná mɔ akwɛ́ sukpɔ́.,JML_S456,7.62
+tr_004766,audio/transcribed/tr_004766.wav,Alǐn wɛ nyí énɛ ɔ́ lɛ́ɛ bɔ mɛ lɛ́ɛ nɔ zán bo nɔ zán ɖo glemɛ kabǐ bo nɔ zán ɖo fí lɛ́ɛ bo nɔ wa azɔ̌ ná.,JML_S396,6.96
+tr_004769,audio/transcribed/tr_004769.wav,Alǐn ɖokpó é wɛ è sɔ́ ɖó te ɖo zunkan tɛ́ntin azɔ̌wiwa kɛ́ɖɛ́ wɛ kpó din.,JML_S021,8.16
+tr_004800,audio/transcribed/tr_004800.wav,Alǒkan towe kpódó internet kpó ɔ́ hɛ́n ɔ́ é ná hɛn kwɛ́ wá nú we.,JML_S292,5.589
+tr_004806,audio/transcribed/tr_004806.wav,"Alǒkan énɛ ɔ́ kpódó caki ayizɛ́n kpó wɛ ɖo fínɛ́. Caki atɔ́ɔ́n gbe ɖokpó, caki ɖokpó gbe ɖokpó.",JML_S372,8.1
+tr_004824,audio/transcribed/tr_004824.wav,Alǒkanmaɖósí ɖé jɛ ayǐ ɖo ali ɖaxó ɔ́ tó bɔ un mɔ bo zé.,JML_S168,6.18
+tr_004840,audio/transcribed/tr_004840.wav,Alɔ ce droite ɔ́ ɖo jǐjí wɛ sín gbe ɛnɛ ɖíe mɛ. É ɖo vǐvɛ́ mì wɛ káká.,JML_S396,6.54
+tr_004849,audio/transcribed/tr_004849.wav,Alɔ ce aɖisí ɔ́ nɔ́ tɛ ɖo zǎnzǎn lɛ́ɛ bǐ sín azǎn ɛnɛ ɖíe.,JML_S514,8.76
+tr_004855,audio/transcribed/tr_004855.wav,Alɔ ce aɖisíxwé tɔn ɔ́ nɔ́ jí zǎnzǎn tɛgbɛ sín azǎn ɛnɛ ɖíe.,JML_S408,6.84
+tr_004858,audio/transcribed/tr_004858.wav,Alɔ ce aɖisíxwé ɔ́ é nɔ́ tɛ zǎnzǎn tɛgbɛ sín azǎn ɛnɛ ɖíe.,JML_S154,6.66
+tr_004859,audio/transcribed/tr_004859.wav,Alɔ ce aɖusí tɔn ɖo titɛ wɛ bo ɖo jǐjí wɛ sín azǎn ɛnɛ ɖíe gbɔ̌n.,JML_S339,7.5
+tr_004863,audio/transcribed/tr_004863.wav,Alɔ ce aɖísíxwé tɔn ɔ́ é nɔ́ jí zǎnzǎn lɛ́ɛ tɛgbɛ sín azǎn ɛnɛ ɖíe.,JML_S408,5.52
+tr_004864,audio/transcribed/tr_004864.wav,Alɔ ce bǐ wɛ nɔ hwɛ́n wǎn nú ɖɔ un fó áyo kínkɛ́n kpé ɔ́.,JML_S358,5.64
+tr_004868,audio/transcribed/tr_004868.wav,Alɔ ce gúdo ɔ́ nɔ́ vɛ́ nú mì hwenu e é j'ayǐ dó é.,JML_S131,5.34
+tr_004900,audio/transcribed/tr_004900.wav,Alɔ ce ɖo wǎn hwɛ́n wɛ ɖě un flé ayo ɔ́ gúdo ɔ́.,JML_S372,5.82
+tr_004912,audio/transcribed/tr_004912.wav,Alɔ towe nu vo kpɛɖé gbadanu ǎ? Un ba ná kplá we yi xuta.,JML_S365,5.46
+tr_004917,audio/transcribed/tr_004917.wav,Alɔ we énɛ lɛ́ɛ ɖe xlɛ́ ɖɔ gbɛtɔ́ we zé gbeta ɖó kpɔ́ bó ɖo gbe dó nú yěɖée wɛ.,JML_S358,6.48
+tr_004935,audio/transcribed/tr_004935.wav,Alɔgan ɖé ɖíe è blǒ kpó jɛ̌kwín lɛ́ɛ kpó e é ká nyɔ́ kpɔ́n káká.,JML_S021,8.64
+tr_004936,audio/transcribed/tr_004936.wav,"Alɔgan ɖɛkpɛ ɖɛkpɛ tɛ́ ka ɖíe, É nyɔ́ kpɔ́n tawun bɔ wěwé ɖo tɛ́ntin tɔn bɔ è ba acɔ́ ná bɔ é nyɔ́ kpɔ́n bɔ è sɔ́ ɖó kpo ɔ́ jí.",JML_S514,8.58
+tr_004942,audio/transcribed/tr_004942.wav,"Alɔjɛ́ wɛ nyí nǔ ɔ́, bo ɖó sinmɛ tɛnmɛ tɛnmɛ bɔ ɖě bɔ dó ɖě wú.",JML_S278,5.22
+tr_004951,audio/transcribed/tr_004951.wav,Alɔkpa tɛ́ lɛ́ɛ wɛ un ka ná bló aligbó tɛ́ lɛ́ɛ wɛ nǎ sǐ sɔ́ ɖo alǒkanmaɖósiké ce jí bó ná mɔtɛn bo ná zé kwɛ́ ɖó compte ce mɛ?,JML_S146,11.28
+tr_004962,audio/transcribed/tr_004962.wav,Alɔkɛ́ é Jǒ xɔ nú Raïssa é ɖíe mɛ. É yí wǎn n'i dín.,JML_S365,5.46
+tr_004964,audio/transcribed/tr_004964.wav,"Alɔkɛ́ élɔ lɛ́ɛ ɔ́, jɛ̌kwín ée ɖ'é mɛ lɛ́ɛ se acɔ́ káká bó nyɔ́ kpɔ́n.",JML_S553,6.66
+tr_004977,audio/transcribed/tr_004977.wav,"Alɔnuzɔ́ kplɔ́nkplɔ́n ɔ́, é nɔ́ hun ali yɔ̌yɔ́ nú jɔwunjɔja lɛ́ɛ.",JML_S154,6.54
+tr_004978,audio/transcribed/tr_004978.wav,Alɔnuzɔ́ wɛ un nɔ wa. Atínkpatɔ́ wɛ nú mì bɔ yě zɔ́n azɔ̌ mi bɔ un ɖo wiwa wɛ.,JML_S365,6.6
+tr_004984,audio/transcribed/tr_004984.wav,Alɔnuzɔ́watɔ́ lɛ́ɛ nɔ sa alɔkɛ́gan lɛ́ɛ nú jǒnɔ e nɔ wá tomɛ lɛ́ɛ.,JML_S358,5.94
+tr_004985,audio/transcribed/tr_004985.wav,Alɔnuzɔ́watɔ́ lɛ́ɛ nɔ sa kɔ́ nú ɖagbe ée è blǒ ɖó alɔ wú nú mɛ e wá to mɛ lɛ́ɛ.,JML_S452,5.58
+tr_004987,audio/transcribed/tr_004987.wav,Alɔnuzɔ́watɔ́ lɛ́ɛ nɔ́ sa togbé ɖě è blǒ kpó alɔ yětɔn lɛ́ɛ kpó ɔ́ nú mɛ e wá nǔ kpɔ́n gbé lɛ́ɛ.,JML_S278,5.82
+tr_005008,audio/transcribed/tr_005008.wav,"Alɔnuzɔ́watɔ́ élɔ́ ɔ́, azɔ̌ tɔn nɔ jínjɔ́n ayǐ. Xwlɛkpatɔ́ wɛ.",JML_S365,5.4
+tr_005020,audio/transcribed/tr_005020.wav,Alɔnuzɔ́wátɔ́ lɛ́ɛ yě nɔ́ xɔ nǔ e yě ná wlán nǔ d'é wú ɔ́ bó ná sixú xɔ gbɛ ní tomɛví lɛ́ɛ.,JML_S417,10.38
+tr_005025,audio/transcribed/tr_005025.wav,"Alɔnuzɔ́wátɔ́ to mǐtɔn mɛ tɔn lɛ́ɛ, yě nɔ bló nǔ e yě na bló bɔ é ná ɖi to mǐtɔn mɛ sin nǔ lɛ́ɛ bónú jǒnɔ lɛ́ɛ wá ɔ́, yě nǎ kpéwú bó xɔ.",JML_S358,9.96
+tr_005034,audio/transcribed/tr_005034.wav,"Alɔsɔ́dójǐ nú sɔ́misɔ́mitɔ́ ɔ́ ɖɔ xó fó ɔ́, yě xo alɔ n'i.",JML_S154,7.14
+tr_005035,audio/transcribed/tr_005035.wav,Alɔví ce lɛ́ɛ nɔ hwɛ́n áyo nú un bló áyo kpé ɔ́. Alɔví ce lɛ́ɛ bǐ wɛ nɔ́ hwɛ́n áyo.,JML_S396,6.78
+tr_005038,audio/transcribed/tr_005038.wav,Alɔwlíwlí ɔ́ nyí nǔ kpataki ɖé bɔ asú kpó asi kpó kpó ɖo kpɔ́ ɔ́ yě na wlí.,JML_S303,7.5
+tr_005040,audio/transcribed/tr_005040.wav,"Alɔwlígbezángbe ɔ́, nǔ é mɛ yě mɛ e ɖo alɔ wlí wɛ lɛ́ɛ ɖe ɔ́ è nɔ ba acɔ́ ná wɛ mɛ.",JML_S278,8.04
+tr_005044,audio/transcribed/tr_005044.wav,"Alɔwlítɔ́ we élɔ lɛ́ɛ ɔ́, yě ɖo wěma mɛ dó alɔ wɛ kpódó awǎjíjɛ kpódó nǔkíko kpó. É nyɔ́ tawun wɛ mɛ.",JML_S341,9.72
+tr_005054,audio/transcribed/tr_005054.wav,Alɔwlíwlí sín mɔ̌to ɖagbe ɖagbe wiwi ɖé ɖo te.,JML_S528,8.043
+tr_005060,audio/transcribed/tr_005060.wav,Alɔwlíwlí sín wěma ɔ́ mɛ dó alɔ yě ɖe.,JML_S231,7.38
+tr_005077,audio/transcribed/tr_005077.wav,Alɔ́nuzɔ́watɔ́ mǐtɔn lɛ́ɛ wɛ ɖe nǔ yɔ̌yɔ́ lɛ́ɛ tɔ́n nú akɔta xwe yɔ̌yɔ́ ɔ́ tɔn ɔ́ gblamɛ.,JML_S396,8.04
+tr_005092,audio/transcribed/tr_005092.wav,Alɔ̌tlɔ ɖé ɖíe wá ɖo xasun ji gbɔn wɛ e.,JML_S612,5.7
+tr_005103,audio/transcribed/tr_005103.wav,"Ama ɖé lɛ́ɛ ɖe bɔ yě nɔ́ cí fɛɛn káká bɔ, lo nɔ ná sínsɛ́n bɔ a mɔ yě tlóló ɔ́ xovɛ́ jɛ́n ná sin we.",JML_S278,8.52
+tr_005104,audio/transcribed/tr_005104.wav,Ama ɖé wɛ lobɔ è nɔ mɔ ɖo xwé mǐtɔn lɛ́ɛ gbe bɔ é nɔ́ nyɔ́ káká bɔ é nɔ́ gbɔ azɔn nú mɛ.,JML_S278,5.82
+tr_005105,audio/transcribed/tr_005105.wav,"Ama ɖé wɛ́ ɖo kɔ́ mɛ fí ɖé bó wú kpowun. Bɔ è ma tínmɛ nú we ɖɔ é nɔ́ gbɔ azɔn nú mɛ ǎ ɔ́, a nǎ ɖi ǎ.",JML_S278,7.44
+tr_005110,audio/transcribed/tr_005110.wav,"Amanúwatɔ́ gletoxo ɔ́ tɔn ɔ́, é ná amasin ɖé Florent bɔ é nyí amasin tɛ́nwe xokplé dó kpɔ́.",JML_S408,8.04
+tr_005114,audio/transcribed/tr_005114.wav,"Amasin e zán wɛ Safi ɖe ɔ́, amasin ɖiɖa neem tɔn wɛ, xɔ́ntɔn tɔn wɛ ka jlɛ́ n'i.",JML_S204,6.48
+tr_005117,audio/transcribed/tr_005117.wav,Amasin nabí ná nu égbé gan atɔn mɛ?,JML_S397,6.0
+tr_005128,audio/transcribed/tr_005128.wav,Amasinkwín mímá ɔ́ gbawunjo wɛ yě nɔ́ má gbɔn dotóxwé lɛ́ɛ.,JML_S408,6.18
+tr_005140,audio/transcribed/tr_005140.wav,Amasinkwínsatɔ́ ɔ́ é nɔ́ sú cɔ́fu tɔn ɖo gan tántɔn gbadanu tɔn mɛ.,JML_S154,7.14
+tr_005141,audio/transcribed/tr_005141.wav,Amasinkwínsatɔ́ ɔ́ ɖɔ nu Mireille ɖɔ é ní má nu atínkɛ́nkwín para ɔ́ hú we gbe ɖokpó ó.,JML_S217,8.64
+tr_005142,audio/transcribed/tr_005142.wav,"Amasinkwínsatɔ́ ɔ́, é nɔ́ sú cɔ́fu tɔn ɖo gan tántɔn gbadanu tɔn mɛ.",JML_S514,6.78
+tr_005156,audio/transcribed/tr_005156.wav,Ami alɔkpa tɛnmɛ tɛnmɛ wɛ ɖe lo ɔ́ ɖě un yí wǎn nǎ ɔ́ agɔnlinmi wɛ ɖó é nɔ́ víví nǔ ɖésú.,JML_S278,6.6
+tr_005159,audio/transcribed/tr_005159.wav,"Ami go ɖokpó ɔ́ kɛ́ɖɛ́ ɛnɛ, bɔ bǐ xwíí nyí agɔnlin mi.",JML_S358,5.64
+tr_005169,audio/transcribed/tr_005169.wav,"Ami ɖě nɔ mǐtɔn lɛ́ɛ nɔ zán bo nɔ ɖa nǔ ná ɖo xwé gbe lɛ́ɛ ɖé ɖíe. Ɛɛn ami énɛ lɛ́ɛ è nɔ zé bo nɔ sɔ nǔ ná, è nɔ ɖa nǔ ná, è nɔ sá, Ɛɛn.",JML_S396,12.6
+tr_005182,audio/transcribed/tr_005182.wav,"Amivi ɔ́, é ɖó zozo hwenu ɖě é lɛ́kɔ sín tɔkpá sín aximɛ wáyi é.",JML_S514,7.68
+tr_005196,audio/transcribed/tr_005196.wav,Amiví ɔ́ wǔtú tɔn hun myɔ sín hwenu e é lɛ́kɔ sín tɔkpáximɛ é.,JML_S131,8.28
+tr_005218,audio/transcribed/tr_005218.wav,Amǎga alɔkpa tɛnmɛ tɛnmɛ wɛ ɖe lo ɔ́ énɛ ɔ́ é nɔ́ víví mɛ lɛ́ɛ sín nu bɔ yě nɔ́ xɔ ɖésú.,JML_S278,5.82
+tr_005235,audio/transcribed/tr_005235.wav,"Amǎga wɛ nyí nǔ é mɔ mi ɖe énɛ lɛ́ɛ bɔ yě ká myá káká, é kpo ɖě din ɔ́, è nǎ klɔ́ bó ná jɛ ɖuɖu jí.",JML_S146,7.2
+tr_005237,audio/transcribed/tr_005237.wav,"Amǎga élɔ lɛ́ɛ myá, bó nyɔ́ kpɔ́n, un ɖi ɖɔ é ná víví.",JML_S372,6.9
+tr_005239,audio/transcribed/tr_005239.wav,"Amǎga élɔ lɛ́ɛ nyɔ́ kpɔ́n, é ná víví tawun ɖó yě myá.",JML_S372,7.02
+tr_005240,audio/transcribed/tr_005240.wav,"Amǎga élɔ lɛ́ɛ ɔ́, yě na nyɔ́ ɖu ɖó é kó myá.",JML_S372,6.72
+tr_005243,audio/transcribed/tr_005243.wav,Amǎga ɔ́ tɛnmɛ tɛnmɛ wɛ ɖe. Lo ɔ́ ɖě tín bɔ é nɔ́ kpɔ tawun (...).,JML_S278,7.08
+tr_005249,audio/transcribed/tr_005249.wav,Amǎganɔ lɛ́ɛ ɖo akwɛ́ yětɔn xa wɛ. Mɛɖé lɛ́ɛ hɛn caki ɖokpó gbe bó ɖo zǐzé nú mɛ ɖévo wɛ.,JML_S361,7.02
+tr_005258,audio/transcribed/tr_005258.wav,"Amǐsa aklúnɔzángbe tɔn énɛ ɔ́, é ná bɛ́ ɖo gan tɛ́nwe cɛ́jú gban mɛ.",JML_S158,5.94
+tr_005262,audio/transcribed/tr_005262.wav,Amǐsa aklúnɔzángbe tɔn ɔ́ nɔ́ bɛ́ ɖo gan tɛ́nwe xo dín cɛ́jú gban mɛ zǎnzǎn.,JML_S365,9.0
+tr_005268,audio/transcribed/tr_005268.wav,"Amǐsa axɔ́súzángbe tɔn ɔ́, é nɔ́ bɛ́ ɖo gan tɛ́nnɛ adaɖé zǎnzǎn tɔn mɛ.",JML_S597,7.08
+tr_005282,audio/transcribed/tr_005282.wav,Amǐsa vodúngbe tɔn ɔ́ é nɔ́ bɛ́ ɖo gan tɛ́nwe adaɖé zǎnzǎn tɔn mɛ.,JML_S514,7.26
+tr_005285,audio/transcribed/tr_005285.wav,"Amǐsa xɔ elɔ, amǐsa xɔ xóxó église katolika tɔn lɛ́ɛ ɖokpó nɛ.",JML_S358,5.88
+tr_005287,audio/transcribed/tr_005287.wav,"Amǐsa xɔ ɖaxó katolika lɛ́ɛ tɔn, bɔ mɛɖé gán mɔ̌to tɔn wiwi cúcwí ɖó nukɔn tɔn.",JML_S358,6.84
+tr_005293,audio/transcribed/tr_005293.wav,"Amǐsaxwé ɖaxó élɔ ɔ́, mɛ ɖěbǔ kó wá mɛ égbe ǎ. Hɔn tɔn lɛ́ɛ bǐ wɛ ɖo súsú.",JML_S168,7.32
+tr_005296,audio/transcribed/tr_005296.wav,"Amǐsaxwé cé ɔ́, é nyɔ́ ɖɛkpɛ tawun.",JML_S374,5.141
+tr_005308,audio/transcribed/tr_005308.wav,Amǐsaxɔ élɔ́ ɔ́ é gbɔn vo nú malɛnu lɛ́ɛ sín másálásí.,JML_S092,6.9
+tr_005319,audio/transcribed/tr_005319.wav,"Amɔ̌ Avocat élɔ ɔ́ nyɔ́ ɖɛkpɛ tawun, nú un sǐ mɔ we din ɔ́, nǎ blǒ bo ná ɖu kpó pain kpó.",JML_S303,9.0
+tr_005351,audio/transcribed/tr_005351.wav,"Amɔ̌ myɔ ɖě yě bló ɖó fínɛ́ lɛ́ɛ myɔ lɛ́ɛ nyɔ́ kpɔ́n tawun wɛ mɛ, é nyɔ́ kpɔ́n bo jɛ acɔ́.",JML_S396,6.6
+tr_005397,audio/transcribed/tr_005397.wav,"Amɔ̌ xó jɛ́n wɛ mɛ. Bɔ vǐ kpɛví we élɔ lɛ́ɛ ɔ́, yě sɔ́ mɔ nǔ ɖěbǔ zɛ sin ɔ wú bó ná da ayihún ná a ě?",JML_S341,7.5
+tr_005456,audio/transcribed/tr_005456.wav,Anya teví tɔn ɖo zɛ̌n ɖě ɖo dɔ̌n énɛ ɔ́ mɛ.,JML_S408,5.28
+tr_005458,audio/transcribed/tr_005458.wav,Anyǔmlímlí sɔ́ alɔ dó xo ná ɔ́ xo ɖíe wɛ vǐ lɛ́ɛ ɖe ɖo anyǔmlímlíxotɛn élɔ e.,JML_S021,7.98
+tr_005471,audio/transcribed/tr_005471.wav,"Anyǔmlímlí xo tɔ́ lɛ́ɛ ɔ́, yě nɔ́ ɖo azɔ̌ wa wɛ azǎn lɛ́ɛ bǐ gbe bó ná dó mɔ tɛn bó lɛ́ nyɔ́ anyǔmlímlí ɔ́ xo ganjí tɔn.",JML_S361,11.7
+tr_005482,audio/transcribed/tr_005482.wav,Anɔ̌ ce lɛ́ɛ nɔ vɛ́ mì tawun nú vǐ yɛ̌yɛ́ ví ɔ́ ɖo nǐnɔ́ wɛ ɔ́. Nǔ ɖo ganjí jɛ́n wɛ a?,JML_S372,7.68
+tr_005483,audio/transcribed/tr_005483.wav,Anɔ̌ ce lɛ́ɛ nɔ vɛ́ nú mì tawun nú vǐ yɛ̌yɛ́ ɔ́ é ɖo anɔ̌ nɔ́ wɛ ɔ́. É ka nyɔ́ mɔ̌ a?,JML_S217,8.52
+tr_005491,audio/transcribed/tr_005491.wav,"Anɔ̌ cé lɛ́ɛ nɔ vɛ́ mì tawun hwenu ɖě wɛ vǐ ce yɛ̌yɛ́ jɛ anɔ̌ nɔ́ jí ɔ́, nǔ ɖagbe jɛ́n ka nyí mɔ̌ a?",JML_S408,7.56
+tr_005493,audio/transcribed/tr_005493.wav,"Anɔ̌ cé lɛ́ɛ nɔ vɛ́ nú mì tawun nú vǐ yɛ̌yɛ́ví ɔ́ nɔ́ anɔ̌ ɔ́, é ká nyí nǔ ɖo ganjí a?",JML_S514,9.66
+tr_005510,audio/transcribed/tr_005510.wav,Armin nɔ yi amǐsa tɛgbɛ bó nɔ́ yí xo ɖɛ.,JML_S372,6.54
+tr_005513,audio/transcribed/tr_005513.wav,Armin nɔ yi amǐsaxwé ayǐhɔ́ngbe tɛgbɛ bó nɔ mɔ tɛn bo nɔ dó xo ɖɛ.,JML_S456,5.64
+tr_005518,audio/transcribed/tr_005518.wav,Armin nɔ yi amǐsaxwé lobo nɔ yi xo ɖɛ ayǐhɔ́ngbe ayǐhɔ́ngbe.,JML_S168,5.94
+tr_005522,audio/transcribed/tr_005522.wav,Armin nɔ yi yɛhwexɔmɛ bo nɔ xa yɛhwe ayǐhɔ́ngbe ayǐhɔ́ngbe.,JML_S597,7.32
+tr_005538,audio/transcribed/tr_005538.wav,"Asi ce nɔ nɔ́ ɖɔ hweɖé lɛ́ɛ nú ɖɔ fífá ná tíin ɖo xwé ɔ́ gbe ɔ́, é ná sín dó nyɔ̌nu lɛ́ɛ wú.",JML_S542,6.66
+tr_005555,audio/transcribed/tr_005555.wav,"Asi ce sín nɔví ɔ́ gɔ alɔ nú mì sɔ tawun bɔ un dó mɔ tɛn lobo tunwun yɛsunɖiɖe núwiwa e ɖw ɔ́, é jɔ gbɛtɔ́ tawun.",JML_S146,9.12
+tr_005564,audio/transcribed/tr_005564.wav,Asi cé sín nɔ ɔ́ é nɔ́ ɖɔ tɛgbɛ tɛgbɛ ɖɔ jlé fífá ní tíin ɖo xɔ ɔ́ sá mɛ ɔ́ é sín asi ɔ́ wú.,JML_S256,14.52
+tr_005571,audio/transcribed/tr_005571.wav,Asi towe ko bló nǔɖuɖu ɖó távo jí. Un ɖo dǐndín wɛ bo mɔ bɔ xovɛ́ sin mì tlóló.,JML_S168,8.82
+tr_005576,audio/transcribed/tr_005576.wav,Asiba ɖo anɔ̌ ná vǐ tɔn wɛ.,JML_S115,6.42
+tr_005600,audio/transcribed/tr_005600.wav,Asyá Bénin to tɔn ɔ́ gbɔn vo nú élɔ tawun wɛ mɛ.,JML_S092,7.8
+tr_005601,audio/transcribed/tr_005601.wav,Asyá Côte d'Ivoir tɔn ɖíe mɛ amɔ̌ folówa ɖěvo lɛ́ wá ɖo tɛ́ntín tɔn mɛ.,JML_S412,6.72
+tr_005606,audio/transcribed/tr_005606.wav,Asyá Bénin togun tɔn ɔ́ sín asyá nɛ́. Ɛɛn é wɛ è nɔ zé bó nɔ tunwun ɖɔ Bénin tomɛ ɔ́ nɛ́.,JML_S396,7.08
+tr_005648,audio/transcribed/tr_005648.wav,Asyá to Grande-Bretagne tɔn.,JML_S206,5.22
+tr_005711,audio/transcribed/tr_005711.wav,Asyá to tɛ́ mɛ tɔn ka ɖíe? Asyá élɔ́ ɔ́ nyɔ́ kpɔ́n tawun wɛ mɛ.,JML_S412,6.399
+tr_005748,audio/transcribed/tr_005748.wav,"Asyá to élɔ tɔn ɔ́, é nyɔ́ kpɔ́n nú mì tawun wɛ mɛ, sinmɛ tɔn lɛ́ɛ jɛ́n lɛ́ vɔ́ jɛ acɔ́ sɔ lě a. Fɛ́sinnɔ, wěwé kpódó vɔvɔ kpó.",JML_S168,10.32
+tr_005751,audio/transcribed/tr_005751.wav,"Asyá to élɔ́ mɛ tɔn ɔ́ é ɖó sin wiwi, koklójónɔ kpó vɔvɔ kpó lobɔ gǔdo tɔn ka nyí sin fɛ́sinnɔ.",JML_S278,8.16
+tr_005763,audio/transcribed/tr_005763.wav,"Asyá to énɛ ɔ́ mɛ tɔn wɛ ɔ́, é ná cí ɖi Zambie sín drapeau lɛ́ɛ nɛ́ mɛ.",JML_S396,7.14
+tr_005805,audio/transcribed/tr_005805.wav,Asyá to ɖé tɔn mɛ wɛ nyí asyá énɛ ɔ́. É wɛ ka nɔ zɔ́n bɔ è nɔ yá wǔ tunwun to e mɛ sín asyá wɛ ɔ́. Mais nyɛ ɖésú ɔ́ un tunwun ǎ.,JML_S396,12.18
+tr_005815,audio/transcribed/tr_005815.wav,Asyá to ɖé tɔn ɖíe bɔ é hɛn sinmɛ vɔvɔ kpó amamú kpó bó hɛn ɖiɖe ɖé ɖo tɛ́ntin.,JML_S439,7.2
+tr_005820,audio/transcribed/tr_005820.wav,Asyá to ɖé tɔ́n ɖíe é hɛn sinmɛ amamú kpó vɔvɔ kpó.,JML_S439,6.54
+tr_005830,audio/transcribed/tr_005830.wav,Asyá to ɖě è ylɔ́ Turquie ɔ́ tɔn bɔ é ɖó wuntun vɔvɔ kpó wěwé kpó.,JML_S165,11.46
+tr_005865,audio/transcribed/tr_005865.wav,Asyá tɛnmɛ tɛnmɛ lɛ́ɛ jɛ́n ɖe. Élɔ ɔ́ din ɔ́ vɔvɔ wɛ kpé mɛ bɔ wěwé kpɛɖé wá ɖo tɛ́ntin tɔn kpódó sunví vɔvɔ ɖokpó kpán.,JML_S168,10.32
+tr_005871,audio/transcribed/tr_005871.wav,Asyá vɔvɔ ɖaxó ɖokpó ɖíe wěwé ɖokpó ká ɖo tɛ́ntín tɔn. Sunví vɔvɔ kpódó sun vɔvɔ ɖokpó ɖo tɛ́ntín tɔn.,JML_S168,8.52
+tr_005872,audio/transcribed/tr_005872.wav,Asyá vɔvɔ ɖokpó ɖíe bɔ koklójónɔ ɖo tɛ́ntin n'i bɔ xɛ ɖé wɛ ka nyí koklójónɔ.,JML_S168,8.7
+tr_005902,audio/transcribed/tr_005902.wav,"Asyá élɔ gbɔn vo nú ɖě un ko nɔ mɔ káká jɛ fí égbe ɔ́, é nyí vɔvɔ, fɛ́sinnɔ, ɖibla byɔ́ koklójónɔ mɛ kpó wěwé kpán.",JML_S278,10.74
+tr_005936,audio/transcribed/tr_005936.wav,Asyá élɔ ɔ́ fɛ́sínnɔ wɛ húgǎn cóbɔ koklójónɔ wá gbɔn tɛ́ntín tɔn kpódó amyɔ tɔn xwé kpán.,JML_S168,9.24
+tr_005937,audio/transcribed/tr_005937.wav,"Asyá élɔ ɔ́ gbɔn vo nú asyá ɖě lɛ́ɛ bǐ ɖó é ɖó sin wěwé, vɔvɔ, wěwé, fɛ́sínnɔ bɔ nǔ alɔ ɖɔhun ɖé lɛ́ɛ wá gbɔn mɛ.",JML_S278,9.84
+tr_005938,audio/transcribed/tr_005938.wav,Asyá élɔ ɔ́ jɔ mɛ wɛ é ka ɖe a ɖó un ɖo nǔ lɛ́ɛ mɔ ɖo wǔtú tɔn...,JML_S412,7.02
+tr_005961,audio/transcribed/tr_005961.wav,"Asyá élɔ ɔ́ sinmɛ amamú ɖ'é mɛ, koklójónɔ ɖ'é mɛ, có vɔvɔ lɔ mɔ̌ ɖ'é mɛ. Ɖiɖe ɖagbe ɖokpó ká wá cí tɛ́ntin mɛ ní koklójónɔ ɔ́.",JML_S168,12.0
+tr_005963,audio/transcribed/tr_005963.wav,"Asyá élɔ ɔ́ sín bǐbɛ́mɛ ɔ́, è nɔ mɔ fɛ́sinnɔ kpó koklójónɔ kpó bó nɔ wá mɔ wěwé kpó vɔvɔ kpán.",JML_S278,5.94
+tr_005972,audio/transcribed/tr_005972.wav,Asyá élɔ ɔ́ è má dó ɛnɛ bɔ mǐmá ɛnɛ lɛ́ɛ bǐ xwíí hɛn sinmɛ ɖokpó ɔ́ lɛ́ɛ.,JML_S022,7.74
+tr_005973,audio/transcribed/tr_005973.wav,"Asyá élɔ ɔ́ è mɔ nukúnnú jɛ́ wú ganjí ǎ, lo ɔ́ è kpɔ́n ɔ́, è nɔ mɔ ɖɔ é ɖó sin nukúnmɛ vovo atɔn, fɛ́sinnɔ, wěwé, koklójónɔ kpó vɔvɔ kpán.",JML_S278,11.1
+tr_005977,audio/transcribed/tr_005977.wav,"Asyá élɔ ɔ́ é nyɔ́ kpínkpɔ́n tawun wɛ mɛ,bɔ sunví wěwé ɖo tɛ́ntin tɔn mɛ.",JML_S412,7.92
+tr_005997,audio/transcribed/tr_005997.wav,Asyá élɔ ɔ́ é ɖó sin vɔvɔ kpódó amamú kpó bɔ nǔ sunví ɖɔwun koklójónɔ sín sin ɖɔhun ɖ'é mɛ.,JML_S278,10.32
+tr_006000,audio/transcribed/tr_006000.wav,Asyá élɔ ɔ́ ɖiɖe ɖě ɖ'é ji lɛ́ɛ ɔ́ ɖi Jesu tɔn. Bɔ é ɖó sinmɛ vɔvɔ wěwé.,JML_S278,7.08
+tr_006003,audio/transcribed/tr_006003.wav,"Asyá élɔ ɔ́ ɖó sinmɛ donu vovo atɔ́ɔ́n. koklojónɔ, wěwé, vɔvɔ, fɛ́sinnɔ kpódó amamú kpó.",JML_S168,10.92
+tr_006004,audio/transcribed/tr_006004.wav,"Asyá élɔ ɔ́, Nigeria to sín asyá ɖíe a ě?",JML_S412,5.46
+tr_006039,audio/transcribed/tr_006039.wav,Asyá élɔ ɖó sin fɛ́sínnɔ bɔ koklójónɔ́ sín sin gbɔn mɛ bɔ vɔvɔ wá xokpóɖó ná.,JML_S278,6.3
+tr_006040,audio/transcribed/tr_006040.wav,Asyá élɔ ɖó sinmɛ amamú we lobɔ koklójónɔ kpó wiwi kpó gbɔn mɛ téwún téwún.,JML_S278,6.24
+tr_006041,audio/transcribed/tr_006041.wav,"Asyá élɔ ɖó vɔvɔ, fɛ́sínnɔ, koklójónɔ.É lɛ́ wá ɖó sunví wěwé ɖé lɛ́ɛ ɖo fɛ́sínnɔ ɔ́ sín tɛ́ntin.",JML_S168,9.9
+tr_006046,audio/transcribed/tr_006046.wav,Asyá élɔ́ nukɔntɔn ɔ́ ɖíe mɔ wɛ un ɖe mɛ amamú kɛ́ɖɛ́ wɛ faan,JML_S168,5.58
+tr_006060,audio/transcribed/tr_006060.wav,"Asyá élɔ́ ɔ́, a nǎ mɔ vɔvɔ kpódó fɛ́sinnɔ kpán ɖ'é mɛ cóbɔ koklójónɔ wá ɖe ɖiɖe ɖaxó ɖokpó ɖo vɔvɔ ɔ́ tɛ́ntin.",JML_S168,11.52
+tr_006063,audio/transcribed/tr_006063.wav,"Asyá élɔ́ ɔ́ jló ná ɖi jǎnma to sín asyá, lo ɔ́ é ká wɛ ǎ.",JML_S092,6.48
+tr_006074,audio/transcribed/tr_006074.wav,Asyá élɔ́ ɔ́ sinmɛ fɛ́sinnɔ kpó wěwé kpán wɛ ɖ'é mɛ. Yě zé wěwé ɔ́ bó bló aklúzu ná ɖo tɛ́ntin tɔn.,JML_S168,8.28
+tr_006075,audio/transcribed/tr_006075.wav,Asyá élɔ́ ɔ́ to ɖě tɛ́ mɛ tɔn ka wɛ? É nylá bǐ ǎ mɛ.,JML_S412,5.64
+tr_006091,audio/transcribed/tr_006091.wav,"Asyá élɔ́ ɔ́ é nyɔ́ ɖɛkpɛ tawun wɛ mɛ, sinmɛ tɔn fɛ́sinnɔ ɔ́, wěwe ɔ́ kpódó vɔvɔ kpán ɔ́, yě sɔgbe xá yěɖée tawun.",JML_S168,10.56
+tr_006093,audio/transcribed/tr_006093.wav,Asyá élɔ́ ɔ́ é wɛ è nɔ zán ɖo Croix Rouge sin to ɖé lɛ́ɛ ɖo dɔ̌n mɛ.,JML_S396,5.76
+tr_006097,audio/transcribed/tr_006097.wav,Asyá élɔ́ ɔ́ ɖi Aflíka gbéjí sín to sín asyá ɖokpó.,JML_S092,6.96
+tr_006098,audio/transcribed/tr_006098.wav,"Asyá élɔ́ ɔ́ ɖó koklójónɔ ɖo aga, bó ɖó ɖo do, vɔvɔ wá gbɔn tɛ́ntin mɛ n'i, wěwé gɔ́ ná bɔ sunví koklójónɔ lɛ́ɛ gbɔn mɛ.",JML_S168,9.72
+tr_006099,audio/transcribed/tr_006099.wav,"Asyá élɔ́ ɔ́ ɖó sín we wiwi kpó vɔvɔ kpó bɔ wiwi ɔ́ jí ɔ́ nǔ wěwé ɖe, vɔvɔ ɔ́ jí nǔ koklójónɔ ɖe.",JML_S278,6.3
+tr_006110,audio/transcribed/tr_006110.wav,"Asyá énɛ ɔ́ gosín, Somalie sín Gabon sín to mɛ, un ka tunwun ganjí ǎ.",JML_S396,8.52
+tr_006115,audio/transcribed/tr_006115.wav,Asyá énɛ́ ɔ́ é já ɖi Maroc sín asyá. Kabǐ é wɛ a ě? É gbɔn vo wɛ a?,JML_S412,8.52
+tr_006118,audio/transcribed/tr_006118.wav,"Asyá ɔ́ ɖó sin vɔvɔ, wěwé kpó fɛ́sinnɔ kpán.",JML_S278,5.58
+tr_006119,audio/transcribed/tr_006119.wav,"Asyá ɔ́ ɖó sin wěwé, vɔvɔ kpó fɛ́sinnɔ kpán.",JML_S278,5.7
+tr_006128,audio/transcribed/tr_006128.wav,"Asyá ɖagbe ɖagbe é nyɔ́ kpɔ́n. Wa kpɔ́n asyá élɔ ɔ́, togán yětɔn ka nyɔ́ a?",JML_S136,6.42
+tr_006135,audio/transcribed/tr_006135.wav,"Asyá ɖagbe ɖagbe, asyá nyɔ́ kpɔ́n. Fofó wǎ kpɔ́n asyá élɔ. To ɖětɛ́ mɛ sín asyá ká wɛ? Togán yětɔn ká nyɔ́ a? Akwɛ́ tíin ɖo to ɔ́ mɛ a?",JML_S136,9.42
+tr_006143,audio/transcribed/tr_006143.wav,"Asyá ɖagbe ɖagbe, asyá ɔ́ nyɔ́ kpɔ́n. Fofó wa kpɔ́n asyá élɔ, to ɖětɛ́ mɛ sín asyá ká wɛ, hǔn mǐ na yi to ɔ́ mɛ a?",JML_S136,6.54
+tr_006146,audio/transcribed/tr_006146.wav,"Asyá ɖagbe ɖagbe, dadá wǎ kpɔ́n asyá élɔ. To ɖětɛ́ mɛ sín asyá ká wɛ? Hǔn, ɖɔ nú mì.",JML_S136,5.7
+tr_006169,audio/transcribed/tr_006169.wav,Asyá ɖé wɛ lobo ɖó sin fɛ́sinnɔ kpódó wěwé kpán.,JML_S278,7.92
+tr_006171,audio/transcribed/tr_006171.wav,Asyá ɖě tɛ́ kó lɛ nyí élɔ́? Wiwi ɖě ɖ'é mɛ ɔ́ wɛ zɔ́n bɔ é jɛ acɔ́ ɖěbǔ ǎ.,JML_S412,6.3
+tr_006176,audio/transcribed/tr_006176.wav,Asyá ɖětɛ́ ká nyí élɔ? Xɛví wɛ ka ɖ'é mɛ ɖɔhun a?,JML_S412,5.82
+tr_006179,audio/transcribed/tr_006179.wav,"Asyá ɖěvo ko lɛ́ ɖíe, un tlɛ tunwun to e mɛ tɔn wɛ ɔ́ ǎ.",JML_S412,5.82
+tr_006180,audio/transcribed/tr_006180.wav,Asyá ɖěvo ɖíe nyɛ ka tunwun to ɖě sín asyá wɛ ɔ́ ǎ mɛ.,JML_S412,6.06
+tr_006182,audio/transcribed/tr_006182.wav,Asyákpo tɛ́ ká nyí éyɛ́ bó ɖó sinmɛ jǐnukúnsinnɔ kpódó wěwé kpó wiwi kpó mɔ̌ nɛ́?,JML_S206,11.7
+tr_006235,audio/transcribed/tr_006235.wav,Asyátín to énɛ ɔ́ mɛ tɔn ɔ́ wɛ nɔ zɔ́n bɔ mɛ lɛ́ɛ nɔ yá wǔ tunwun to e mɛ wɛ ɔ́. É ná cí ɖi ɖɔ hlɔ̌ma sín tomɛ wɛ.,JML_S396,9.66
+tr_006236,audio/transcribed/tr_006236.wav,"Asyátín to ɖe mɛ tɔn ɖíe, é ɖó sinmɛ vɔvɔ, wěwé kpódó vɔvɔ kpó.",JML_S131,6.3
+tr_006245,audio/transcribed/tr_006245.wav,Asyátín to ɖé mɛ tɔn wɛ nyí élɔ bó ɖó sinmɛ amamú vɔvɔ koklójónɔ.,JML_S131,6.9
+tr_006246,audio/transcribed/tr_006246.wav,"Asyátín to ɖé mɛ tɔn wɛ nyí élɔ bó ɖó sinmɛ vɔvɔ, wěwé, wiwi.",JML_S131,5.64
+tr_006247,audio/transcribed/tr_006247.wav,"Asyátín to ɖé mɛ tɔn wɛ nyí élɔ, bó ɖó sinmɛ vɔvɔ, wěwé ɖo tɛ́ntin tɔn vɔvɔ we lɛ́ɛ jí, bɔ atín ɖokpó ɖo wěwé ɔ́ tɛ́ntin.",JML_S131,10.14
+tr_006248,audio/transcribed/tr_006248.wav,"Asyátín to ɖé mɛ tɔn ɖíe bɔ é ɖó sinmɛ amamú, koklójónɔ kpódó vɔvɔ kpó bɔ sunví atɔ́ɔ́n ɖokpó ɖo tɛ́ntín tɔn.",JML_S131,9.3
+tr_006249,audio/transcribed/tr_006249.wav,Asyátín to ɖé tɔn bó hɛn wuntun amamú kpódó vɔvɔ botoboto ɖokpó ɖo tɛ́ntin kpó.,JML_S165,11.7
+tr_006250,audio/transcribed/tr_006250.wav,"Asyátín to ɖé tɔn wɛ nyí élɔ́, bɔ nǔ énɛ́ ɖ'é mɛ, sunví ɖ'é mɛ.",JML_S414,9.78
+tr_006251,audio/transcribed/tr_006251.wav,"Asyátín to ɖě mɛ tɔn wɛ nyí élɔ́, bo ɖó sinmɛ fɛ́sinnɔ kpódó vɔvɔ kpó.",JML_S131,6.18
+tr_006252,audio/transcribed/tr_006252.wav,"Asyátín to ɖě mɛ tɔn wɛ nyí élɔ́, bó ɖó sinmɛ amamú, vɔvɔ ɖo tɛ́ntin tɔn bɔ koklójónɔ lɔ ɖ'é mɛ.",JML_S131,9.06
+tr_006255,audio/transcribed/tr_006255.wav,"Asyátín toxo ɖokpó tɔn, bɔ é nyí wěwé kpódó vɔvɔ kpó.",JML_S542,6.24
+tr_006257,audio/transcribed/tr_006257.wav,Asyátín toxo ɖě è nɔ ylɔ́ ɖɔ Ouganda ɔ́ tɔn.,JML_S165,5.7
+tr_006292,audio/transcribed/tr_006292.wav,Asyávɔ to ɖé tɔn wɛ nyí élɔ.,JML_S452,5.52
+tr_006293,audio/transcribed/tr_006293.wav,Asyávɔ to ɖé tɔn ɖíe ɖo fí e.,JML_S452,5.04
+tr_006312,audio/transcribed/tr_006312.wav,Así kíkɔ́ kokló ɔ́ tɔ́n ɔ́ xlɛ́ ɖɔ kéze ɖěvo já lɛ́ bɛ́.,JML_S372,7.02
+tr_006326,audio/transcribed/tr_006326.wav,"Asísi we lɛ́ɛ ɔ́, yě ɖo kpɔ́ ganjí bɔ yě nɔ́ se gbe yěɖée lɛ́ɛ tɔn ɖó kpɔ́.",JML_S372,7.08
+tr_006328,audio/transcribed/tr_006328.wav,Asísi we élɔ́ lɛ́ɛ nɔ ba ná nɔ kpɔ́ ganjí parce que yě nɔ́ ɖó mɔjɛmɛ nú yěɖée lɛ́ɛ.,JML_S396,7.44
+tr_006335,audio/transcribed/tr_006335.wav,Asísí asísí we élɔ́ lɛ́ɛ ɔ́ yě nɔ́ mɔ nukúnnú jɛ yěɖée lɛ́ɛ sín gbe mɛ tawun.,JML_S408,6.48
+tr_006360,audio/transcribed/tr_006360.wav,"Asú ce ɔ́ ɖo ganjí, vǐ towe lɛ́ɛ lo, yě ɖo ganjí a?",JML_S131,6.72
+tr_006361,audio/transcribed/tr_006361.wav,Asú ce ɔ́ ɖó azɔn e è nɔ ylɔ́ ɖɔ sida é nyɛ ka ɖó ǎ. Un ka hɛn ɔ́ un ná mɔ xo sans ma jɛ azɔn ɔ́ a?,JML_S408,7.5
+tr_006364,audio/transcribed/tr_006364.wav,"Asú ce ɔ́, é ɖó azɔnkwín SIDA tɔn. Nyɛ ɔ́, un ɖó ǎ, un hɛn ɔ́ un si mɔ xo bó ɖó gǎnjɛwú a?",JML_S303,9.48
+tr_006376,audio/transcribed/tr_006376.wav,"Asú ce ɖo ɖagbe, vǐ tówe lɛ́ɛ lo? Yě lɔ mɔ̌ ɖo ɖagbe a?",JML_S068,7.5
+tr_006382,audio/transcribed/tr_006382.wav,Asú ce ɖó azɔn Sida tɔn bɔ nyɛ ka ɖó ǎ. Un hɛn ɔ́ nǎ mɔ xo bo ka na bɛ́ ǎ a?,JML_S408,10.14
+tr_006383,audio/transcribed/tr_006383.wav,Asú ce ɖó azɔn é è nɔ ylɔ́ ɖɔ sida zɔn ɔ́ nyɛ ɔ́ nyɛ ɖó ǎ un hɛn ɔ́ nǎ mɔ adɔgo ɖo gǎnjɛ́wú mɛ ǎ cé?,JML_S217,8.82
+tr_006388,audio/transcribed/tr_006388.wav,"Asú cé nɔ nɔ́ tɛ ɖɛ̌ jí ɖɔ, xwé sín fífá ɔ́ nyɔ̌nu lɛ́ɛ wú wɛ é sín.",JML_S607,8.16
+tr_006403,audio/transcribed/tr_006403.wav,Asú kpó asi kpó lɛ́ɛ kplá sí kɔ nú yěɖée lɛ́ɛ bó ɖo nǔ kó wɛ.,JML_S361,6.18
+tr_006405,audio/transcribed/tr_006405.wav,Asú kpó asi kpó lɛ́ɛ yě wlí alɔ bo hɛn yěɖée lɛ́ɛ.,JML_S528,5.632
+tr_006406,audio/transcribed/tr_006406.wav,Asú kpó asi kpó lɛ́ɛ ɖo aklómɛ bo ɖo tɔ jí bó ɖo yiyi wɛ.,JML_S361,5.4
+tr_006412,audio/transcribed/tr_006412.wav,"Asú kpó asi kpó élɔ lɛ́ɛ ɔ́ lɛ wǔ yětɔn lɛ́ɛ bo ba acɔ́ yětɔn ganjí. Bɔ awu yě dó lɛ́ɛ ɔ́, súnnu ɔ́ dó agbáɖá, nyɔ̌nu ɔ́ ká dó bowunbá bɔ yě lɛ wǔ yětɔn bó wá xweyǐgbe.",JML_S146,11.58
+tr_006417,audio/transcribed/tr_006417.wav,Asú kpó asi kpó élɔ́ ɖó anko bó hɛn alɔ yěɖée tɔn bó ɖo yěɖée sín nukúnmɛ kpɔ́n wɛ.,JML_S358,6.78
+tr_006418,audio/transcribed/tr_006418.wav,Asú kpó asi kpó ɖo aklómɛ bo ɖo yiyi wɛ ɖo tɔ jí bó ɖo nǔ kó wɛ.,JML_S361,7.02
+tr_006433,audio/transcribed/tr_006433.wav,Ataají enɛ́ ɔ́ wɛ e ɖe Jezú Klisu sín xó lɛ́ɛ bǐ tɔ́n ɖe ɖo Benɛɛ to mɛ ɖe.,JML_S396,7.44
+tr_006442,audio/transcribed/tr_006442.wav,Atasi plat ɖokpó macaronie kpo galí nyinya kpó jǎ kpó azin kpó nǔ bǐ xwíí xo kpó ɖó ná.,JML_S358,7.44
+tr_006445,audio/transcribed/tr_006445.wav,"Atavi ce gletoxo mɛ tɔn ɔ́, é nɔ wá kpɔ́n mǐ tɛgbɛ ɖo gan woosun ɔ́ mɛ.",JML_S154,5.82
+tr_006446,audio/transcribed/tr_006446.wav,Ataví ce tɔ́ ce sín nɔví ɔ́ ɖě ɖo gletoxo ɔ́ mɛ ɔ́ é nɔ́ wá kpɔ́n mǐ ɖo alǔunsun gǔdo tɔn lɛ́ɛ bǐ mɛ.,JML_S408,7.32
+tr_006451,audio/transcribed/tr_006451.wav,Ataví ce gosín Togo ɖo sɔ zǎnmɛ bó hɛn alɔgan wá nú mǐ.,JML_S110,7.68
+tr_006453,audio/transcribed/tr_006453.wav,Ataví ce nɔ gosín village bo nɔ wá kpɔ́n mǐ xwe hwenu lɛ́ɛ ɖo woosun ɔ́ mɛ.,JML_S528,9.237
+tr_006459,audio/transcribed/tr_006459.wav,"Ataví ce ée ɖo gletoxo mɛ ɔ́, é nɔ́ wá kpɔ́n mǐ tɛgbɛ ɖo wǒsun ɔ́ mɛ.",JML_S217,6.12
+tr_006461,audio/transcribed/tr_006461.wav,"Ataví ce éé ɖo gletoxo mɛ ɔ́, é nɔ́ wá kpɔ́n mǐ tɛgbɛ ɖo woosun ɔ́ mɛ.",JML_S217,6.96
+tr_006475,audio/transcribed/tr_006475.wav,Atásatɔ́ ɔ́ nɔ́ wa zǎnzǎn gan tɛ́nwe adaɖé mɛ.,JML_S412,6.24
+tr_006483,audio/transcribed/tr_006483.wav,Atá kpó teví kpó è jǎ bó bɛ́ yě ɖó plateau mɛ bɔ ɖuɖutɔ́ wɛ́ kpo.,JML_S358,5.76
+tr_006484,audio/transcribed/tr_006484.wav,"Atá lɛ́ɛ ɔ́, gbadé kpó ayǐkún linfín kpó wɛ yě bló ná.",JML_S412,6.78
+tr_006497,audio/transcribed/tr_006497.wav,"Atán cɛ́fu é é ɖo kalé ɔ́ mɛ tɔn ɔ́, é ɖiga tawun.",JML_S542,5.52
+tr_006508,audio/transcribed/tr_006508.wav,Atán xáɖó e mɛ mǐ ɖe sín gǎn tɔn ɔ́ é ɖiga tawun.,JML_S146,7.26
+tr_006516,audio/transcribed/tr_006516.wav,Atásatɔ́ ɔ́ nɔ́ wá ɖo zǎnzǎn gan tɛ́nwe adaɖé mɛ.,JML_S408,6.0
+tr_006519,audio/transcribed/tr_006519.wav,Atásatɔ́ ɔ́ é nɔ́ wá ɖo zǎnzǎn gan tɛ́nwe adaɖé mɛ.,JML_S408,6.96
+tr_006521,audio/transcribed/tr_006521.wav,"Atásatɔ́ ɔ́, é nɔ́ wá ɖo zǎnzǎn gan tɛ́nwe adaɖé mɛ.",JML_S408,6.78
+tr_006546,audio/transcribed/tr_006546.wav,Atínkpakpaví lɛ́ɛ ɔ́ ɖo tɛn yětɔn mɛ ɖo fí ɖě e è ɖǒ tɛnmɛ nú yě dó é.,JML_S284,13.02
+tr_006577,audio/transcribed/tr_006577.wav,Atínkpavǐ ɖíe è kpá ɖó yɛhwe xɔ mɛ bo ɖo vodún wɛ é.,JML_S451,5.7
+tr_006579,audio/transcribed/tr_006579.wav,"Atínkpavǐ ɛnɛ ɖé lɛ́ɛ bɔ ká ɖo nukɔn yě bǐ tɔn, bɔ nǔɖuɖu ɖ'é mɛ,bɔ yě bló linfín kpó dě kpó bó lɛ́ lɛ́lɛ̌ dó yě.",JML_S514,12.78
+tr_006580,audio/transcribed/tr_006580.wav,"Atínkpavǐ ɛnɛ, ɖíe ká ɛnɛ ɖo nukɔn yětɔn. Hǒxoví lɛ́ɛ sín atínkpavǐ jɛ́n é ná kó nyí.",JML_S168,9.18
+tr_006621,audio/transcribed/tr_006621.wav,"Atínkúnsínsɛ́n ɖě e è nɔ ylɔ́ ɖɔ azɔngwegwe ɔ́, é nyí atínkúnsínsɛ́n ɖé bó nɔ víví.",JML_S303,6.96
+tr_006624,audio/transcribed/tr_006624.wav,Atínkúnsínsɛ́nsatɔ́ ɔ́ é nɔ dín ɖo zǎnzǎn lɛ́ɛ bǐ ɖo gan tántɔn mɛ.,JML_S303,7.98
+tr_006625,audio/transcribed/tr_006625.wav,Atínkúnsínsɛ́nsatɔ́ ɔ́ é nɔ́ gbɔn fí ɖo zǎnzǎn lɛ́ɛ tɛgbɛ bɛ́sín gan tántɔn mɛ.,JML_S303,7.38
+tr_006636,audio/transcribed/tr_006636.wav,"Atínkɛn mímá ɔ́, fata wɛ yě nɔ́ bló gbɔn azɔ̌xwé lɛ́ɛ bǐ.",JML_S358,5.34
+tr_006644,audio/transcribed/tr_006644.wav,Atínkɛn nabí un ka ɖó ná nu éhɔ́nmɛ ɖo gan atɔn mɛ kéze é?,JML_S217,6.54
+tr_006665,audio/transcribed/tr_006665.wav,"Atínkɛnkwínsatɔ́ ɔ́, é nɔ́ sú cɔ́fu tɔn ɖo gan tántɔn gbadanu tɔn mɛ.",JML_S544,6.54
+tr_006667,audio/transcribed/tr_006667.wav,Atínkɛnkwínsatɛn ɔ́ nɔ́ sú hɔn tɔn bɛ́sín gan tántɔn mɛ.,JML_S372,6.48
+tr_006685,audio/transcribed/tr_006685.wav,Atínkɛnsatɔ́ ɔ́ wlán ɖɔ amasinkún ée nɔ ná hlɔ̌nhlɔ́n mɛ ɔ́ ɖo dandanmɛ nú nyɔ̌nu lɛ́ɛ ɖo adɔgo hwenu.,JML_S021,10.2
+tr_006693,audio/transcribed/tr_006693.wav,Atínkɛnsatɛn ɔ́ nɔ́ sú hɔn tɔn ɖo gan tántɔn mɛ gbadanu.,JML_S372,6.66
+tr_006694,audio/transcribed/tr_006694.wav,Atínkɛnsatɛn ɔ́ nɔ́ sú hɔn ɖo gan tántɔn mɛ gbadanu.,JML_S372,7.8
+tr_006703,audio/transcribed/tr_006703.wav,Atínkɛnxwé ɔ́ nɔ́ sú nǔsátɛn tɔn ɖo gan tántɔn mɛ.,JML_S372,5.52
+tr_006710,audio/transcribed/tr_006710.wav,Atínkɛ́nkwín nabí un ɖó ná nu égbe cóbɔ gan atɔn gbadanu tɔn ná xo?,JML_S607,7.8
+tr_006711,audio/transcribed/tr_006711.wav,"Atínkɛ́nkwín ná mɛ ɖo vɔ̌nu mɛ ɔ́, è nɔ bló ɖo dotóxwé lɛ́ɛ",JML_S372,6.42
+tr_006746,audio/transcribed/tr_006746.wav,Atínsínsɛ́n ɖagbe.,JML_S414,5.94
+tr_006748,audio/transcribed/tr_006748.wav,"Atínsínsɛ́n ɖé wɛ, lobo ɖó sin amamú bɔ xo tɔn mɛ ɔ́ kwín ɖe.",JML_S278,5.4
+tr_006751,audio/transcribed/tr_006751.wav,"Atínsínsɛ́n avocat élɔ lɛ́ɛ ɔ́, yě nyɔ́ kpɔ́n tawun wɛ mɛ bó jɛ acɔ́. É ná nyɔ́ pain ɖu ɖésú.",JML_S341,8.1
+tr_006757,audio/transcribed/tr_006757.wav,"Atínsínsɛ́n amamú ɖagbe ɖagbe élɔ lɛ́ɛ ɔ́, yě ká ná nyɔ́ ɖu din a?",JML_S068,6.6
+tr_006763,audio/transcribed/tr_006763.wav,"Atínsínsɛ́n e mɔ wɛ mi ɖe élɔ ɔ́, avocat wɛ é nɔ nyí ɖo flanségbé mɛ. Nyǐkɔ́ tɔn ɖo fɔngbe mɛ ɔ́, è nɔ ylɔ́ ɖɔ azɔnvɔ́.",JML_S021,8.94
+tr_006765,audio/transcribed/tr_006765.wav,Atínsínsɛ́n e yovó flansé lɛ́ɛ nɔ ylɔ́ ɖɔ pasteque é ɖíe. Un yí wǎn ná bó nɔ́ du tawun amɔ̌ un ka tunwun nyǐkɔ́ tɔn dó gbe ce mɛ ǎ.,JML_S022,10.26
+tr_006766,audio/transcribed/tr_006766.wav,Atínsínsɛ́n e yovó nɔ́ ylɔ́ ɖɔ carotte é kpó gbǎtakín kpó chou kpó.,JML_S358,5.82
+tr_006783,audio/transcribed/tr_006783.wav,"Atínsínsɛ́n kɛ́ɖɛ́ wɛ ɖo fí mɛ. Kɛ́nkún, kpɛn, amǎga.",JML_S068,12.84
+tr_006821,audio/transcribed/tr_006821.wav,Atínsínsɛ́n tɛnmɛ tɛnmɛ lɛ́ɛ sín sɔ jí wɛ nyí fí. Carotte ɖe có atínsínsɛ́n ɖěvo lɛ́ɛ lɛ́ xo kpó ɖó ná.,JML_S358,7.32
+tr_006837,audio/transcribed/tr_006837.wav,"Atínsínsɛ́n tɛnmɛ tɛnmɛ ɖo nǔ ɔ́ mɛ, lobɔ bǐ sésé wɛ jló mì, nɛ̌ ná bló gbɔn?",JML_S278,5.58
+tr_006842,audio/transcribed/tr_006842.wav,"Atínsínsɛ́n tɛ́ ká ɖíe? Élɔ ɔ́ nyɛ mɔ kpɔ́n ǎ mɛ, é kpácá dó mì tawun.",JML_S341,5.7
+tr_006844,audio/transcribed/tr_006844.wav,Atínsínsɛ́n tɛ́ lɛ́ɛ ka ɖíe nyɛ mɔ kpɔ́n ǎ mɛ ní mɛɖé ká tunwun hǔn ní bó ɖɔ nú mì bó.,JML_S341,8.28
+tr_006846,audio/transcribed/tr_006846.wav,"Atínsínsɛ́n wunmɛ wunmɛ lɛ́ɛ wɛ è to kwékwe ɖo fínɛ, klé ɖo fínɛ có ɖěvo lɛ́ɛ lɛ́ gɔ́ ná.",JML_S358,7.8
+tr_006847,audio/transcribed/tr_006847.wav,Atínsínsɛ́n wunmɛ wunmɛ lɛ́ɛ ɖo tito jí ɖo fí.,JML_S022,5.34
+tr_006861,audio/transcribed/tr_006861.wav,"Atínsínsɛ́n é yovó nɔ ylɔ́ ɖɔ pastèque é, é nɔ víví tawun.",JML_S358,5.7
+tr_006862,audio/transcribed/tr_006862.wav,Atínsínsɛ́n é è nɔ ɖu dó nu mɛ lɛ́ɛ kɛ́ɖɛ́ wɛ ɖo fínɛ́ bɔ mǐ mɔ kwékwe ɖo ahwan ɔ́ mɛ bɔ nǔ ɖěvo lɛ́ɛ lɛ́ vɔ́ gɔ́ ná.,JML_S146,7.32
+tr_006867,audio/transcribed/tr_006867.wav,"Atínsínsɛ́n ée nɔ ylɔ́ ɖɔ chachap é ɔ́, ɛnɛ mɔ̌ nɛ́ ɖo fínɛ́ nɛ́.",JML_S358,6.12
+tr_006879,audio/transcribed/tr_006879.wav,"Atínsínsɛ́n élɔ lɛ́ɛ nyɔ́ hwankpɛ tawun. Un mɔ tlóló ɔ́, atán jɛ́n wá kɔ nú mì.",JML_S168,8.94
+tr_006884,audio/transcribed/tr_006884.wav,Atínsínsɛ́n élɔ é ɖi glǒ vɔvɔ bɔ è mǎ dó we.,JML_S168,5.88
+tr_006897,audio/transcribed/tr_006897.wav,"Atínsínsɛ́n élɔ ɔ́, é nɔ víví tawun, atínsínsɛ́n élɔ wɛ è nɔ ɖu wɔ̌xúxú ná, bɔ dame ɖokpó wá ɖo xixɔ bó xwe cící. É nyɔ́ kpɔ́n tawun.",JML_S514,9.9
+tr_006910,audio/transcribed/tr_006910.wav,"Atínsínsɛ́n énɛ lɛ́ɛ ɔ́, è jlo ná da yě ɖo nǔdánú ɔ́ jí.",JML_S358,5.46
+tr_006929,audio/transcribed/tr_006929.wav,Atínsínsɛ́n ɖé ɖe lobo nɔ nyí sinmɛ amamú wǔtú bǐ nɔ́ cí kaca kaca.,JML_S278,6.0
+tr_006935,audio/transcribed/tr_006935.wav,"Atínsínsɛ́n ɖě mǐ nɔ́ zé ɖu zǎnzǎn nǔɖuɖu ná ɔ́, kpɛɖé ɖíe.",JML_S110,5.52
+tr_006938,audio/transcribed/tr_006938.wav,Atínsínsɛ́n ɖě wɛ ɔ́ ɖó sinmɛ amamú lobɔ kwín lɛ́ɛ ɖo xo tɔn mɛ.,JML_S278,4.92
+tr_006939,audio/transcribed/tr_006939.wav,"Atínsínsɛ́n ɖě yovó nɔ́ ylɔ́ ɖɔ avocat ɔ́ ɖokpó ɖokpó ɛnɛ wɛ ɖo fínɛ́. Bɔ ɖokpó ɖo fínɛ́ ɔ́, yě sɔ́ bó vlɔ́ ɖó we.",JML_S358,10.08
+tr_006941,audio/transcribed/tr_006941.wav,"Atínsínsɛ́n ɖě è nɔ ylɔ́ ɖɔ avocat ɔ́ ɖíe ǎ cé? Ɖě é nɔ́ víví gbɔn ɔ́, ényí un ka ɖu ɔ́, nǎ si ɖó nǔnywɛ́ bó ná wá tɔ́n hwɛɖɔtɔ́ sɔ a?",JML_S065,11.861
+tr_006946,audio/transcribed/tr_006946.wav,Atínsínsɛ́n ɖětɛ́ un ka sixú ɖu hwenu ɖě un ɖo adɔgo ɔ́.,JML_S372,7.56
+tr_006963,audio/transcribed/tr_006963.wav,Atínsínsɛ́nsatɔ́ ɔ́ nɔ́ gbɔn hɔn mǐtɔn tó ɖo zǎnzǎn lɛ́ɛ bǐ ɖo gan tántɔn vlamɛ.,JML_S146,6.96
+tr_006978,audio/transcribed/tr_006978.wav,Atínsínsɛ́nsatɛn ɖokpó wɛ mǐ ɖe ɖo fí. Súnnu ɖokpó nyɔ̌nu ɖokpó ɖo agban ɔ́ kɔn yě ná ba nǔ é ba wɛ yě ɖe ɔ́ ɖěbǔ kpo ǎ.,JML_S168,11.46
+tr_006993,audio/transcribed/tr_006993.wav,Atínsɛ́ntɔ́ ɔ́ nɔ bɛ́ azɔ̌ tɔn wiwa ɖo gan tántɔn mɛ zǎnzǎn.,JML_S372,7.8
+tr_006995,audio/transcribed/tr_006995.wav,Atínzɔ́watɔ́ lɛ́ɛ wɛ ɖo azɔ̌ wa wɛ ɖo atín lɛ́ɛ wú.,JML_S396,6.3
+tr_007001,audio/transcribed/tr_007001.wav,Atínzɛtɔ́ ɔ́ zé ganxixo atɔn ɖó te cóbó wá to avɔgban mǐtɔn ɔ́.,JML_S303,7.32
+tr_007022,audio/transcribed/tr_007022.wav,Avɔ e yovó ylɔ́ ɖɔ drapeau bɔ é nɔ zé République democratique de congo sín afɔ ɖó te é.,JML_S358,6.06
+tr_007036,audio/transcribed/tr_007036.wav,Avɔ élɔ ɔ́ alǒkanxwé MTN tɔn ɖě nɔ́ ná xlɛ́ ɖɔ è nɔ bló mobile Money ɖo fí é.,JML_S358,6.6
+tr_007038,audio/transcribed/tr_007038.wav,Avɔ élɔ ɔ́ é wɛ́ nɔ sɔ́ to é nyí Togo é sín afɔ ɖó te ɖo gbɛ ɔ́ mɛ.,JML_S358,5.64
+tr_007041,audio/transcribed/tr_007041.wav,Avɔ élɔ́ ɔ́ é wɛ nɔ sɔ́ to e nyí Togo é sín afɔ ɖó te.,JML_S358,5.4
+tr_007045,audio/transcribed/tr_007045.wav,Avɔ ɖagbe ɖagbe lɛ́ɛ wɛ gɔ́ fí ɖě nyɔ̌nu lɛ́ɛ nɔ́ ba ɔ́ wɛ. Yě nyɔ́ kpɔ́n tawun.,JML_S514,7.44
+tr_007047,audio/transcribed/tr_007047.wav,"Avɔ ɖagbe ɖagbe tɛ́ ká ɖíe? Avɔ élɔ ɔ́, yě nyɔ́ ɖɛkpɛ tawun wɛ mɛ, é jɛ xá bɔ un ná xɔ nú asi ce ɖésú.",JML_S514,7.26
+tr_007049,audio/transcribed/tr_007049.wav,Avɔ ɖé wɛ lobɔ è ɖe kinnikínní janwuntá ɖ'é ji lobɔ é hɛn jivǐ.,JML_S278,5.16
+tr_007055,audio/transcribed/tr_007055.wav,"Avɔhɛnnúgbá e nɔ nɔte ɖo xɔmɛ ɔ́ mɛ wɛ un sɔ́ avɔ ce ɖó, avɔhɛnnú ɖaxó ɔ́ mɛ un sɔ́ dó.",JML_S021,7.74
+tr_007062,audio/transcribed/tr_007062.wav,Avɔsatɔ́xwé ɖíe bɔ avɔ tɛnmɛ tɛnmɛ alɔkpa alɔkpa lɛ́ɛ bǐ ɖo fínɛ.,JML_S358,5.7
+tr_007094,audio/transcribed/tr_007094.wav,"Awu e un ná dó yi azɔ̌mɛ sɔ ɔ́, égbe wɛ un nɔ to bǐ xwíí ɖó ayǐ.",JML_S361,5.4
+tr_007120,audio/transcribed/tr_007120.wav,"Awu yɔ̌yɔ́ élɔ́ ɖě bló mi ɖe ɔ́, mi dó jɛ̌ é mɛ.",JML_S408,5.22
+tr_007131,audio/transcribed/tr_007131.wav,"Awu élɔ ɖě bló a ɖe ɔ́, zě jɛ̌kwín lobo dó gbɔn awu ɔ́ mɛ.",JML_S408,5.88
+tr_007135,audio/transcribed/tr_007135.wav,"Awu ɖě un já dó yi azɔ̌mɛ ayǐtéhɔ̌nnu ɔ́, un ko ba sín gbadanu ɖ'ayǐ.",JML_S278,6.06
+tr_007141,audio/transcribed/tr_007141.wav,"Awutɔnúmɛtɔ́ élɔ ɔ́, nǎ blɛ́ we ǎ, é tɔ nǔ nú we hǔn, yí mlɔ́ ayǐ bó zé afɔ dǒ.",JML_S110,6.9
+tr_007143,audio/transcribed/tr_007143.wav,Awěwe jɔhɔn ɔ́ nɔ́ fá bo nɔ syɛ́n tawun ɖo hwenu e xwe kpo sun ɖokpó é.,JML_S021,8.76
+tr_007147,audio/transcribed/tr_007147.wav,"Awǎ agbasa élɔ jí ɔ́, afi a ma ɖó kwɛ́. A nǎ mɔ puce ɖokpó xɔ jɛ́n wɛ, ɖó yě bǐ wɛ ɖo fínɛ́ mtn wɛ a, moov wɛ a, celtiis wɛ a? Yě bǐ wɛ ɖo fínɛ́.",JML_S068,13.86
+tr_007149,audio/transcribed/tr_007149.wav,Awǎ ɖíɖó ɔ́ bǐ nɔ́ wá ɖé kpo bɛ́sín ganxixo ko nukún atɔn zǎnmɛ tɔn mɛ.,JML_S417,11.4
+tr_007167,audio/transcribed/tr_007167.wav,Awǎjíjɛ wɛ é nyi nú e ní mɔ xɔ́ntɔn mɛtɔn ɖě e ko mɔ sín hweɖénu ɔ́.,JML_S370,5.675
+tr_007179,audio/transcribed/tr_007179.wav,Awǐi atɔn nǎwe e nɔ nɔ xɔ mǐtɔn kpá fí ɔ́ tɔn lɛ́ɛ ɔ́ síbígbe ɖě wáyi ɔ́ ɖo gan we mɛ kéze é wɛ yě jɔ.,JML_S358,8.58
+tr_007180,audio/transcribed/tr_007180.wav,"Awǐi atɔn nǎwe ɖě ɖo akpá ce ɔ́ tɔn lɛ́ɛ ɔ́, è ji yě ɖo síbígbe ɖě wáyi ɔ́ gan we mɛ.",JML_S408,8.1
+tr_007187,audio/transcribed/tr_007187.wav,Awǐi fún wiwi kpó wěwé kpó nɔ élɔ́ ɔ́ tɛ́ dó dǎwe ɔ́ sín afɔ wú.,JML_S358,5.76
+tr_007195,audio/transcribed/tr_007195.wav,Awǐi mɛ e ɖo xɔ mǐtɔn kpá ɔ́ tɔn ɔ́ kpó ɖo hweví sisɔ mǐtɔn fin wɛ.,JML_S412,6.6
+tr_007196,audio/transcribed/tr_007196.wav,Awǐi nǎwe e ɖo xwé ce gbe kpá ɔ́ tɔn jí vǐ atɔn síbígbe e wáyi ɔ́ ɖo gan we mɛ hwemɛ tɔn.,JML_S361,7.38
+tr_007197,audio/transcribed/tr_007197.wav,"Awǐi nɔví nyɔ̌nu e ɖo akpá ce tɔn ɔ́, síbígbe e wáyi ɖo gbadanu gan we mɛ wɛ è ji yě mɛ atɔn lɛ́ɛ.",JML_S021,10.56
+tr_007200,audio/transcribed/tr_007200.wav,Awǐi wegɔ́ mǐtɔn tɔn é nɔ fin hweví sisɔ mǐtɔn lɛ́ɛ ɔ́ é kpó ɖo finfin wɛ.,JML_S146,6.54
+tr_007209,audio/transcribed/tr_007209.wav,"Awǐi élɔ, a nǎ gbɔ kpínkpɔ́n mì a? A ɖu nǔ ǎ é, è nǎ we nǔɖuɖu a? Wǎ yí.",JML_S136,6.24
+tr_007217,audio/transcribed/tr_007217.wav,"Awǐilawo mɛ e kpódó nyɛ kpó ɖo kpɔ́ ɔ́ tɔn ɔ́, é lɛ́ vɔ́ lɛ́ fin hweví sisɔ ɔ́.",JML_S131,8.7
+tr_007226,audio/transcribed/tr_007226.wav,Awɔntín Kwabená tɔn ɖo kanjɔ sa wɛ hwenu ɖě gbɛmɛ ɔ́ é nɔ́ xwí é.,JML_S284,8.46
+tr_007245,audio/transcribed/tr_007245.wav,"Axi ayijɛdo tɔn élɔ́ ɔ́ é gbá mɔ é nyɔ́ kpɔ́n tawun wɛ mɛ, bɔ é jɛ acɔ, bɔ é zé mǐ sɔ́ sú tawun.",JML_S341,9.24
+tr_007248,audio/transcribed/tr_007248.wav,Axi bɔ è to nǔ lɛ́ɛ bǐ dó akánta ɖě yovó lɛ́ɛ ɖésú nɔ́ zán ɔ́ jí.,JML_S358,5.64
+tr_007251,audio/transcribed/tr_007251.wav,Axi dantɔkpá tɔ́n ɔ́ bɛ́sín gan tántɔn mɛ zǎnzǎn wɛ é nɔ́ jɛ jijɛ jí.,JML_S358,5.46
+tr_007256,audio/transcribed/tr_007256.wav,Axi e mɛ è nɔ sa hweví ɖe ɔ́ nɔ́ hun hɔn tɔn kɛ́ bɛ́sín gan tɛ́nnɛ mɛ bó nɔ sú ɖo gbadanu lɛ́ɛ bǐ ɖo gan tɛ́nnɛ mɛ.,JML_S372,10.68
+tr_007260,audio/transcribed/tr_007260.wav,Axi e mɛ è nɔ xɔ atínkúnsínsɛ́n lɛ́ɛ kpódó mǎ lɛ́ɛ kpó ɔ́ é ɖo vo nú ɖě mɛ è nɔ xɔ nǔ dídó lɛ́ɛ ɖe ɔ́.,JML_S303,9.06
+tr_007270,audio/transcribed/tr_007270.wav,Axi e è nɔ ylɔ́ ɖɔ dépot Parakou tɔn ɔ́.,JML_S612,5.22
+tr_007274,audio/transcribed/tr_007274.wav,Axi égbé zǎnzǎn tɔn ɔ́ é jɛ tawun bɔ mǐ mɔ nǔsatɔ́ ée ba ná sa nǔ lɛ́ɛ é.,JML_S303,9.0
+tr_007278,audio/transcribed/tr_007278.wav,Axi gbadanu tɔn ɔ́ é nɔ́ bɛ́ ɖo gan tɛ́nwe zǎn mɛ tɔn mɛ.,JML_S514,7.5
+tr_007281,audio/transcribed/tr_007281.wav,Axi gbe wɛ ka nyí égbé a. Mɛ lɛ́ɛ sukpɔ́ tawun wɛ mɛ.,JML_S569,5.64
+tr_007295,audio/transcribed/tr_007295.wav,Axi jijɛ zǎn ɔ́ mɛ tɔn nɔ bɛ sín gan tɛ́nwe mɛ gbadanu.,JML_S372,6.66
+tr_007297,audio/transcribed/tr_007297.wav,Axi jijɛ élɔ mɛ ɔ́ mɛ ɖokpó ɖokpó nɔ sa nǔ tɔn ɖě jló e ɔ́.,JML_S372,7.44
+tr_007298,audio/transcribed/tr_007298.wav,"Axi jijɛ ɖaxó ɖokpó ɖíe. Yě sukpɔ́ tawun, nǔsatɔ́ lɛ́ɛ ɖo vo nǔxɔtɔ́ lɛ́ɛ ɖésú yi nǔ xɔ gbé. Yě sukpɔ́ ɖésú.",JML_S514,9.24
+tr_007301,audio/transcribed/tr_007301.wav,Axi jɔ axi ɖíe bɔ yě nɔ́ sa nǔjɔnǔ ɖo axi ɔ́ mɛ. É nyɔ́ kpɔ́n bo jɛ acɔ́.,JML_S303,7.32
+tr_007302,audio/transcribed/tr_007302.wav,"Axi kléwún ɖé wɛ ɖo jijɛ wɛ ɖo alitó fí mɛ bɔ un mɔ ɖɔ mɛ ɖokpó ɖokpó tɛ́ agban yětɔn lɛ́ɛ bo ɖo nǔ sa wɛ, fí ɔ́ ka nyɔ́ ɖésú.",JML_S021,10.56
+tr_007312,audio/transcribed/tr_007312.wav,"Axi mǐtɔn lɛ́ɛ mɛ ɔ́, nǔsisa sukpɔ́ nɔ́ ɖe ǎ bɔ é sín akwɛ́ ma ɖó toví lɛ́ɛ tɔn wú.",JML_S303,10.86
+tr_007316,audio/transcribed/tr_007316.wav,"Axi mǐtɔn ɔ́ nɔ kɛn ɖo dix-neuf heures sín gan mɛ. Ɛɛn, é wɛ é nɔ kɛn ɖó.",JML_S396,6.06
+tr_007321,audio/transcribed/tr_007321.wav,Axi tɔkpá tɔn ɔ́ é wá bɛ́ jijɛ ɖo gan tántɔn mɛ zǎnzǎn lɛ́ɛ tɔn.,JML_S514,6.3
+tr_007327,audio/transcribed/tr_007327.wav,"Axi wegɔ e nyí axi ɖaxó ɖo kplákú toxo ɔ́ mɛ ɔ́, é ɖíe.",JML_S361,6.18
+tr_007360,audio/transcribed/tr_007360.wav,Axi yɔyɔ̌ yɔyɔ̌ ɖě gbá wɛ togán mǐtɔn ɖe lɛ́ɛ é ɖíe mɛ.,JML_S569,5.7
+tr_007368,audio/transcribed/tr_007368.wav,Axi yɔyɔ̌ élɔ ɖě yě bló din ɔ́ é nyɔ́ hwankpɛ tawun bɔ zogbɛ́n gbɔn fí bǐ.,JML_S456,6.6
+tr_007379,audio/transcribed/tr_007379.wav,"Axi yɔ̌yɔ́ e è gbǎ lɛ́ɛ ɖě ɖíe: é nyɔ́ kpɔ́n káká, marché moderne wɛ è nɔ ylɔ́ ɖɔ, mi kpɔ́n ɖě é fɛ́wǔ bó jɛ acɔ́ gbɔn ɔ́.",JML_S399,9.42
+tr_007383,audio/transcribed/tr_007383.wav,"Axi yɔ̌yɔ́ ɖokpó nɛ́, e hɛn ɔ́ è nɔ gán mɔ̌to dó nukɔn tɔn. Bɔ è byɔ́ xɔ tɔn mɛ ɔ́ è nɔ xɔ nǔ e ba wɛ è ɖe lɛ́ɛ bǐ.",JML_S358,8.94
+tr_007385,audio/transcribed/tr_007385.wav,"Axi yɔ̌yɔ́ ɖě togán mǐtɔn Talon gbá din ɔ́, yě sɔ́ nɔ jɛ tagba gěgé có ná nɔ mɛ ǎ.",JML_S278,7.14
+tr_007386,audio/transcribed/tr_007386.wav,"Axi yɔ̌yɔ́ ɖě togán mǐtɔn gbá din nú nǔsatɔ́ lɛ́ɛ ɔ́, é nyɔ́ kpɔ́n tawun lobo fɛ́ wǔ.",JML_S278,5.94
+tr_007391,audio/transcribed/tr_007391.wav,Axi zǎn ɔ́ mɛ tɔn nɔ bɛ́ bɛ́sín gan tɛnwe mɛ.,JML_S372,5.64
+tr_007411,audio/transcribed/tr_007411.wav,Axi é nyí supermarché élɔ ɔ́ é nyɔ́ kpɔ́n tawun wɛ mɛ.,JML_S341,5.76
+tr_007424,audio/transcribed/tr_007424.wav,"Axi égbé tɔn ɔ́, nǔsatɔ́ lɛ́ɛ wá bó ɖo awǎjijɛ mɛ tawun.",JML_S278,5.82
+tr_007426,audio/transcribed/tr_007426.wav,"Axi élɔ axi ɖaxó tawun wɛ. E ɖi axi mǐtɔn Bohicon sín axi ɔ́. E nyɔ́ ɖɛkpɛ tawun bɔ nǔxɔtɔ́, nǔsatɔ́ lɛ́ɛ yě ɖo kpɔ́ɔ́ ɖo axi ɔ́ mɛ bó ɖó nǔ xɔ wɛ bó ɖo nǔ sa wɛ.",JML_S514,13.8
+tr_007429,audio/transcribed/tr_007429.wav,"Axi élɔ ká já ɖi axi ɖokpó nú mì mɛ, é já ɖi aximɛ ɖésú ɖésú sín ali ɔ́ nú mì.",JML_S396,5.88
+tr_007431,audio/transcribed/tr_007431.wav,"Axi élɔ mɛ wɛ mǐ nɔ́ wá bó nɔ́ wá xɔ nǔ tɛnmɛ tɛnmɛ, ɖadónú kpódó sin nunu lɛ́ɛ kpó.",JML_S372,9.06
+tr_007432,audio/transcribed/tr_007432.wav,"Axi élɔ mɛ wɛ è nɔ mɔ ahan, ami, súkle, nǔ lɛ́ɛ nǔ lɛ́ɛ.",JML_S278,5.04
+tr_007435,audio/transcribed/tr_007435.wav,"Axi élɔ mɛ ɔ́ è nɔ mɔ nǔ lɛ́ɛ bǐ xɔ. Timáti, gbǎtakín, ayoma, feví.",JML_S372,8.52
+tr_007455,audio/transcribed/tr_007455.wav,Axi élɔ ɔ́ nyɔ́ kpɔ́n tawun wɛ mɛ. Yě tá zogbɛ́n zǎnmɛ tɔn lɛ́ɛ bɔ é nyɔ́ kpɔ́n káká. Axi ɖagbe aflika tɔn.,JML_S399,11.7
+tr_007480,audio/transcribed/tr_007480.wav,"Axi élɔ ɔ́, é ɖo jijɛ wɛ ɖěbǔ ǎ mɛ, fí lɛ́ɛ bǐ wɛ cí tóó. Vlavo é ná kó nyí azǎn tɔn gbe wɛ ǎ.",JML_S341,9.54
+tr_007493,audio/transcribed/tr_007493.wav,Axi élɔ́ ɔ́ mɛ jɛ́n wɛ nɔ ce nɔ wá xwlé axi ɖe tɛgbɛ. Nǔ e ba mǐ ɖe lɛ́ɛ bǐ wɛ mǐ nɔ́ mɔ́ ɖo axi ɔ́ mɛ.,JML_S110,10.98
+tr_007497,audio/transcribed/tr_007497.wav,"Axi élɔ́ ɔ́ nyɔ́ ɖɛkpɛ tawun wɛ mɛ bɔ nǔ lɛ́ɛ sukpɔ́ ɖ'é mɛ, nǔ tɛnmɛ tɛnmɛ lɛ́ɛ. Kpɔ́n ɖě yě sɛ acɔ́...",JML_S553,8.28
+tr_007503,audio/transcribed/tr_007503.wav,Axi élɔ́ ɖi Dantɔkpáximɛ mɛ é jɛ ɖésú bɔ yě hɛn atínsínsɛ́n tɛnmɛ tɛnmɛ wá bɔ gbɛtɔ́ lɛ́ɛ gɔ́ axi ɔ́ mɛ bɔ é vɛ́ jlɛ́.,JML_S021,11.82
+tr_007506,audio/transcribed/tr_007506.wav,"Axi élɔ́ ɖě e yě ká bló din e ɔ́, é nyɔ́ hwankpɛ tawun bo kló. A hɛn ɔ́ a nǎ mɔ nǔ e jló we lɛ́ɛ é bǐ ɖo axi ɔ́ mɛ.",JML_S456,8.7
+tr_007510,audio/transcribed/tr_007510.wav,Axi ɔ́ bǐ nɔ́ kɛn lobo nɔ́ cí tóó ɖo gbadanu zǎn gan tɛ́nwe gúdo.,JML_S408,5.82
+tr_007511,audio/transcribed/tr_007511.wav,Axi ɔ́ bǐ nɔ́ kɛn ɖo gbadanu gan tɛ́nwe gúdo.,JML_S408,5.7
+tr_007533,audio/transcribed/tr_007533.wav,Axi ɔ́ mɛ nɔ jɛ vɔ̌ ɖo gan tɛ́nwe mɛ gbadanu lɛ́ɛ.,JML_S372,7.26
+tr_007534,audio/transcribed/tr_007534.wav,Axi ɔ́ mɛ nɔ wá cí xwíí hwenu e gan tɛ́nwe gbadanu tɔn xo gúdo ɔ́.,JML_S542,6.6
+tr_007543,audio/transcribed/tr_007543.wav,Axi ɔ́ nɔ kɛn ɖo gan tɛ́nwe mɛ gúdo.,JML_S372,6.3
+tr_007545,audio/transcribed/tr_007545.wav,Axi ɔ́ nɔ xwɛ ɖo gbadanu gan tɛ́nwe mɛ wáyi.,JML_S547,7.14
+tr_007583,audio/transcribed/tr_007583.wav,Axi ɖagbe ɖagbe ɖé axisinɔ lɛ́ɛ ɖo axi ɔ́ mɛ bó tɛ́ agban yětɔn tɛnmɛ tɛnmɛ lɛ́ɛ.,JML_S165,9.72
+tr_007585,audio/transcribed/tr_007585.wav,"Axi ɖaxo mɛ bɔ yě ɖo hweví sá wɛ, timáti. Bɔ mɛ lɛ́ɛ ɖo axi ɔ́ tɛntin gbɔn wɛ.",JML_S358,6.84
+tr_007604,audio/transcribed/tr_007604.wav,Axi ɖaxó é mɛ è nɔ sa jinukún tɛnmɛ tɛnmɛ lɛ́ɛ ɖe ɔ é ɖíe.,JML_S358,5.82
+tr_007610,audio/transcribed/tr_007610.wav,Axi ɖaxó ɖokpó jɛ bɔ axisinɔ lɛ́ɛ ɖo axi ɔ́ mɛ bo ɖo nǔ tɛnmɛ tɛnmɛ lɛ́ɛ bǐ sa wɛ.,JML_S165,11.4
+tr_007615,audio/transcribed/tr_007615.wav,Axi ɖaxó ɖé mɛ wɛ bɔ dǎwe ɔ́ nɔ́ sa hweví lobo hɛn hweví ɖaxó ɖé bó ɖo jijlá wɛ.,JML_S278,5.58
+tr_007616,audio/transcribed/tr_007616.wav,Axi ɖaxó ɖé mɛ wɛ bɔ fí ɖě dadá ɔ́ ɖe ɔ́ atínsínsɛ́n kɛ́ɖɛ́ wɛ gbɔn aɖusí amyɔ.,JML_S278,5.52
+tr_007618,audio/transcribed/tr_007618.wav,"Axi ɖaxó ɖé mɛ wɛ un wá yi tɔ́n jɛ mɛ éhɔ́nmɛ e bɔ nǎjinɔ mǐtɔn ɖokpó ɖo ayǐjínjɔ́n bó ɖo hweví sa wɛ. Mɛ ɖěvo lɛ́ɛ tɛ́ awɛ bo ɖé sá,mɛ ɖévo lɛ́ɛ lɛ́ vɔ́ ɖo mǎsa. Ayoma mǐtɔn énɛ ɔ́ sá wɛ.",JML_S146,13.8
+tr_007621,audio/transcribed/tr_007621.wav,"Axi ɖaxó ɖíe, è nɔ sa nyibú lan ɖ'é mɛ cóbɔ ɖadónú nɔ ɖésú ka lɛ́ ɖo akpá tɔn.",JML_S358,6.6
+tr_007634,audio/transcribed/tr_007634.wav,"Axi ɖě e mɛ wɛ è nɔ xɔ nǔ ɖe lɛ́ɛ ɔ́, nyɔ̌nu kpódó súnnu kpó bǐ ɖadónú lɛ́ɛ ɖo axi ɔ́ mɛ.",JML_S284,10.62
+tr_007635,audio/transcribed/tr_007635.wav,"Axi ɖě mɛ yě nɔ́ sa hweví ɖe, yě nɔ́ hun hɔn gan tɛ́nnɛ mɛ zǎnzǎn lobo nɔ sú hɔn gan tɛ́nnɛ mɛ gbadanu.",JML_S278,6.18
+tr_007636,audio/transcribed/tr_007636.wav,Axi ɖě mɛ é nɔ ylɔ́ ɖɔ Aïdjèdo ɔ́ ɖíe mɔ sɛ́ do wɛ un ɖe e.,JML_S451,5.7
+tr_007643,audio/transcribed/tr_007643.wav,"Axi ɖě è nɔ ylɔ́ ɖɔ azɛkɛ́ ɖo Paraku ɔ́ ɖíe. Axi élɔ mɛ ɔ́, è nɔ mɔ nǔ sukpɔ́.",JML_S456,6.42
+tr_007645,audio/transcribed/tr_007645.wav,Axijijɛ zǎn ɔ́ mɛ tɔn nɔ́ bɛ́ ɖo gbadanu lɛ́ɛ ɖo gan tɛ́nwe mɛ.,JML_S372,6.96
+tr_007646,audio/transcribed/tr_007646.wav,"Axijijɛ égbe tɔn ɔ́, axi ɔ́ jɛ dó nǔsatɔ́ awakanmɛ ma kú nɔ lɛ́ɛ wútu.",JML_S408,6.96
+tr_007662,audio/transcribed/tr_007662.wav,"Aximɛ e è nɔ sa hweví lɛ́ɛ ɖe ɔ́, yě nɔ́ hun hɔn bɛ́sín neuf heures bo nɔ fó vingt et un heure.",JML_S396,8.1
+tr_007663,audio/transcribed/tr_007663.wav,Aximɛ fí e un nɔ sa awu ɖe kpódó nǔ ɖě nyɔ́ kpɔ́n kpó lɛ́ɛ kpó lɛ́ɛ ɖíe. Fí ɖě afɔkpa lɛ́ɛ nɔ nɔ lɛ́ɛ ɖésú nɛ́.,JML_S396,7.02
+tr_007678,audio/transcribed/tr_007678.wav,Aximɛ wɛ a gosín a? Timáti lɛ́ɛ ɔ́ ká ɖe kwɛ́ kpo kpɛɖé a?,JML_S217,6.66
+tr_007684,audio/transcribed/tr_007684.wav,"Aximɛ wɛ mi wǎ bó mɔ nǔɖuɖu, atínsínsɛ́n, atínsínsɛ́n lɛ́ɛ ɔ́ bó ɖo xixɔ wɛ.",JML_S284,13.38
+tr_007685,audio/transcribed/tr_007685.wav,"Aximɛ wɛ mǐ wa bó wa xwe nú xɔ gbe, bɔ mǐ mɔ nyɔ̌nu lɛ́ɛ ɔ́, yě ɖo nǔ sa wɛ: tomáti, mǎsa kpódó nǔ lɛ́ɛ nǔ lɛ́ɛ kpó.",JML_S284,13.2
+tr_007693,audio/transcribed/tr_007693.wav,"Aximɛ wɛ nyí fí élɔ, axi e mɛ è nɔ sa mǎsa, choux, salade nǔ lɛ́ɛ nǔ lɛ́ɛ kpó é.",JML_S131,8.4
+tr_007702,audio/transcribed/tr_007702.wav,"Aximɛ wɛ é ɖé, bó ɖo nǔ sa wɛ. Siká, jɛ̌ kpó avɔ kpó sa wɛ Maman ɔ́ ɖe.",JML_S399,7.62
+tr_007710,audio/transcribed/tr_007710.wav,Aximɛ ɖo jijɛ ɖo fínɛ bɔ gbɛtɔ́ lɛ́ɛ ɖ'é mɛ bó ɖo nǔ xɔ wɛ tɛnmɛ tɛnmɛ.,JML_S451,5.46
+tr_007727,audio/transcribed/tr_007727.wav,Aximɛ ɖíe wɛ a? Égbe axi gbe wɛ a? Un tunwun ɖ'ayǐ ǎ mɛ.,JML_S412,5.58
+tr_007733,audio/transcribed/tr_007733.wav,Aximɛ ɖíe. Aximɛ ée e nɔ sa wěma e yɔkpɔ́ kpó mɛxó kpó nɔ xa lɛ́ɛ ɖíe.,JML_S361,7.02
+tr_007757,audio/transcribed/tr_007757.wav,"Axixwlétɛn ɖé ɖíe, bɔ mǐ mɔ nǎwe ɖé lɛ́ɛ bɔ yě ɖo te, timáti e ka sukpɔ́ ɖo axi ɔ́ mɛ tawun bó nyɔ́ kpɔ́n ɖésú, axi élɔ è gbǎ bɔ é nyɔ́.",JML_S174,10.44
+tr_007762,audio/transcribed/tr_007762.wav,"Axixɔ ɖagbe ée togán mǐtɔn gbá nú mǐ lɛ́ɛ ɔ́, mǐ ɖo na wlí bo nú yě.",JML_S303,6.96
+tr_007764,audio/transcribed/tr_007764.wav,Axizán wɛ sɔgbe bɔ mǐ yi aximɛ bo xwe nǔ xɔ gbé bɔ mǐ mɔ nǔsatɔ́ tɛnmɛ tɛnmɛ lɛ́ɛ.,JML_S284,9.06
+tr_007766,audio/transcribed/tr_007766.wav,"Axizángbe wɛ kpé nú tɔfinnu lɛ́ɛ bɔ yě tɛ́ agban ɖó tɔjíhún yětɔn mɛ flélé, bǐ wɛ nyɔ́ hwankpɛ bo nyɔ́ kpɔ́n tawun.",JML_S021,11.16
+tr_007769,audio/transcribed/tr_007769.wav,Axwá ɔ́ nɔ́ ɖe kpo tawun gbadanu lɛ́ɛ bɛ́sín gan wǒ ɖokpó mɛ.,JML_S372,6.42
+tr_007782,audio/transcribed/tr_007782.wav,"Axɔsúzɔ́watɛn lɛ́ɛ ná mǐ acɛ, bó nú mǐ ná nɔ́ wa azɔ̌ xá yě ɖo kan nu. Bónú zɔnlin ɖiɖi ná dó sixú ɖe kpó nú mǐ.",JML_S168,12.12
+tr_007792,audio/transcribed/tr_007792.wav,"Axɔ́ ɖě é nyí to tɔn ɔ́ è ɖo ná ɖé kpo dɛ̌dɛ̌ mɛ, dɛ̌dɛ̌ mɛ káká bɔ xwe ɔ́ yě ná ɖo wǐwá wɛ ɔ́.",JML_S417,7.8
+tr_007796,audio/transcribed/tr_007796.wav,"Axɔ́sú lɛ́ɛ ɔ́, un wá yi jɛ yě mɛ bɔ yě xá sɔ́toké jí bó ɖo yíyí we bɔ è kɛ́ awɛ dó ta nú axɔ́sú lɛ́ɛ.",JML_S146,9.42
+tr_007805,audio/transcribed/tr_007805.wav,"Axɔ́sú zogbɛ́n kwɛ́ mǐtɔn ɔ́, mǐ ɖó ná sú cóbɔ sun ɔ́ ná fó mɛ.",JML_S021,8.52
+tr_007808,audio/transcribed/tr_007808.wav,"Axɔ́súzángbe gbadanu e vǐ ce da ayihún ɖo jǐ mɛ fó ɔ́, jɔhɔn ɖaxó ɖě wɛ wá zɔn jǐ tɔn.",JML_S358,6.66
+tr_007817,audio/transcribed/tr_007817.wav,"Axɔ́ɖúɖu to tɔn ɔ́, e nǎ jɛ ɖi ɖekpo jí kpɛɖé kpɛɖé ɖó xwe wɔbǔ wɔbǔ jí.",JML_S358,5.52
+tr_007843,audio/transcribed/tr_007843.wav,Ayihún dída nɔ víví nú yɔkpɔ́vú lɛ́ɛ tawun. Ayihún da yě ɖe ɖo fí tawun.,JML_S475,6.72
+tr_007859,audio/transcribed/tr_007859.wav,"Ayihúndatɛn ɖě mɛ è nɔ lɛ tɔ ɖe ɔ́, nɔ́ hun hɔn tɔn ɖo zǎnzǎn gan tɛ́nwe mɛ bó nɔ́ sú ɖo zǎn gan tɛ́nnɛ mɛ.",JML_S408,7.62
+tr_007861,audio/transcribed/tr_007861.wav,Ayihúndida ɔ́ nyí nǔ ɖé bɔ mɛxó ɖésú ná da ayihún bo ɖe ayi ɖ'ayǐ.,JML_S303,6.66
+tr_007862,audio/transcribed/tr_007862.wav,"Ayihúndída ɖo tɔ mɛ vǐ lɛ́ɛ tɔn ɔ́, é nyɔ́ ǎ. Azɔnkwín nɔ́ ɖ'é mɛ.",JML_S303,6.36
+tr_007872,audio/transcribed/tr_007872.wav,Ayikún wěwé ɖě ɖíe ɖo fí e mɛ. É nyɔ́ ɖɛkpɛ tawun bó nyɔ́ kpɔ́n ɖésú. Tíntɔ́n ɖokpó ɖ'é mɛ ǎ bɔ mɛ ɖokpó lɛ́ɛ wún dó alɔ gogì tɔn we lɛ́ɛ bǐ mɛ.,JML_S514,11.82
+tr_007885,audio/transcribed/tr_007885.wav,Ayikún wewě élɔ wɛ yě nɔ́ ɖa abɔbɔ ná bó nɔ́ ɖu.,JML_S361,5.82
+tr_007926,audio/transcribed/tr_007926.wav,"Ayisɔnmɔ ɔ́ mɔ̌ wɛ un xɔ gbadé mimɛ ce ɔ́ nɛ́, bɔ é víví káká bɔ un ɖo ɖuɖu wɛ bo mɔ bibi ɖé ɖ'é mɛ. Mawu é vɛ́ nú mì tawun gbe ɔ́ gbe.",JML_S412,11.1
+tr_007931,audio/transcribed/tr_007931.wav,Ayoma ati wǒ wɛ un yi xɔ bɔ kɛkɛ́nɔ ɔ́ nɔ́ fɔ we we nú mi.,JML_S365,5.88
+tr_007935,audio/transcribed/tr_007935.wav,Ayí! Gbɔ̌ wɛ mǐ lɛ́ mɔ ɖo nya mǐtɔn élɔ ɔ́ sín agbadé gbo mɛ ǎ? Gbɔ̌ nɔ́ mɔ agbadé gbɔ ǎ mɛ.,JML_S341,8.64
+tr_007938,audio/transcribed/tr_007938.wav,Ayí! Nǎjinɔ mǐtɔn lɛ́ɛ ɖo nǔ sa wɛ ɖo akló mɛ ɖo tɔ jí. É nyɔ́ kpɔ́n tawun wɛ mɛ.,JML_S341,8.64
+tr_007956,audio/transcribed/tr_007956.wav,"Ayǐ hɔ́n zǎnzǎn ɔ́, un nɔ yá wǔ xíyá gbadé ce lɛ́ɛ.",JML_S110,5.34
+tr_007983,audio/transcribed/tr_007983.wav,"Ayǐkplɔ́nú gannɔ ée yovó nɔ́ ylɔ́ ɖɔ râteau é ɔ́, é nɛ́.",JML_S358,5.7
+tr_007987,audio/transcribed/tr_007987.wav,Ayǐkúngban élɔ ɔ́ nǔ kó cikɔ n'i. É sǐ dó nǔ ɖ'é ji bɔ é nyɔ́ ǎ.,JML_S408,5.7
+tr_007996,audio/transcribed/tr_007996.wav,Ayǐkúngban ɔ́ jí má sɔ́ ɖó sin ǎ ɖíe. É ka ná vɛ́ wǔ bɔ é ná lɛ́ wú jinukún ɖěvo mɛ.,JML_S273,6.42
+tr_007999,audio/transcribed/tr_007999.wav,"Ayǐkúngban ɔ́ syɛ́n dín. É ná vɛ́ wǔ nú e nǎ dó nǔ ɖé ɔ́, ɖó ayǐkúngban ɔ́ é syɛ́n dín.",JML_S158,5.94
+tr_008006,audio/transcribed/tr_008006.wav,"Ayǐkúngban ɔ́ xú, yě sixú bló ɖ'é jí ǎ mɛ.",JML_S412,5.88
+tr_008042,audio/transcribed/tr_008042.wav,Azinkpo e jí wɛ è nɔ tɛ́ mɛɖée dó bó nɔ yí jɔ nú ɖɔ è yi piscine é nɛ́.,JML_S358,6.06
+tr_008044,audio/transcribed/tr_008044.wav,Azinkpo e nɔ sɔ́ ɖó xɔgbasá bɔ jǒnɔ wá ɔ́ é nɔ́ jínjɔ́n mɛ é kpódó távo ée è nɔ ylɔ́ ɖɔ guéridon e kpó.,JML_S358,7.68
+tr_008049,audio/transcribed/tr_008049.wav,Azinkpo gǎnjɛwú.,JML_S176,7.56
+tr_008051,audio/transcribed/tr_008051.wav,Azinkpo kpó kɔɖónú kpó ɖě ɖó guéridon bɔ è ba ɔ́ è nɔ zé ɖó xɔgbasá mɛtɔn é.,JML_S358,6.3
+tr_008087,audio/transcribed/tr_008087.wav,"Azinkpo énɛ ɔ lɛ́ɛ ɔ́, din wɛ è blǒ. É wɛ zɔ́n bɔ azinkpo lɛ́ɛ ɖo yɔ̌yɔ́. É jí wɛ mɛ lɛ́ɛ ná jínjɔ́n ayǐ ɖó bó ná ɖu nǔ ɖe ɔ́ nɛ́.",JML_S396,7.56
+tr_008088,audio/transcribed/tr_008088.wav,"Azinkpo ɔ́ gbló ganjí bo lɛ́ nyɔ́ ɖɛkpɛ, é ná jɛ acɔ́ ɖo xɔmɛ tawun wɛ mɛ.",JML_S303,8.1
+tr_008089,audio/transcribed/tr_008089.wav,"Azinkpo ɖagbe ɖagbe lɛ́ɛ wɛ ɖo xɔ élɔ sá, lobɔ távo ɖagbe ɖagbe lɛ́ɛ lɛ́ ɖó é mɛ.",JML_S475,8.94
+tr_008104,audio/transcribed/tr_008104.wav,Azinzɔnnɔ sukpɔ́ ɖo fínɛ́ kpódó dotoo kpó.,JML_S110,5.4
+tr_008126,audio/transcribed/tr_008126.wav,"Azǎn e gbe è nɔ gbɔjɛ́ lɛ́ɛ ɔ́ yě ɖíe, síbígbe kpó vodúnzángbe kpó.",JML_S146,6.84
+tr_008132,audio/transcribed/tr_008132.wav,"Azǎn é nyí xwe gbe lɛ́ɛ ɔ́, è nɔ yá wǔ ɖu nǔ ǎ, ganmɛ nɔ ko dín cóbɔ è nɔ ɖu nǔ.",JML_S408,6.18
+tr_008137,audio/transcribed/tr_008137.wav,Azǎn jɛ ɔ mǐ nɔ́ yi dotóxwé bó nɔ́ yi kpɔ́n ɖɔ hun ɔ́ yi jǐ wɛ a kabǐ é wá do.,JML_S365,6.3
+tr_008142,audio/transcribed/tr_008142.wav,"Azǎn lɛ́ɛ bǐ gbe ɔ́, nyɛ nɔ yi xɔ pain ɖo gan ayizɛ́n mɛ.",JML_S358,5.76
+tr_008145,audio/transcribed/tr_008145.wav,"Azǎn nabí ɖé e é má nyɔ́ nú mì ǎ bɔ un yi dotóxwé bó ɖɔ má yí gbéjé lanmɛ ce kpɔ́n ɔ́, nyɔ̌nu dotóo ɔ́ é zé mí jínjɔ́n ayǐ bó ɖɔ xó nú mì káká bɔ xomɛ hun mì. Gbɛtɔ́ jɔ gbɛtɔ́ wɛ.",JML_S022,12.6
+tr_008154,audio/transcribed/tr_008154.wav,"Azǎn vɔ́ tɔ́ égbé ɖě è mɔ nɔ wà nǔ ɖé ǎ ɔ́, mǐ mɔ xweɖuzángbe janvier tɔn ɖésú ɖ'é mɛ.",JML_S408,7.14
+tr_008157,audio/transcribed/tr_008157.wav,"Azǎn é gbe mɛ̌si lɛ́ɛ yě nɔ́ ɖo fínɛ́ ɔ́ ɖíe: tɛníígbe, azǎngagbe kpán axɔ́súzángbe kpó.",JML_S514,10.92
+tr_008192,audio/transcribed/tr_008192.wav,Azǎn élɔ́ lɛ́ɛ ɖě ɖo wǐwá yi wɛ ɔ́ un ɖo sin sukpɔ́ nu wɛ tawun wɛ mɛ.,JML_S396,6.0
+tr_008204,audio/transcribed/tr_008204.wav,"Azǎn ɖě gbe mɛ̌si ɔ́ nɔ́ ɖo fí xá mǐ hwebǐnu lɛ́ɛ ɔ́: tɛníígbe, azǎngagbe, axɔ́súzángbe.",JML_S284,14.04
+tr_008208,audio/transcribed/tr_008208.wav,Azǎn ɛnɛ ɖíe ɔ́ nú un fɔ́n ɔ́ un nɔ mɔ ɖɔ alɔ ce ɖisí ɔ́ nɔ́ tɛ.,JML_S136,7.62
+tr_008223,audio/transcribed/tr_008223.wav,Azǐin e yě ya ɖo xwe élɔ mɛ ɔ́ kló kwín lobo lɛ́ nyɔ́ kpɔ́n tawun.,JML_S365,5.4
+tr_008236,audio/transcribed/tr_008236.wav,Azǐin ɖíe bɔ é sukpɔ́ káká lo ɔ́ yě ká sɔ́ ɖokpó bó flé dó we bɔ azǐinkwín we wɛ ɖo xo tɔn mɛ.,JML_S404,7.86
+tr_008248,audio/transcribed/tr_008248.wav,Azɔn e syɛ́n bɔ è ma nɔ yá wǔ bɛ́ ǎ é wɛ é yí bɛ́.,JML_S341,6.0
+tr_008249,audio/transcribed/tr_008249.wav,"Azɔn gǔdo tɔn e essence sín kwɛ́ yi do din ɔ́, é kó bló xwe atɔ́ɔ́n mɔ̌.",JML_S358,5.58
+tr_008278,audio/transcribed/tr_008278.wav,Azɔn zan jí hwenu wɛ é nɔ mɔ mɛ e yí wǎn nú mɛ lɛ́ɛ ganjí ɖó mɛ wɛ ná nɔ akpá mɛtɔn.,JML_S278,6.78
+tr_008288,audio/transcribed/tr_008288.wav,Azɔn ɖě é bɛ́ ɔ́ syɛ́n tawun. E ka nɔ́ yá wǔ mɔ́ bɔ gbɛtɔ́ nɔ́ jɛ azɔn énɛ ǎ mɛ.,JML_S468,5.82
+tr_008289,audio/transcribed/tr_008289.wav,"Azɔn, zǎnsúkpɛ sín azɔn e è nɔ ylɔ́ ɖɔ palu ɔ́, azɔn nyanya ɖé wɛ é ka nyí ɖo hwenu e è ɖo xo ɔ́ a?",JML_S065,8.171
+tr_008297,audio/transcribed/tr_008297.wav,"Azɔngbɔnúmɛtɔ́ Dassa tɔn lɛ́ɛ ɔ́, yě nɔ́ zán atíngóto mǐtɔn lɛ́ɛ bó nɔ dó gbɔ zozo koklójónɔ ná.",JML_S278,8.64
+tr_008319,audio/transcribed/tr_008319.wav,Azɔngogwe ɔ́ nǔ wɛ é nyí bó nɔ víví bó nyí atínsínsɛ́n lo ɔ́ ɖé lɛ́ɛ ɖe bo nɔ vɛ́sin tawun.,JML_S278,6.18
+tr_008328,audio/transcribed/tr_008328.wav,"Azɔ̌ bá wɛ un ɖe bo ná wa hǔn, azɔ̌xwé élɔ́ wɛ tɔ́ ce ká wa azɔ̌ ɖe, é ká kó yí gbɔjɛ tɔn bó ɖo xwé gbe. Yě ká sixú yí mì ɖó fí din bɔ má wa azɔ̌ nú yě a ě?",JML_S022,14.34
+tr_008329,audio/transcribed/tr_008329.wav,"Azɔ̌ ce yɔyɔ̌ ɔ́, é kpé nú mì tawun, nǔ ɖagbe wɛ é nyí nú mì.",JML_S507,8.1
+tr_008334,audio/transcribed/tr_008334.wav,"Azɔ̌ e un wa é ɔ́, é víví nú mì tawun. Gǎn e un dó é ɔ́ é ná sínsɛ́n tɔn lo.",JML_S313,9.06
+tr_008350,audio/transcribed/tr_008350.wav,Azɔ̌ mǐtɔn nɔ fó ɖo gbadanu gan ayizɛ́n vlámɛ énɛ lɛ́ɛ ɔ́.,JML_S600,9.12
+tr_008354,audio/transcribed/tr_008354.wav,Azɔ̌ tɛ xwé mɛ wɛ nyi fí? Tomɛ fí jɛn wɛ a? Un ka ɖi ǎ.,JML_S068,6.9

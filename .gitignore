@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.kanbior-env/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# Audio data: large and downloadable from JML-fon-speech-v1
+# (transcribed.csv and splits/ stay tracked: small, and needed to reproduce runs)
+kanbior-asr/sample-data/audio/
+*.wav
+
+# Training outputs and model weights
+kanbior-asr/runs/
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+
+# macOS
+.DS_Store
