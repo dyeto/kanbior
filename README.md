@@ -64,6 +64,7 @@ Re-run it after downloading more audio.
 | `whisper.ipynb` | Plain Whisper-small on a Fon clip (baseline: it doesn't know Fon) |
 | `fon-asr-v6.ipynb` | Runs [finanfa-fon-asr-v6](https://huggingface.co/finanfa-tech/finanfa-fon-asr-v6), plays the clip, compares with the reference transcript |
 | `01-first_finetuning.ipynb` | Fine-tunes Whisper on the splits; reports WER/CER with and without tones |
+| `02-kaggle_full_finetune.ipynb` | Kaggle: whisper-small on all 8 JML archives (~134 h), resumable across sessions via a private HF repo, compared with finanfa-v6 on the same test set. Setup steps are in its first cell |
 
 In `01-first_finetuning.ipynb`, set `RUN` in the configuration cell:
 
