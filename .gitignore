@@ -21,7 +21,9 @@ kanbior-asr/sample-data/audio/
 
 # Training outputs and model weights
 kanbior-asr/runs/
+kanbior-tts/runs/
 *.safetensors
+*.pth
 *.bin
 *.pt
 *.ckpt
