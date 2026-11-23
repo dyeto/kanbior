@@ -28,5 +28,8 @@ kanbior-tts/runs/
 *.pt
 *.ckpt
 
+# Personal files and datasets that are not part of the project
+local-only/
+
 # macOS
 .DS_Store
