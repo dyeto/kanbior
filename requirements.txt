@@ -11,5 +11,11 @@ jiwer>=4.0,<5
 soundfile>=0.14
 numpy>=2.5,<3
 
+# TTS (kanbior-tts/01-first_tts.ipynb); six is a missing dependency of coqui-tts 0.28
+coqui-tts[codec]>=0.28,<0.29
+torchaudio>=2.11
+six>=1.17
+
 # Notebooks
 ipykernel>=7.4
+matplotlib>=3.11,<4

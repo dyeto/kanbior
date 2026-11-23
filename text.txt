@@ -1,0 +1,9 @@
+Rows in CSV: 64,559  | skipped: no audio 0, digits 323, empty 0
+236.4s	24	train: 50,675 clips  105.16 h   390 speakers  -> /kaggle/working/splits/train.csv
+236.4s	25	val  :  6,837 clips   13.98 h   122 speakers  -> /kaggle/working/splits/val.csv
+236.4s	26	test :  6,724 clips   13.98 h   137 speakers  -> /kaggle/working/splits/test.csv
+236.4s	27	
+236.7s	28	train: 50,675 clips,  105.2 h, 390 speakers
+236.7s	29	val  :    300 clips,    0.6 h, 53 speakers
+236.7s	30	test :  6,724 clips,   14.0 h, 137 speakers
+254.8s	31	Starting a new run

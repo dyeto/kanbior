@@ -1,7 +1,8 @@
 # Kanbior
 
 Voice assistant in Fon: ask a question by voice in Fon, hear the answer in Fon.
-This repo currently holds **kanbior-asr**, the Fon speech recognition component.
+This repo currently holds **kanbior-asr**, the Fon speech recognition component, and
+**kanbior-mcore** ("model core"), code shared by all components (e.g. `fon_text.py`: Fon text cleaning and WER normalization).
 See `Kanbior state of the art for Fon speech AI.pdf` for the background and plan.
 
 ## 1. Set up the environment
@@ -49,7 +50,7 @@ From the project root:
 
 ```bash
 cd kanbior-asr
-python prepare_data.py
+python prepare_data.py   # text cleaning comes from kanbior-mcore/fon_text.py
 ```
 
 This keeps only clips whose audio is downloaded, cleans the text (Unicode NFC, removes quotes
@@ -65,6 +66,8 @@ Re-run it after downloading more audio.
 | `fon-asr-v6.ipynb` | Runs [finanfa-fon-asr-v6](https://huggingface.co/finanfa-tech/finanfa-fon-asr-v6), plays the clip, compares with the reference transcript |
 | `01-first_finetuning.ipynb` | Fine-tunes Whisper on the splits; reports WER/CER with and without tones |
 | `02-kaggle_full_finetune.ipynb` | Kaggle: whisper-small on all 8 JML archives (~134 h), resumable across sessions via a private HF repo, compared with finanfa-v6 on the same test set. Setup steps are in its first cell |
+| `kanbior-asr.ipynb` | Tests the latest checkpoint from the HF repo locally (CT2 int8, Kaggle test speakers, WER/CER, training curves) |
+| `03-push_ct2.ipynb` | Converts the latest model to CTranslate2 float16 and pushes it to `kanbior-fon-asr-v1-ct2` for faster-whisper (needs a write token) |
 
 In `01-first_finetuning.ipynb`, set `RUN` in the configuration cell:
 
@@ -73,6 +76,27 @@ In `01-first_finetuning.ipynb`, set `RUN` in the configuration cell:
 - `"full"`: whisper-small, all clips, 4,000 steps. Run on a GPU (e.g. Kaggle T4).
 
 Checkpoints and the final model are saved to `kanbior-asr/runs/` (git-ignored).
+
+## 5. TTS data (`kanbior-tts/`)
+
+Uses the same downloaded audio as the ASR (`kanbior-asr/sample-data`). From the project root:
+
+```bash
+cd kanbior-tts
+python prepare_data.py                       # all speakers with >= 10 min clean audio
+python prepare_data.py --speakers JML_S082   # one voice
+```
+
+It drops noisy, clipped, mostly-silent clips and clips whose speaking rate doesn't match the
+text, then writes `data/speakers.csv` (speakers ranked by clean hours, to choose a voice) and
+`data/train.csv`, `data/val.csv`. Audio measurements are cached in `data/audio_stats.csv`.
+
+Then open `00-listening_check.ipynb` to listen to dropped, borderline and kept clips and the top
+voices, and adjust the thresholds (`python prepare_data.py -h`) if needed.
+
+`01-first_tts.ipynb` is a smoke test: a small multi-speaker VITS (coqui-tts, trained from scratch)
+on 4 speakers for 200 steps on the CPU (~20-30 min on an M2, ~0.5 GB disk). The output is still
+noise or babble; it checks the pipeline before a long GPU run.
 
 ## License and attribution
 
